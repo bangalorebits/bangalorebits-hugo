@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoftedu on Bangalore Bits</title>
+    <link>https://bangalorebits.in/tags/microsoftedu/</link>
+    <description>Recent content in Microsoftedu on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2017 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/tags/microsoftedu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 48: MicrosoftEDU</title>
+      <link>https://bangalorebits.in/2017/05/bb-48-microsoftedu/</link>
+      <pubDate>Sat, 06 May 2017 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2017/05/bb-48-microsoftedu/</guid>
+      <description>&lt;p&gt;&lt;audio controls=&#34;controls&#34; controls style=&#34;width: 450px;&#34; preload=&#34;none&#34; id=&#34;audio_player&#34;&gt;&lt;source  src=&#39;http://bangalorebits.s3.amazonaws.com/2017/BB_EP48-2017-18.mp3&#39; type=&#34;audio/mp3&#34;&gt;  &lt;/audio&gt;
+&lt;BR&gt;
+A brief discussion on MicrosoftEDU, Minecraft, Mixed Reality glasses
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
