@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watchkit on Bangalore Bits</title>
+    <link>https://bangalorebits.in/tags/watchkit/</link>
+    <description>Recent content in Watchkit on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Dec 2014 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/tags/watchkit/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 01: Wearables</title>
+      <link>https://bangalorebits.in/2014/12/bb-01-wearables/</link>
+      <pubDate>Tue, 02 Dec 2014 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2014/12/bb-01-wearables/</guid>
+      <description>&lt;p&gt;&lt;audio controls=&#34;controls&#34; controls style=&#34;width: 450px;&#34; preload=&#34;none&#34; id=&#34;audio_player&#34;&gt;&lt;source  src=&#39;http://bangalorebits.s3.amazonaws.com/2014/BB_E1_2014-49.mp3&#39; type=&#34;audio/mp3&#34;&gt;  &lt;/audio&gt;
+&lt;BR&gt;
+In today&amp;rsquo;s show we take look at the wearable market focusing on products that are trying to differentiate with the help of software like apple watchkit, pebble sdk etc and how developer echo system can propel their innovation.&lt;br /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

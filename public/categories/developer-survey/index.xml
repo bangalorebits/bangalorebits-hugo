@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Survey on Bangalore Bits</title>
+    <link>https://bangalorebits.in/categories/developer-survey/</link>
+    <description>Recent content in Developer Survey on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/categories/developer-survey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 67: Developer Trends 2017</title>
+      <link>https://bangalorebits.in/2017/12/bb-67-developer-trends-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2017/12/bb-67-developer-trends-2017/</guid>
+      <description>&lt;p&gt;&lt;p&gt;
+&lt;audio controls=&#34;controls&#34; controls style=&#34;width: 450px;&#34; preload=&#34;none&#34; id=&#34;audio_player&#34;&gt;&lt;source  src=&#39;http://bangalorebits.s3.amazonaws.com/2016/BB_EP32_2016-38.mp3&#39; type=&#34;audio/mp3&#34;&gt;  &lt;/audio&gt;
+&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to episode BB67 of Bangalore Bits. In today&amp;rsquo;s show we are going to revisit stack exchange developer survey published in march 2017.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

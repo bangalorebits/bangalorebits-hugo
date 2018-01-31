@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nextbillion on Bangalore Bits</title>
+    <link>https://bangalorebits.in/categories/nextbillion/</link>
+    <description>Recent content in Nextbillion on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2017 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/categories/nextbillion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 68: Google for India 2017</title>
+      <link>https://bangalorebits.in/2017/12/bb-68-google-for-india-2017/</link>
+      <pubDate>Fri, 08 Dec 2017 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2017/12/bb-68-google-for-india-2017/</guid>
+      <description>&lt;p&gt;BB68: In today&amp;rsquo;s show we going to deep dive into all the announcements that emerge from &amp;ldquo;Google for India 2017&amp;rdquo; event which happened earlier this week.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breach on Bangalore Bits</title>
+    <link>https://bangalorebits.in/categories/breach/</link>
+    <description>Recent content in Breach on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 May 2016 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/categories/breach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 22: Data Breach and Privacy Law</title>
+      <link>https://bangalorebits.in/2016/05/bb-22-data-breach-and-privacy-law/</link>
+      <pubDate>Fri, 06 May 2016 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2016/05/bb-22-data-breach-and-privacy-law/</guid>
+      <description>&lt;p&gt;&lt;audio controls=&#34;controls&#34; controls style=&#34;width: 450px;&#34; preload=&#34;none&#34; id=&#34;audio_player&#34;&gt;&lt;source  src=&#39;https://bangalorebits.s3.amazonaws.com/2016/BB_EP22_2016-19.mp3&#39; type=&#34;audio/mp3&#34;&gt;  &lt;/audio&gt;
+&lt;BR&gt;
+Data Breach and Privacy Law
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BB 08: India Antitrust Investigation</title>
+      <link>https://bangalorebits.in/2015/09/bb-08-india-antitrust-investigation/</link>
+      <pubDate>Sun, 06 Sep 2015 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2015/09/bb-08-india-antitrust-investigation/</guid>
+      <description>&lt;p&gt;&lt;audio controls=&#34;controls&#34; controls style=&#34;width: 450px;&#34; preload=&#34;none&#34; id=&#34;audio_player&#34;&gt;&lt;source  src=&#39;http://s3-ap-southeast-1.amazonaws.com/bangalorebits/2015/BB_EP6_2015-08.mp3&#39; type=&#34;audio/mp3&#34;&gt;  &lt;/audio&gt;
+&lt;BR&gt;
+Earlier this week The competition Commission of India charged Google for rigging search results let us see how its different from the EU investigation of google ecomerce results.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

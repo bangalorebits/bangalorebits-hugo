@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allo on Bangalore Bits</title>
+    <link>https://bangalorebits.in/tags/allo/</link>
+    <description>Recent content in Allo on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2016 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/tags/allo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 25: I/O: 2016 Part 2</title>
+      <link>https://bangalorebits.in/2016/05/bb-25-i/o-2016-part-2/</link>
+      <pubDate>Mon, 23 May 2016 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2016/05/bb-25-i/o-2016-part-2/</guid>
+      <description>&lt;p&gt;&lt;audio controls=&#34;controls&#34; controls style=&#34;width: 450px;&#34; preload=&#34;none&#34; id=&#34;audio_player&#34;&gt;&lt;source  src=&#39;https://bangalorebits.s3.amazonaws.com/2016/BB_EP25_2016-22.mp3&#39; type=&#34;audio/mp3&#34;&gt;  &lt;/audio&gt;
+&lt;BR&gt;
+Roundup of Hardware, Software announced in Google I/O 2016
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

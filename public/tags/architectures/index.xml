@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architectures on Bangalore Bits</title>
+    <link>https://bangalorebits.in/tags/architectures/</link>
+    <description>Recent content in Architectures on Bangalore Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Nov 2017 15:04:20 +0530</lastBuildDate>
+    
+	<atom:link href="https://bangalorebits.in/tags/architectures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BB 65: Serverless Compute</title>
+      <link>https://bangalorebits.in/2017/11/bb-65-serverless-compute/</link>
+      <pubDate>Thu, 09 Nov 2017 15:04:20 +0530</pubDate>
+      
+      <guid>https://bangalorebits.in/2017/11/bb-65-serverless-compute/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
