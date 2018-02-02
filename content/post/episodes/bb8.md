@@ -2,7 +2,7 @@
 title: "BB 08: India Antitrust Investigation"
 date: 2015-09-06T15:04:20+05:30
 categories:
-- Tech News 
+- Tech News
 - Antitrust-investigation
 tags:
 - antitrust-investigation
@@ -14,7 +14,7 @@ keywords:
 - CCI
 - India Antitrust commission
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb8-thumbnail.jpg
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/v1517410299/bb-episode-assets/bb8-thumbnail.jpg
 
 aliases:
     - /post/128462645974/episode-8-india-antitrust-investigation-indias

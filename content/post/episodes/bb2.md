@@ -14,7 +14,7 @@ keywords:
 - network attached file server
 - free nas
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb2-thumbnail.png
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/v1517410296/bb-episode-assets/bb2-thumbnail.png
 
 aliases:
     - /post/127714545274/episode-2-free-nas-analysis-of-nas-options-for

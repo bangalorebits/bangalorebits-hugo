@@ -3,16 +3,16 @@ title: "BB 09: India Tech News Roundup"
 date: 2015-10-06T21:04:20+05:30
 categories:
 - Tech News
-- India 
+- India
 tags:
 - news
-- india-tech-news
+- Tech-News-India
 
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb-generic-thumbnail.png
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/w_600,h_600,c_fill,r_50/v1517410298/bb-episode-assets/bb-generic-thumbnail.png
 
 aliases:
-    - /post/135428471629/bbep91
+    - /post/135428471629/bb9
     - /episodes/bb9
 ---
 <audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://bbhash.s3.amazonaws.com/2015/Hash_EP2_2015-43.mp3' type="audio/mp3">  </audio>

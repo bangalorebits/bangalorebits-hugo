@@ -14,7 +14,7 @@ keywords:
 - eVidyaloka
 - Venkat Sriraman
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb6-thumbnail.jpg
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/v1517410298/bb-episode-assets/bb6-thumbnail.jpg
 
 aliases:
     - /post/128007211934/episode-6-startup-story-evidyalokaorg

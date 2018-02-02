@@ -17,7 +17,7 @@ keywords:
 - mobile sdk
 - health trackers
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb3-thumbnail.png
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/c_scale,h_741,w_800/v1517410369/bb-episode-assets/bb3-thumbnail.png
 
 aliases:
     - /post/127943617774/episode-3-healthkit-analysis-of-apple-healthkit

@@ -12,7 +12,7 @@ keywords:
 - cloudfoundry
 - cloud computing
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb5-thumbnail.png
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/v1517410298/bb-episode-assets/bb5-thumbnail.png
 
 aliases:
 

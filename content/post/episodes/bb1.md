@@ -20,7 +20,7 @@ keywords:
 - pebble sdk
 - health trackers
 thumbnailImagePosition: left
-thumbnailImage: /static/img/bb1-thumbnail.jpg
+thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/c_scale,f_auto,fl_progressive,h_1200,q_auto,w_800/v1517410308/bb-episode-assets/bb1-thumbnail.jpg
 
 aliases:
     - /post/127713651939/episode-1-wearables-watchkit-pebble-analysis-of
