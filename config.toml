@@ -12,12 +12,9 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-<<<<<<< HEAD
-baseURL = "https://bangalorebits.netlify.com"
-=======
+
 #baseURL = "https://bangalorebits.in"
-baseURL = "http://bangalorebits.netlify.com"
->>>>>>> af5126f429c57e49db277d380132b06407530e4a
+baseURL = "https://bangalorebits.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
