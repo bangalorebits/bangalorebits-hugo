@@ -17,9 +17,9 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "bangalorebits-in"
 # googleAnalytics = "UA-123-45"
-paginate = 100
+paginate = 5
 canonifyurls = true
 
 [permalinks]
@@ -185,8 +185,8 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-   #favicon = "https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/podcast-512.png"
-   favicon =  "../static/img/bb-512.png"
+   favicon = "https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/podcast-512.png"
+
   # Header configuration
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
@@ -242,4 +242,4 @@ canonifyurls = true
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
-     copyright = "<a href=\"https://github.com/bangalorebits\">Next20 Labs LLP</a>"
+     copyright = "<a href=\"https://github.com/bangalorebits\">Bangalore Bits</a>"

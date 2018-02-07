@@ -19,7 +19,7 @@ aliases:
     - /post/127944398504/episode-5-cloud-foundry-introduction-to-cloud
     - /episodes/bb5
 ---
-<audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://s3-ap-southeast-1.amazonaws.com/bangalorebits/2015/BB_EP5_2015-07.mp3' type="audio/mp3">  </audio>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/73920edc?color=f5f5f5' width='100%'></iframe>
 <BR>
 Introduction to cloudfoundry by guest speaker Murali TS
 <!--more-->

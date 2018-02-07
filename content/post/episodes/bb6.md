@@ -20,7 +20,7 @@ aliases:
     - /post/128007211934/episode-6-startup-story-evidyalokaorg
     - /episodes/bb6
 ---
-<audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://s3-ap-southeast-1.amazonaws.com/bangalorebits/2015/BB_EP6_2015-08.mp3' type="audio/mp3">  </audio>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/e36313e7?color=f5f5f5' width='100%'></iframe>
 <BR>
 evidyaloka.org co-founder Venkat Sriraman shares his startup journey.
 

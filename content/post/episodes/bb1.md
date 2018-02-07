@@ -26,7 +26,7 @@ aliases:
     - /post/127713651939/episode-1-wearables-watchkit-pebble-analysis-of
     - /episodes/bb1
 ---
-<audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://bangalorebits.s3.amazonaws.com/2014/BB_E1_2014-49.mp3' type="audio/mp3">  </audio>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/7d3a785a?color=f5f5f5' width='100%'></iframe>
 <BR>
 In today's show we take look at the wearable market focusing on products that are trying to differentiate with the help of software like apple watchkit, pebble sdk etc and how developer echo system can propel their innovation.  
 <!--more-->

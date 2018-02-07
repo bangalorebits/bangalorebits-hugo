@@ -20,7 +20,7 @@ aliases:
     - /post/128462645974/episode-8-india-antitrust-investigation-indias
     - /episodes/bb8
 ---
-<audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://s3-ap-southeast-1.amazonaws.com/bangalorebits/2015/BB_EP6_2015-08.mp3' type="audio/mp3">  </audio>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/bcba99c2?color=f5f5f5' width='100%'></iframe>
 <BR>
 Earlier this week The competition Commission of India charged Google for rigging search results let us see how its different from the EU investigation of google ecomerce results.
 <!--more-->

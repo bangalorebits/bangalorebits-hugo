@@ -23,7 +23,7 @@ aliases:
     - /post/127943617774/episode-3-healthkit-analysis-of-apple-healthkit
     - /episodes/bb3
 ---
-<audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://bangalorebits.s3.amazonaws.com/2014/BB_E3_2014-51.mp3' type="audio/mp3">  </audio>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/96d346fc?color=f5f5f5' width='100%'></iframe>
 <BR>
 In today's show we discuss how apple is turning iPhone(iOS) into personal health care hub with the help of hardware accessories and software development kit like healthkit.
 <!--more-->

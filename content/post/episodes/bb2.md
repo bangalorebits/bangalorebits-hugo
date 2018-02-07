@@ -20,7 +20,7 @@ aliases:
     - /post/127714545274/episode-2-free-nas-analysis-of-nas-options-for
     - /episodes/bb2
 ---
-<audio controls="controls" controls style="width: 450px;" preload="none" id="audio_player"><source  src='http://bangalorebits.s3.amazonaws.com/2014/BB_E2_2014-50.mp3' type="audio/mp3">  </audio>
+<iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/a01371d2?color=f5f5f5' width='100%'></iframe>
 <BR>
 In today's show we discuss about network attached file storage(NAS) options for homes users and a detailed commentary on FreeNAS features as well how it fits in as a best storage solution for multi-platform(OS) homes.
 <!--more-->

@@ -1,0 +1,2336 @@
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Bangalore Bits</title>
+		<link>http://bangalorebits.in/</link>
+		<language>en-us</language>
+		<description>Tech Podcast featuring Subramani Jaisankar &amp; Subramanian Krishnan</description>
+		<image>
+			<title>BangaloreBits</title>
+			<url>http://bbhash.s3.amazonaws.com/assets/bb1400.png</url>
+			<link>http://bangalorebits.in/</link>
+		</image>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+
+
+
+		<item>
+				<title>BB 73: Red Hat to Acquire CoreOS </title>
+				<link>http://bangalorebits.in/post/170536001879/bb73</link>
+				<guid>http://bangalorebits.in/post/170536001879/bb73</guid>
+				<description><![CDATA[
+
+						<p><strong> Red Hat to Acquire CoreOS </strong></p>
+
+						<p>
+						<ul>
+						<li> Red Hat to Acquire CoreOS, Expanding its Kubernetes and Containers Leadership  </li>
+						<li> CoreOS Bet  </li>
+						</ul>
+						</p>
+						</p>
+						<P> <b> Links</b></P>
+
+
+						<P>
+						<ul>
+						<li><a href="https://www.redhat.com/en/about/press-releases/red-hat-acquire-coreos-expanding-its-kubernetes-and-containers-leadership"> Red Hat to Acquire CoreOS, Expanding its Kubernetes and Containers Leadership </a></li>
+
+
+						</ul>
+						</P>
+				]]></description>
+				<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+				<pubDate>Mon, 05 Feb 2018 9:05:23 EST</pubDate>
+				<enclosure url="https://audio.simplecast.com/9242cb84.mp3" type="audio/mpeg" length="29591719"/>
+		</item>
+
+
+        <item>
+            <title>BB 72: CES 2018 </title>
+            <link>http://bangalorebits.in/post/169807750554/bb72</link>
+            <guid>http://bangalorebits.in/post/169807750554/bb72</guid>
+            <description><![CDATA[
+
+                <p><strong> CES 2018 </strong></p>
+
+                <p>
+                <ul>
+                <li> Observations on Technologies & Products appeard in CES 2018  </li>
+                <li> Five themes that emerge out of CES 2018 ( Quantum Computing, IoT Orchestration, Transpotation(Urban mobility),VR, Robotics)  </li>
+                </ul>
+                </p>
+                </p>
+                <P> <b> Links</b></P>
+
+
+                <P>
+                <ul>
+                <li><a href="https://www.ces.tech"> CES 2018 </a></li>
+
+
+                </ul>
+                </P>
+            ]]></description>
+            <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+            <pubDate>Fri, 12 Jan 2018 9:05:23 EST</pubDate>
+            <enclosure url="https://audio.simplecast.com/ba2122f4.mp3" type="audio/mpeg" length="59591719"/>
+        </item>
+
+
+
+		<item>
+				<title>BB 71: Open Source 2017 </title>
+				<link>http://bangalorebits.in/post/169069849294/bb71</link>
+				<guid>http://bangalorebits.in/post/169069849294/bb71</guid>
+				<description><![CDATA[
+
+					<p><strong> Open Source 2017 </strong></p>
+
+					<p>
+						<ul>
+							<li> What are some of the Open source technologies that grabbed healdlines in 2017 ?  </li>
+							<li> Docker Swarm VS Kubernetes. Can we say Kubernetes is inching ahead?   </li>
+							<li> How cloud service providers like Azure trying to adopt & adjust?   </li>
+							<li> AI Everywhere Good, Bad, Evil ?</li>
+							<li> Indian IT Industry laid off 56,000 in 2017, This may just be a start.</li>
+							<li> Hybrid crowd platform for talent spotting - Wipro new outsouring model?  </li>
+							<li> Challanges for a fresh CS Graduate  </li>
+						</ul>
+					</p>
+				</p>
+				<P> <b> Links</b></P>
+
+
+				<P>
+					<ul>
+						<li><a href="https://qz.com/1152683/indian-it-layoffs-in-2017-top-56000-led-by-tcs-infosys-cognizant/"> 56,000 layoffs and counting: India’s IT bloodbath this year may just be the start </a></li>
+						<li><a href="https://economictimes.indiatimes.com/tech/ites/wipro-now-builds-a-hybrid-crowd-for-talent-spotting/articleshow/62236641.cms"> Wipro now builds a Hybrid Crowd for talent-spotting </a></li>
+
+					 </ul>
+				</P>
+				]]></description>
+				<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+				<pubDate>Thu, 29 Dec 2017 9:05:23 EST</pubDate>
+				<enclosure url="https://audio.simplecast.com/360dbd6b.mp3" type="audio/mpeg" length="63591719"/>
+		</item>
+
+
+
+
+
+
+		<item>
+				<title>BB 70: AWS re:INVENT 2017 - IoT </title>
+				<link>http://bangalorebits.in/post/168851395339/bb70</link>
+				<guid>http://bangalorebits.in/post/168851395339/bb70</guid>
+				<description><![CDATA[
+
+						<p>
+						<ul>
+						<li> AWS re:INVENT 2017 - IoT </li>
+						</ul>
+						</p>
+						</p>
+						<P> <b> Links</b></P>
+						<P>
+						<ul>
+						<li><a href="https://aws.amazon.com/iot-core/"> AWS IoT Core </a></li>
+						<li><a href="https://aws.amazon.com/greengrass/">  AWS Greengrass </a></li>
+						<li><a href="https://aws.amazon.com/blogs/aws/aws-iot-device-management/">  AWS IoT Device Management </a></li>
+						<li><a href="https://aws.amazon.com/blogs/aws/in-the-works-aws-sepio-secure-your-iot-fleet/"> AWS IoT Device Defender – Secure Your IoT Fleet </a></li>
+						<li><a href="https://aws.amazon.com/blogs/aws/launch-presenting-aws-iot-analytics/"> AWS IoT Analytics: Delivering IoT Analytics  </a></li>
+						<li><a href="https://aws.amazon.com/about-aws/whats-new/2017/11/aws-greengrass-adds-feature-for-machine-learning-inference/"> AWS Greengrass ML Inference  </a></li>
+						<li><a href="https://aws.amazon.com/blogs/aws/announcing-amazon-freertos/"> Amazon FreeRTOS  </a></li>
+						<li><a href="https://aws.amazon.com/iot-1-click/"> AWS IoT 1-Click  </a></li>
+						</ul>
+						</P>
+				]]></description>
+				<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+				<pubDate>Thu, 23 Dec 2017 9:05:23 EST</pubDate>
+				<enclosure url="https://audio.simplecast.com/589ae017.mp3" type="audio/mpeg" length="63591719"/>
+		</item>
+
+
+        <item>
+            <title>BB 69: AWS re:INVENT 2017 - ML and DeepLens </title>
+            <link>http://bangalorebits.in/post/168714056874/bb69</link>
+            <guid>http://bangalorebits.in/post/168714056874/bb69</guid>
+            <description><![CDATA[
+
+                <p>
+                <ul>
+                <li> AWS re:INVENT 2017 - ML and DeepLens </li>
+
+
+                </ul>
+
+                </p>
+                </p>
+                <P> <b> Links</b></P>
+
+                <P>
+                <ul>
+
+                <li><a href="https://aws.amazon.com/deeplens/"> AWS DeepLens – Deep learning enabled video camera for developers - AWS </a></li>
+                <li><a href="https://aws.amazon.com/blogs/aws/deeplens/">  AWS DeepLens – Get Hands-On Experience with Deep Learning With Our New Video Camera | Amazon Web Services </a></li>
+                <li><a href="https://aws.amazon.com/blogs/aws/sagemaker/">  Amazon SageMaker – Accelerating Machine Learning | Amazon Web Services </a></li>
+                <li><a href="https://aws.amazon.com/transcribe/"> Amazon Transcribe – Automatic Speech Recognition - AWS </a></li>
+
+
+                </ul>
+                </P>
+            ]]></description>
+            <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+            <pubDate>Thu, 14 Dec 2017 9:05:23 EST</pubDate>
+            <enclosure url="https://audio.simplecast.com/9b968163.mp3" type="audio/mpeg" length="63591719"/>
+        </item>
+
+
+<item>
+    <title>BB 68: Google For India 2017 </title>
+    <link>http://bangalorebits.in/post/168713526749/bb68</link>
+    <guid>http://bangalorebits.in/post/168713526749/bb68</guid>
+    <description><![CDATA[
+
+        <p>
+        <ul>
+        <li>  Google For India 2017 </li>
+
+
+        </ul>
+
+        </p>
+        </p>
+        <P> <b> Links</b></P>
+
+        <P>
+        <ul>
+
+        <li><a href="https://www.youtube.com/watch?v=xCkJb8owZv4"> Google For India 2017 </a></li>
+        <li><a href="https://www.blog.google/products/android/introducing-android-oreo-go-edition/">  Introducing Android Oreo (Go edition) with the release of Android 8.1 </a></li>
+        <li><a href="https://www.nytimes.com/2017/12/05/technology/google-india.html">  Google Missed Out on China. Can It Flourish in India? </a></li>
+
+        </ul>
+        </P>
+    ]]></description>
+    <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+    <pubDate>Thu, 07 Dec 2017 9:05:23 EST</pubDate>
+    <enclosure url="https://audio.simplecast.com/a37de64f.mp3" type="audio/mpeg" length="53591719"/>
+
+</item>
+
+
+
+
+<item>
+	  <title>BB 67: Developer Trends 2017 </title>
+	  <link>http://bangalorebits.in/post/167978635934/bb67</link>
+	  <guid>http://bangalorebits.in/post/167978635934/bb67</guid>
+	  <description><![CDATA[
+
+          <p>
+          <ul>
+          <li>  Developer Trends 2017  </li>
+
+
+          </ul>
+
+          </p>
+          </p>
+          <P> <b> Links</b></P>
+
+          <P>
+          <ul>
+
+          	<li><a href="https://insights.stackoverflow.com/survey/2017"> Developer Survey Results 2017 </a></li>
+          </ul>
+      </P>
+      ]]></description>
+	  <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+	  <pubDate>Tue, 28 Nov 2017 9:05:23 EST</pubDate>
+		  <enclosure url="https://audio.simplecast.com/1c8ec90f.mp3" type="audio/mpeg" length="83591719"/>
+     </item>
+
+
+
+<item>
+		<title>BB 66: India News Roundup </title>
+		<link>http://bangalorebits.in/post/167827742579/bb66</link>
+		<guid>http://bangalorebits.in/post/167827742579/bb66</guid>
+		<description><![CDATA[
+
+
+					<p><strong> India News Roundup </strong></p>
+
+					<p>
+						<ul>
+							<li> Leaky Browsers  </li>
+							<li> Food Delivery Business Trends  </li>
+							<li> Flipkart Android ambitions  </li>
+							<li> Language as service  </li>
+						</ul>
+					</p>
+				</p>
+				<P> <b> Links</b></P>
+
+
+				<P>
+					<ul>
+				    	<li><a href="https://www.androidauthority.com/uc-browser-removed-download-google-play-store-814694"> UC Browser has mysteriously disappeared from the Google Play Store </a></li>
+						<li><a href="https://economictimes.indiatimes.com/small-biz/startups/zomato-launches-subscription-based-zomato-gold-in-india/articleshow/61648135.cms"> Zomato launches subscription-based 'Zomato Gold' in India </a></li>
+						<li><a href="http://www.business-standard.com/article/technology/flipkart-billion-capture-review-a-budget-smartphone-with-mid-tier-specs-117111500247_1.html"> Flipkart Billion Capture+ review: A budget smartphone with mid-tier specs </a></li>
+						<li><a href="http://reverieinc.com/laas/">Language as service </a></li>
+						<li><a href="http://reverieinc.com/indic-language-mandate-intro/">India’s Upcoming Indic Language Mandate For Mobile Devices - An Overview - Reverie Language Technologies </a></li>
+						<li><a href="https://arstechnica.com/gadgets/2017/11/oneplus-engineering-apk-exposes-backdoor-to-root-access/">OnePlus includes Qualcomm engineering app in phones, exposes root backdoor  </a></li>
+						<li><a href="http://www.livemint.com/Technology/FdOeiZaaVoVE69Mhpz0QyJ/Alibaba-Mobile-Business-group-launches-UC-Ads-in-India.html">Alibaba Mobile Business group’s UC Ads launched in India  </a></li>
+						<li><a href="http://www.prnewswire.co.in/news-releases/viewlift-powers-hoichoi-the-online-streaming-destination-for-the-best-in-bengali-content-646035283.html">ViewLift Powers Hoichoi, the Online Streaming Destination for the Best in Bengali Content </a></li>
+
+					 </ul>
+				</P>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Fri, 24 Nov 2017 9:05:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/b46a4897.mp3" type="audio/mpeg" length="69591719"/>
+</item>
+
+
+<item>
+		<title>BB 65: Serverless Compute </title>
+		<link>http://bangalorebits.in/post/167306720284/bb65</link>
+		<guid>http://bangalorebits.in/post/167306720284/bb65</guid>
+		<description><![CDATA[
+
+
+					<p><strong> Serverless Compute </strong></p>
+
+					<p>
+						<ul>
+							<li> Serverless Architectures </li>
+							<li> How did we reach here ?   </li>
+							<li> How IaaS, PaaS, BaaS, API & Containers  evolved into Serverless  </li>
+							<li> Serverless Platforms  </li>
+						</ul>
+					</p>
+				</p>
+				<P> <b> Links</b></P>
+
+
+				<P>
+					<ul>
+				    	<li><a href="https://martinfowler.com/articles/serverless.html"> Serverless Architectures </a></li>
+						<li><a href="https://aws.amazon.com/lambda/?sc_channel=PS&sc_campaign=acquisition_IN&sc_publisher=google&sc_medium=lambda_b&sc_content=lambda_e&sc_detail=aws%20lambda&sc_category=lambda&sc_segment=225269715116&sc_matchtype=e&sc_country=IN&s_kwcid=AL!4422!3!225269715116!e!!g!!aws%20lambda&ef_id=V2vnpAAABWuNxW11:20171109121931:s"> AWS Lambda - Serverless Compute </a></li>
+						<li><a href="http://docs.aws.amazon.com/lambda/latest/dg/use-cases.html">Examples of How to Use AWS Lambda </a></li>
+						<li><a href="https://cloud.google.com/functions/"> Cloud Functions - Serverless Environment to Build and Connect Cloud Services  |  Google Cloud Platform </a></li>
+						<li><a href="https://openwhisk.incubator.apache.org/"> Apache OpenWhisk  </a></li>
+						<li><a href="https://azure.microsoft.com/en-in/services/functions/">Functions</a></li>
+
+					 </ul>
+				</P>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 09 Nov 2017 9:05:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/33a4a1f1.mp3" type="audio/mpeg" length="52591719"/>
+
+		</item>
+
+<item>
+		<title>BB 64: Social Media Influence </title>
+		<link>http://bangalorebits.in/post/167087460469/bb64</link>
+		<guid>http://bangalorebits.in/post/167087460469/bb64</guid>
+		<description><![CDATA[
+
+
+					<p><strong> Social Media Influence </strong></p>
+
+					<p>
+						<ul>
+							<li> Senate Open Hearing: Social Media Influence in the 2016 U.S. Elections </li>
+							<li> Disinformation. Amplification, Fake News & ropaganda  </li>
+							<li> Bots, Troll Farm & Targeted Advertising  </li>
+							<li> Eight Revealing Moments From the Second Day  </li>
+						</ul>
+					</p>
+				</p>
+				<P> <b> Links</b></P>
+
+
+				<P>
+					<ul>
+				    	<li><a href=" https://www.youtube.com/watch?v=k5pH6XGYvkE"> Senate Open Hearing </a></li>
+						<li><a href="https://www.theguardian.com/technology/2017/nov/01/us-senators-russia-fake-news-threat-russia"> US senators warn of 'fake news' threat from Russia and urge tech giants to act </a></li>
+						<li><a href="https://www.wired.com/story/six-revealing-moments-from-the-second-day-of-russia-hearings/">Eight Revealing Moments From the Second Day of Russia Hearings </a></li>
+						<li><a href="http://www.mercurynews.com/2017/11/01/senators-blast-facebook-at-hearing-over-fake-ads-heres-what-the-ads-looked-like/"> Senators blast Facebook at hearing over fake ads: Here’s what the ads looked like </a></li>
+						<li><a href="https://www.axios.com/fake-news-on-facebook-messenger-2498210127.html"> Facebook's next fake news headache: messaging  </a></li>
+						<li><a href="http://www.bbc.com/news/world-asia-41170570">Rohingya crisis: Suu Kyi says 'fake news helping terrorists'</a></li>
+						<li><a href="http://www.dw.com/en/how-fake-news-is-widening-social-rifts-in-india/a-40875997">How fake news is widening social rifts in India</a></li>
+						<li><a href="http://www.thehindu.com/opinion/op-ed/tackling-fake-news/article19963184.ece">We need uniform guidelines, regulation and policy regarding fabricated content </a></li>
+
+					 </ul>
+				</P>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Fri, 03 Nov 2017 9:05:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/aa4f7fe4.mp3" type="audio/mpeg" length="52591719"/>
+
+
+
+		</item>
+
+
+		<item>
+		<title>BB 63: KRACK Attack - Security and Privacy Trends 2017 </title>
+		<link>http://bangalorebits.in/post/166865845074/bb63</link>
+		<guid>http://bangalorebits.in/post/166865845074/bb63</guid>
+		<description><![CDATA[
+
+
+					<p><strong>KRACK Attack - Security and Privacy Trends 2017 </strong></p>
+
+					<p>
+						<ul>
+							<li> WPA2 vulnerable to key reinstallation attacks </li>
+							<li> Security and Privacy Trends Whats happening in AR & VR World  </li>
+							<li> IOTroop Botnet of IoT devices </li>
+							<li> What’s happening with tokenization - Google Advanced Protection Program </li>
+							<li> Web literacy, Security & privacy tools </li>
+							<li> Protection of data from ISP </li>
+							<li> Webtools</li>
+						</ul>
+					</p>
+				</p>
+				<P> <b> Links</b></P>
+				<p> <b> WPA2 Key reinstallation attacks </b></P>
+				<P>
+					<ul>
+						<li><a href=" https://www.krackattacks.com/#details"> KRACK Attack </a></li>
+						<li><a href=" https://www.windowscentral.com/vendors-who-have-patched-krack-wpa2-wi-fi-vulnerability">These are the router makers that have patched KRACK WPA2 Wi-Fi flaws</a></li></ul>
+				</P>
+
+				<p> <b> Tokenization </b></P>
+				<P>
+					<ul>
+						<li><a href="http://fc16.ifca.ai/preproceedings/25_Lang.pdf"> Security Keys: Practical Cryptographic Second
+Factors for the Modern Web </a></li>
+						<li><a https://landing.google.com/advancedprotection/">Google Releases Advanced Protection program </a></li>
+						<li><a href="https://www.lockdownyourlogin.org/"> Follow these six simple steps to gain peace of mind and more control over your online securit </a></li>
+						<li><a href="https://www.turnon2fa.com/"> Whats is 2FA </a></li>
+						<li><a href="https://www.turnon2fa.com/tutorials/">Securing webservices with 2FA</a></li>
+						<li><a href="https://twofactorauth.org/#communication">List of webserivces that implement 2FA</a></li>
+						<li><a href="https://security.googleblog.com/2014/10/strengthening-2-step-verification-with.html">Strengthening 2-Step Verification with Security Key</a></li>
+						<li><a href=" https://www.fidoalliance.org/">FIDO Alliance</a></li>
+						<li><a href=" https://www.blog.google/topics/safety-security/googles-strongest-security-those-who-need-it-most/">Google’s strongest security, for those who need it most</a></li>
+
+					 </ul>
+				</P>
+				<p> <b> Web literacy, Security & privacy tools </b></P>
+				<P>
+					<ul>
+						<li><a href="  https://learning.mozilla.org/en-US/activities/internet-health-basics/"> Mozilla efforts on educating users in web literacy </a></li>
+
+						<li><a href="https://mozilla.github.io/curriculum-final/internet-health-basics/session04-privacy-and-security.html#overview"> Internet health basics</a></li>
+						<li><a href="https://www.epicbrowser.com/">epic Privacy Browser</a></li>
+						<li><a href="https://brave.com/">Brave</a></li>
+						<li><a href="https://www.brave.com/about-ad-replacement/">Be aware of Brave's replacement advt model</a></li>
+						<li><a href="https://addons.mozilla.org/en-US/firefox/">Must have Firefox addons (ublock orgin, https everywhere, privacy badger, cookie autodelete, Decentraleyes ) </a> </li>
+						<li><a href="https://IPLeak.net"> Are you leaking data  </a></li>
+						<li><a href="https://www.dnsleaktest.com/results.html"> DNS Leaktest  </a></li>
+						<li><a href="https://www.linuxmint.com/searchengines.php"> Other Search Engines (startpage, searX, Duckduckgo) </a></li>
+			</ul></P>
+
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Sat, 28 Oct 2017 9:05:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/633e65ea.mp3" type="audio/mpeg" length="82591719"/>
+
+
+
+		</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	  <item>
+	  <title>BB 62: Amazon Hardware Event 2017 </title>
+	  <link>http://bangalorebits.in/post/166466587524/bb62</link>
+	  <guid>http://bangalorebits.in/post/166466587524/bb62</guid>
+	  <description><![CDATA[
+
+          <p>
+          <ul>
+          <li>  Amazon unveils Alexa powered devices  </li>
+
+
+          </ul>
+
+          </p>
+          </p>
+          <P> <b> Links</b></P>
+
+          <P>
+          <ul>
+          <li><a href= "https://www.amazon.com/Amazon-MW46WB-Introducing-Echo-Spot/dp/B073SQYXTW"> Echo Spot </a></li>
+          <li><a href= "https://www.amazon.com/gp/product/B0186JAEWK"> Echo Look </a></li>
+          <li><a href= "https://www.amazon.com/Amazon-Echo-Show-Alexa-Enabled-Black/dp/B01J24C0TI/ref=sr_1_1?s=amazon-devices&ie=UTF8&qid=1508164552&sr=1-1&keywords=echo+show"> Echo Show </a></li>
+          <li><a href= "https://www.amazon.com/all-new-amazon-echo-speaker-with-wifi-alexa-dark-charcoal/dp/B06XCM9LJ4/ref=sr_1_1?s=amazon-devices&ie=UTF8&qid=1508164591&sr=1-1&keywords=Alexa+echo"> Alexa Echo 2nd Generation  </a></li>
+          <li><a href="https://www.amazon.com/dp/B075RWFCHB/ref_=fs_ods_fs_aucc_sr"> Echo Plus </a></li>
+          <li><a href="https://www.amazon.in/Echo-Dot-Year-Prime-Membership/dp/B071NB4PGV/ref=sr_1_2?ie=UTF8&qid=1508164678&sr=8-2&keywords=echo+dot"> Echo Dot </a></li>
+          <li><a href="http://www.businessinsider.in/Amazon-launches-20-buttons-to-turn-your-Echo-into-a-board-game-machine/articleshow/60861634.cms"> Echo Dot Buttons </a></li>
+
+          <li><a href="https://www.amazon.com/all-new-amazon-fire-tv-4k-uhd-streaming-media-player/dp/B01N32NCPM/ref=sr_1_4?ie=UTF8&qid=1508164839&sr=8-4&keywords=firestick"> Fire TV with 4K Ultra HD </a></li>
+
+
+		  </ul>
+
+          </P>
+
+
+
+	  ]]></description>
+	  <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+	  <pubDate>Mon, 16 Oct 2017 9:05:23 EST</pubDate>
+		  <enclosure url="https://audio.simplecast.com/631a1c60.mp3" type="audio/mpeg" length="83591719"/>
+
+
+
+	 </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<item>
+	  <title>BB 61: Made By Google 2017 </title>
+	  <link>http://bangalorebits.in/post/166083251589/bb61</link>
+	  <guid>http://bangalorebits.in/post/166083251589/bb61</guid>
+	  <description><![CDATA[
+
+
+	 		 <p>
+	 		 <ul>
+	 		 <li>  Made By Google 2017 Wrap-Up </li>
+
+
+	 		 </ul>
+
+	 		 </p>
+	 		 </p>
+	 		 <P> <b> Links</b></P>
+
+	 		 <P>
+	 		 <ul>
+	 		 <li><a href= "https://store.google.com/"> Made By Google 2017 </a></li>
+
+	 		 </ul>
+
+	 		 </P>
+
+
+	  ]]></description>
+	  <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+	  <pubDate>Thu, 05 Oct 2017 9:05:23 EST</pubDate>
+		  <enclosure url="https://audio.simplecast.com/0f779b65.mp3" type="audio/mpeg" length="83591719"/>
+
+	 </item>
+
+
+     <item>
+     <title>BB 60: Disrupt SF 2017 </title>
+     <link>http://bangalorebits.in/post/165621450884/bb60</link>
+     <guid>http://bangalorebits.in/post/165621450884/bb60</guid>
+     <description><![CDATA[
+
+
+         <p>
+         <ul>
+         <li>  Observations on the six finalists of Disrupt SF 2017 ( Augmedics, colormass, Future Family, Matic, Onēva and Pi.) </li>
+
+
+         </ul>
+
+         </p>
+         </p>
+         <P> <b> Links</b></P>
+
+         <P>
+         <ul>
+         <li><a href= "https://www.picharging.com"> Pi </a></li>
+         <li><a href= "http://colormass.com"> Colormass </a></li>
+         <li><a href= "https://www.futurefamily.com"> Future Family </a></li>
+         <li><a href= "https://oneva.com"> Oneva </a></li>
+         <li><a href="https://www.eggxyt.com"> eggXYt </a></li>
+         <li><a href="https://www.augmedics.com"> Augmedics </a></li>
+         </ul>
+
+         </P>
+
+
+     ]]></description>
+     <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+     <pubDate>Fri, 22 SEP 2017 9:05:23 EST</pubDate>
+     <enclosure url="https://audio.simplecast.com/4eaccbfd.mp3" type="audio/mpeg" length="70591719"/>
+
+ </item>
+
+
+
+
+
+   <item>
+       <title>BB 59: iPhone X - Apple September special event </title>
+       <link>http://bangalorebits.in/post/165368717474/bb59</link>
+       <guid>http://bangalorebits.in/post/165368717474/bb59</guid>
+       <description><![CDATA[
+
+
+
+                     </p>
+           </p>
+           <P> Observations on the Products Announced at Apple September special event </P>
+
+
+
+       ]]></description>
+
+       <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+       <pubDate>Fri, 15 SEP 2017 6:05:23 EST</pubDate>
+       <enclosure url="https://audio.simplecast.com/6e8968c0.mp3" type="audio/mpeg" length="85591719"/>
+
+   </item>
+
+
+
+
+   <item>
+       <title>BB 58: Android – 8.0 Oreo </title>
+       <link>http://bangalorebits.in/post/164857750439/bb58</link>
+       <guid>http://bangalorebits.in/post/164857750439/bb58</guid>
+       <description><![CDATA[
+
+
+
+                     </p>
+           </p>
+           <P>A developer perspective of Android 8.0 Oreo </P>
+
+
+
+       ]]></description>
+
+       <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+       <pubDate>Fri, 1 SEP 2017 6:05:23 EST</pubDate>
+       <enclosure url="https://audio.simplecast.com/fa10dcbc.mp3" type="audio/mpeg" length="85591719"/>
+
+   </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   <item>
+       <title>BB 57: Defcon / BlackHat 2017 </title>
+       <link>http://bangalorebits.in/post/164064680874/bb57</link>
+       <guid>http://bangalorebits.in/post/164064680874/bb57</guid>
+       <description><![CDATA[
+
+
+           <p>
+           <ul>
+           <li> Defcon / BlackHat 2017  </li>
+
+
+           </ul>
+
+           </p>
+           </p>
+           <P> <b> Stories from worlds largest hacker conferences Defcon & Black Hat 2017  </b></P>
+
+
+
+       ]]></description>
+
+       <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+       <pubDate>Fri, 9 Aug 2017 9:05:23 EST</pubDate>
+       <enclosure url="https://audio.simplecast.com/8b36f669.mp3" type="audio/mpeg" length="55591719"/>
+
+   </item>
+
+
+
+
+
+
+
+    <item>
+        <title>BB 56: IoT Home Automation </title>
+        <link>http://bangalorebits.in/post/163717970069/bb56</link>
+        <guid>http://bangalorebits.in/post/163717970069/bb56</guid>
+        <description><![CDATA[
+
+
+            <p>
+            <ul>
+            <li> Revisiting state of IoT & Home Automation space in 2017  </li>
+
+
+            </ul>
+
+            </p>
+            </p>
+            <P> <b> Links</b></P>
+
+            <P>
+            <ul>
+            <li><a href= “https://www.bluetooth.com/specifications/mesh-specifications">The Bluetooth® mesh networking specifications </a></li>
+            <li><a href= “http://www.zigbee.org/zigbeealliance/developing-standards/">Zigbee standards</a></li>
+            <li><a href= “http://z-wavealliance.org">Z-Wave Alliance</a></li>
+            <li><a href= “https://www.apple.com/in/ios/home/">HomeKit</a></li>
+            <li><a href= "https://developers.google.com/weave/">Weave is a communications platform for Internet of Things (IoT) devices.</a></li>
+            <li><a href= "https://www.smartthings.com/uses/"> SmartThings can teach your home a few new tricks and make life a little bit easier</a></li>
+            <li><a href= "https://www.forbes.com/sites/aarontilley/2017/06/07/apple-homekit-wwdc-2017-update/#8bef65612839"> Apple Frees Up Its Smart Home Platform To Kickstart Development</a></li>
+            <li><a href= "https://developer.apple.com/homekit/">HomeKit Developer  </a></li>
+            <li><a href= "https://www.cbyge.com/products/c-life">C-Life  </a></li>
+            <li><a href= "https://www.cnet.com/how-to/why-your-next-light-bulb-should-be-a-smart-bulb/">5 reasons why your next light bulb should be a smart bulb  </a></li>
+
+
+
+
+
+            </ul>
+
+            </P>
+
+
+        ]]></description>
+
+        <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+        <pubDate>Wed, 2 Aug 2017 9:05:23 EST</pubDate>
+        <enclosure url="https://audio.simplecast.com/a5bbc4a5.mp3" type="audio/mpeg" length="57591719"/>
+
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+    <title>BB 55: Cord Cutting </title>
+    <link>http://bangalorebits.in/post/163408617869/bb55</link>
+    <guid>http://bangalorebits.in/post/163408617869/bb55</guid>
+    <description><![CDATA[
+
+
+        <p>
+        <ul>
+        <li> 2017 Cord Cutting </li>
+
+
+        </ul>
+
+        </p>
+        </p>
+        <P> <b> Links</b></P>
+
+        <P>
+        <ul>
+        <li><a href= “http://variety.com/2017/biz/asia/asia-online-video-market-worth-46-billion-in-2022-1202494505/"> Asia’s Online Video Market to Hit $46 Billion by 2022 </a></li>
+
+        <li><a href=“https://inc42.com/buzz/sourav-ganguly-video-curation-flickstree/"> Sourav Ganguly Backs Curated Video Platform Flickstree </a></li>
+
+        <li><a href=“https://www.flickstree.com/video-category.html/DOCUMENTARY"> flickstree </a></li>
+
+        <li><a href=“https://www.dekkho.com"> Dekkho </a></li>
+
+        <li><a href= “http://www.dittotv.com/plans"> Dittotv </a></li>
+
+        <li><a href= “https://spuul.com/discover"> Spuul </a></li>
+
+        <li><a href= “http://www.hotstar.com"> Hotstar </a></li>
+
+        <li><a href=“https://www.iflix.com/index.html"> iFlix </a></li>
+
+        <li><a href=“https://www.hooq.tv/about-us"> Hooq </a></li>
+
+        <li><a href= “https://www.justwatch.com/in/new"> Justwatch </a></li>
+
+        <li><a href= “https://www.twitch.tv/directory"> Twitch </a></li>
+
+        </ul>
+
+        </P>
+
+
+    ]]></description>
+
+    <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+    <pubDate>Tue, 25 Jul 2017 9:05:23 EST</pubDate>
+    <enclosure url="https://audio.simplecast.com/008e3e32.mp3" type="audio/mpeg" length="37591719"/>
+
+        </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <item>
+     <title>BB 54: Internet Trends 2017  </title>
+     <link>http://bangalorebits.in/post/161890915839/bb54</link>
+     <guid>http://bangalorebits.in/post/161890915839/bb54</guid>
+     <description><![CDATA[
+
+
+         <p>
+         <ul>
+         <li> 2017 Internet Trends 2017 </li>
+
+
+         </ul>
+
+         </p>
+         </p>
+         <P> <b> Links</b></P>
+
+         <P>
+         <ul>
+         <li><a href= http://www.kpcb.com/internet-trends"> Internet Trends 2017 </a></li>
+
+
+
+         </ul>
+
+         </P>
+
+
+
+
+     ]]></description>
+     <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+     <pubDate>Fri, 16 Jun 2017 9:05:23 EST</pubDate>
+     <enclosure url="https://audio.simplecast.com/fb888ffc.mp3" type="audio/mpeg" length="70591719"/>
+
+ </item>
+
+
+
+
+
+
+
+
+ <item>
+     <title>BB 53: WWDC 2017  </title>
+     <link>http://bangalorebits.in/post/161588284259/bb53</link>
+     <guid>http://bangalorebits.in/post/161588284259/bb53</guid>
+     <description><![CDATA[
+
+
+         <p>
+         <ul>
+         <li> Thoughts on WWDC 2017 Keynote </li>
+
+
+         </ul>
+
+         </p>
+         </p>
+         <P> <b> Links</b></P>
+
+         <P>
+         <ul>
+         <li><a href=https://www.apple.com/apple-events/june-2017/"> WWDC 2017 </a></li>
+
+         <li><a href= "https://www.apple.com/watchos-preview/"> watchOS 4 </a></li>
+
+         <li><a href= "https://www.apple.com/macos/high-sierra-preview/"> macOS High Sierra </a></li>
+         <li><a href= "https://www.apple.com/imac-pro/"> iMac Pro </a></li>
+         <li><a href= "https://www.apple.com/imac/"> iMac </a></li>
+         <li><a href= "https://www.apple.com/ipad-pro/"> iPad Pro </a></li>
+         <li><a href= "https://www.apple.com/ios/ios-11-preview/"> iOS 11 </a></li>
+         <li><a href= "https://www.apple.com/homepod/"> HomePod </a></li>
+         <li><a href= "https://www.apple.com/ios/app-store/"> App Store </a></li>
+
+         </ul>
+
+         </P>
+
+
+
+
+     ]]></description>
+     <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+     <pubDate>THU, 8 Jun 2017 9:05:23 EST</pubDate>
+     <enclosure url="https://audio.simplecast.com/b5b911f7.mp3" type="audio/mpeg" length="72591719"/>
+
+ </item>
+
+
+
+
+   <item>
+       <title>BB 52: Pre-WWDC 2017  </title>
+       <link>http://bangalorebits.in/post/161469310409/bb52</link>
+       <guid>http://bangalorebits.in/post/161469310409/bb52</guid>
+       <description><![CDATA[
+
+
+           <p>
+           <ul>
+           <li> What to expect at WWDC 2017  </li>
+
+
+           </ul>
+
+           </p>
+           </p>
+           <P> <b> Links</b></P>
+
+           <P>
+           <ul>
+           <li><a href="https://www.apple.com/apple-events/june-2017/"> WWDC 2017 </a></li>
+
+           </ul>
+
+           </P>
+
+
+
+
+       ]]></description>
+       <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+       <pubDate>Mon, 5 Jun 2017 9:05:23 EST</pubDate>
+       <enclosure url="https://audio.simplecast.com/097cd9c0.mp3" type="audio/mpeg" length="51591719"/>
+
+   </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <item>
+        <title>BB 51: Code Conference 2017 </title>
+        <link>http://bangalorebits.in/post/161354527119/bb51</link>
+        <guid>http://bangalorebits.in/post/161354527119/bb51</guid>
+        <description><![CDATA[
+
+
+            <p>
+            <ul>
+            <li> A brief discussion on Code Conference 2017  </li>
+
+
+            </ul>
+
+            </p>
+            </p>
+            <P> <b> Links</b></P>
+
+            <P>
+            <ul>
+            <li><a href="https://events.recode.net/events/code-conference-2017/"> Code Conference 2017 </a></li>
+
+            <li><a href="https://www.essential.com"> Essential Phone </a></li>
+            <li><a href="https://www.essential.com/home#ambient-os"> Ambient OS™ </a></li>
+            <li><a href="http://usafacts.org"> USAfacts.org </a></li>
+            <li><a https://www.theverge.com/2017/4/7/15217980/walt-mossberg-retiring-in-june"> Walt Mossberg is retiring in June </a></li>
+
+            </ul>
+
+            </P>
+
+
+
+
+        ]]></description>
+        <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+        <pubDate>Fri, 2 Jun 2017 9:55:23 EST</pubDate>
+        <enclosure url="https://audio.simplecast.com/2b3e3c52.mp3" type="audio/mpeg" length="59591719"/>
+
+    </item>
+
+
+
+
+
+
+    <item>
+        <title>BB 50: Microsoft Build 2017 </title>
+        <link>http://bangalorebits.in/post/160982138349/bb50</link>
+        <guid>http://bangalorebits.in/post/160982138349/bb50</guid>
+        <description><![CDATA[
+
+
+            <p>
+            <ul>
+            <li> A brief discussion on Microsoft Build 2017  </li>
+
+
+            </ul>
+
+            </p>
+            </p>
+            <P> <b> Links</b></P>
+
+            <P>
+            <ul>
+            <li><a href="https://build.microsoft.com"> Microsoft Build 2017 </a></li>
+
+
+
+            </ul>
+
+            </P>
+
+
+
+
+        ]]></description>
+        <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+        <pubDate>Tue, 23 May 2017 11:50:23 EST</pubDate>
+        <enclosure url="https://audio.simplecast.com/aa4abc61.mp3" type="audio/mpeg" length="59591719"/>
+
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <item>
+        <title>BB 49: Google I/O 2017 - AI-first  </title>
+        <link>http://bangalorebits.in/post/160855759739/bb49</link>
+        <guid>http://bangalorebits.in/post/160855759739/bb49</guid>
+        <description><![CDATA[
+            <p><strong>Google I/O 2017 - AI-first</strong></p>
+
+            <p>
+            <ul>
+            <li> A brief discussion on Google I/O 2017   </li>
+
+
+            </ul>
+            </p>
+            </p>
+            <P> <b> Links</b></P>
+
+            <P>
+            <ul>
+            <li><a href="https://events.google.com/io/"> Google I/O 2017 - AI-first  </a></li>
+
+
+
+            </ul>
+
+            </P>
+
+
+
+
+        ]]></description>
+        <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+        <pubDate>Sat, 20 May 2017 12:30:24 EST</pubDate>
+        <enclosure url="https://audio.simplecast.com/6a3873d8.mp3" type="audio/mpeg" length="59591719"/>
+
+    </item>
+
+
+
+
+
+
+    <item>
+        <title>BB 48: MicrosoftEDU </title>
+        <link>http://bangalorebits.in/post/160338731804/bb48</link>
+        <guid>http://bangalorebits.in/post/160338731804/bb48</guid>
+        <description><![CDATA[
+            <p><strong>MicrosoftEDU May Event</strong></p>
+
+            <p>
+            <ul>
+            <li> A brief discussion on MicrosoftEDU, Minecraft,Mixed Reality glasses  </li>
+
+
+            </ul>
+            </p>
+            </p>
+            <P> <b> Links</b></P>
+
+            <P>
+            <ul>
+            <li><a href="https://news.microsoft.com/microsoft-event-may-2017/"> Learn Whats Next MicrosoftEDU </a></li>
+
+            <li><a href="https://blogs.windows.com/devices/2017/05/02/introducing-surface-laptop-powered-by-windows-10-s/#rg1ex564XwmiOogI.97">Introducing Surface Laptop, powered by Windows 10 S</a></li>
+            <li><a href="https://www.theguardian.com/technology/2017/may/03/windows-10-s-microsoft-faster-pc-comparison">What is Windows 10 S and how is it different from regular Windows 10?</a></li>
+            <li><a href="https://arstechnica.com/information-technology/2017/05/microsoft-takes-on-chrome-os-with-new-windows-10-s/">Microsoft takes on Chrome OS with new Windows 10 S </a></li>
+            <li><a href="https://blogs.office.com/2017/05/02/modern-classroom-collaboration-with-office-365-for-education/">classroom collaboration with
+            Office 365 </a></li>
+            <li><a href="https://youtu.be/3rKuSlgqePo">Code Builder for Minecraft: Education Edition  </a></li>
+            <li><a href="https://education.lego.com/en-us/products/lego-education-wedo-2-0-core-set/45300">LEGO® Education WeDo 2.0</a></li>
+
+            <li><a href="https://www.youtube.com/watch?v=u0jqNioU2Lo">What is Windows Mixed Reality? </a></li>
+
+            </ul>
+
+            </P>
+
+
+
+
+        ]]></description>
+        <itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+        <pubDate>Sat, 06 May 2017 12:30:24 EST</pubDate>
+        <enclosure url="https://audio.simplecast.com/226ae3db.mp3" type="audio/mpeg" length="49591719"/>
+
+    </item>
+
+
+
+
+
+
+
+		<item>
+		<title>BB 47: YC W17 Demo Day </title>
+		<link>http://bangalorebits.in/post/159414185864/bb47</link>
+		<guid>http://bangalorebits.in/post/159414185864/bb47</guid>
+		<description><![CDATA[
+								<p><strong> YC W17 Demo Day</strong></p>
+
+								<p>
+									<ul>
+										<li> A brief discussion on Y Combinator’s 24th Demo Day, where some of the interesting companies accelerator showcased to the investors.  </li>
+
+
+									</ul>
+								</p>
+							</p>
+							<P> <b> Links</b></P>
+
+							<P>
+								<ul>
+									<li><a href="https://www.ycombinator.com/demoday/"> Demo Day </a></li>
+
+									<li><a href="www.cowlar.com">Fitbit for cows</a></li>
+									<li><a href="https://www.pantheonvr.com">Tools for Creating VR game experieces</a></li>
+									<li><a href="www.kangpe.com">Ask Real Doctors Your Health Questions </a></li>
+									<li><a href="http://www.dosteducation.com/">Breaking the cycle of illiteracy by empowering parents </a></li>
+									<li><a href="http://servx.in/">Tell us what service you want  </a></li>
+
+									<li><a href="http://www.volans-i.com/#about">Drone Delivery </a></li>
+									<li><a href="http://wifidabba.com/">Super cheap, super fast wifi at a bakery and chai wallah near you </a></li>
+
+									<li><a href="http://www.tokentransit.com/">Bus Passes on Your Phone Token Transit </a></li>
+									<li><a href="http://www.getdoctalk.com/">Ask the Doctor </a></li>
+									<li><a href="http://www.cbas.global/technology">Back An Open Standard for Bionics & Prosthetics </a></li>
+
+									<li><a href="https://playment.io/"> On-demand Workforce For Human tasks </a></li>
+								</ul>
+
+							</P>
+
+
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Mon, 10 Apr 2017 09:43:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/ddf060b2.mp3" type="audio/mpeg" length="52591719"/>
+
+	</item>
+
+
+
+
+
+
+		<item>
+		<title>BB 46: MWC2017 </title>
+		<link>http://bangalorebits.in/post/158194257789/bb46</link>
+		<guid>http://bangalorebits.in/post/158194257789/bb46</guid>
+		<description><![CDATA[
+								<p><strong> MWC 2017 </strong></p>
+
+								<p>
+									<ul>
+										<li> MWC 2017 Highlights  </li>
+										<li> Cord cutters </li>
+										<li> Netflix Smart Algorithms tweaking encoding </li>
+										<li> Netflix Original content iPic theaters </li>
+										<li> Line is developing a digital assistant to take on Alexa </li>
+										<li> Snapdragon 835’s Absence  </li>
+
+
+									</ul>
+								</p>
+							</p>
+							<P> <b> Links</b></P>
+
+							<P>
+								<ul>
+									<li><a href="https://qz.com/920857/netflix-nflx-uses-ai-in-its-new-codec-to-compress-video-scene-by-scene/"> Netflix’s new AI tweaks each scene individually to make video look good even on slow internet</a></li>
+
+									<li><a href="http://variety.com/2016/digital/news/netflix-ipic-entertainment-theatrical-original-movies-1201878775/">Netflix Inks Deal With 15-Theater Chain iPic Entertainment for Original Movies, Angling for Oscar</a></li>
+									<li><a href="http://www.theverge.com/2017/3/2/14789570/line-clova-ai-digital-assistant-announced">Line is developing a digital assistant to take on Alexa
+</a></li>
+
+
+							</P>
+
+
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 9 Mar 2017 09:43:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/d6dd5d1d.mp3" type="audio/mpeg" length="42591719"/>
+
+	</item>
+
+
+
+
+		<item>
+		<title>BB 45: Skinny Bundle </title>
+		<link>http://bangalorebits.in/post/157866149369/bb45</link>
+		<guid>http://bangalorebits.in/post/157866149369/bb45</guid>
+		<description><![CDATA[
+								<p><strong> Skinny Bundle </strong></p>
+
+								<p>
+									<ul>
+										<li> Changing trends in media </li>
+										<li> Cord cutters </li>
+										<li> Planet of the Apps </li>
+										<li> Original content & binge watching </li>
+										<li> Skinny Bundle </li>
+										<li> Blurring lines between communication & content </li>
+
+
+									</ul>
+								</p>
+							</p>
+							<P> <b> Links</b></P>
+
+							<P>
+								<ul>
+									<li><a href="https://www.wired.com/2017/01/netflix-investing-original-shows-finally-pays-off/"> Netflix Is Killing It—Big Time—After Pouring Cash Into Original Shows </a></li>
+
+									<li><a href="https://www.planetoftheapps.com">Planet of the Apps</a></li>
+									<li><a href="https://www.wired.com/2017/02/youtube-tv-skinny-bundle/">Youtube Skinny Bundle </a></li>
+									<li><a href="http://www.caavo.com">Meet Caavo</a></li> </ul>
+
+							</P>
+
+
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Wed, 1 Mar 2017 09:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/4694c93f.mp3" type="audio/mpeg" length="52591719"/>
+
+	</item>
+
+
+
+
+
+		<item>
+		<title>BB 44: IoT DIY Kits </title>
+		<link>http://bangalorebits.in/post/157528414804/bb44</link>
+		<guid>http://bangalorebits.in/post/157528414804/bb44</guid>
+		<description><![CDATA[
+								<p><strong>IoT DIY Kits </strong></p>
+
+								<p>
+									<ul>
+										<li> What are some of the IoT DIY kits available in Market ? </li>
+										<li> Interesting projects using DIY Kits </li>
+										<li> Difference between Standalone IoT kits, Cloud connected Kits, Plug & Play Kits</li>
+										<li> What’s happening to Google Brillo  & Weave ? </li>
+										<li> Industrial automation is possibly ahead of consumer adoption of IoT?</li>
+									</ul>
+								</p>
+							</p>
+							<P> <b> Links</b></P>
+							<p> <b> Standalone Kits </b></P>
+							<P>
+								<ul>
+									<li><a href=" http://www.gemalto.com/m2m/development/cinterion-concept-board"> Gemalto - The Cinterion Concept Board </a></li>
+									<li><a href="  https://www.u-blox.com/en/product/c027?utm_source=en%2Fc027-internet-of-things-starter-kit.html">mbed Cellular Kit</a></li>
+									<li><a href=" https://www.wired.com/2017/02/california-dmv-autonomous-car-disengagement/">Adafruit Fona </a></li>
+									<li><a href="https://learn.adafruit.com/adafruit-fona-mini-gsm-gprs-cellular-phone-module/overview">Eyeing a Self-Driving Future, Ford Drops $1B on an AI Startup</a></li> </ul>
+							</P>
+
+							<p> <b> Cloud Enabled IoT kits </b></P>
+							<P>
+								<ul>
+									<li><a href=" https://hologram.io"> Gemalto - Konekt Line </a></li>
+									<li><a href="https://www.particle.io"> Particle (was Spark) Electron </a></li>
+									<li><a href="https://developer.qualcomm.com/hardware/iot-cellular-dev"> Qualcomm Internet of Everything</a></li>
+									<li><a href="https://cloud.google.com/solutions/iot/kit/">Google Cloud IoT platform</a></li> </ul>
+							</P>
+							<p> <b> Plug & Play Kits </b></P>
+							<P>
+								<ul>
+									<li><a href=" http://littlebits.cc"> Gemalto - Little Bits </a></li>
+									<li><a href="https://www.modrobotics.com/cubelets/"> Cubelets </a></li>
+									<li><a href="http://meshprj.com/en/"> Mesh</a></li>
+									<li><a href="https://aws.amazon.com/iotbutton/">AWS IoT Button</a></li> </ul>
+							</P>
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 21 Feb 2017 08:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/7601817c.mp3" type="audio/mpeg" length="31591719"/>
+
+	</item>
+
+
+
+		<item>
+		<title>BB 43: Transportation as a Service (TaaS) </title>
+		<link>http://bangalorebits.in/post/157257567619/bb43</link>
+		<guid>http://bangalorebits.in/post/157257567619/bb43</guid>
+		<description><![CDATA[
+								<p><strong> Transportation as a Service(TaaS) </strong></p>
+
+<p> Future of commute. How transportation as service(TaaS) is different from ride shares.  Impacts of TaaS on consumer, auto industry and government.  Role of Self driving cars in TaaS. How TaaS will change the future of auto industry & transportation business. What auto industry is learning from mobile revolution. </p>
+<p> Links </p>
+<ul>
+						<li><a href="https://www.move-forward.com/taas-a-mazon-transportation-as-a-service/">TaaS-A-mazon: Transportation as a Service </a></li>
+						<li><a href="https://www.wired.com/insights/2014/10/automobile-as-a-service/">Automobile-as-a-Service: How Will Your Car Serve You? </a></li>
+						<li><a href="https://www.wired.com/2017/02/california-dmv-autonomous-car-disengagement/">The Numbers Don’t Lie: Self-Driving Cars Are Getting Good </a></li>
+						<li><a href="https://www.wired.com/2017/02/eyeing-self-driving-future-ford-drops-1b-ai-startup/">Eyeing a Self-Driving Future, Ford Drops $1B on an AI Startup</a></li>
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 14 Feb 2017 08:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/e3613ab7.mp3" type="audio/mpeg" length="31591718"/>
+
+	</item>
+
+
+		<item>
+		<title>BB 42: Universal Basic Income (UBI) </title>
+		<link>http://bangalorebits.in/post/156757976424/42</link>
+		<guid>http://bangalorebits.in/post/156757976424/42</guid>
+		<description><![CDATA[
+						<p><strong> Universal Basic Income (UBI)  </strong></p>
+					<ul>
+						<li><a href="http://basicincome.org/basic-income/">About basic income </a></li>
+						<li><a href="https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond">The Fourth Industrial Revolution: what it means, how to respond </a></li>
+						<li><a href="http://www.techworld.com/personal-tech/universal-basic-income-requires-its-own-set-of-founding-principles-3645963/">Automation will make universal basic income a social necessity - but it needs its own founding principles </a></li>
+						<li><a href="https://singularityhub.com/2016/12/13/if-robots-steal-our-jobs-a-universal-basic-income-could-help/">If Robots and AI Steal Our Jobs, a Universal Basic Income Could Help </a></li>
+						 <li><a href="https://www.nytimes.com/2016/03/03/technology/plan-to-fight-robot-invasion-at-work-give-everyone-a-paycheck.html?_r=0">A Plan in Case Robots Take the Jobs: Give Everyone a Paycheck </a></li>
+						 <li><a href="https://qz.com/897942/frances-socialist-presidential-candidate-is-calling-for-a-universal-basic-income-robot-tax-and-legal-weed/">France’s socialist presidential candidate is calling for a universal basic income, robot tax, and legal weed</a></li>
+						 <li><a href="http://blogs.wsj.com/indiarealtime/2017/01/31/india-considers-fighting-poverty-with-a-universal-basic-income/">India Considers Fighting Poverty With a Universal Basic Income</a></li>
+						 <li><a href="http://www.independent.co.uk/news/world/asia/india-universal-basic-income-combat-alleviate-poverty-economic-survey-a7555416.html">Indian government survey says universal basic income could combat poverty</a></li>
+						 <li><a href="http://www.forbes.com/sites/timworstall/2017/01/31/the-important-part-of-indias-economic-survey-universal-basic-income/#199fcff74b84">The Important Part Of India's Economic Survey - Universal Basic Income</a></li>
+						 <li><a href="http://www.livemint.com/Politics/ns8z7JTxYLQc5AdGmlvtiN/Why-Jaitleys-Union-budget-didnt-provide-for-universal-basi.html">Why Arun Jaitley gave universal basic income a miss in Union Budget 2017</a></li>
+					<li><a href="http://indiabudget.nic.in/es2016-17/echapter.pdf">Economic Survey 2016-17</a></li>
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 3 Feb 2017 08:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/06fe1b80.mp3" type="audio/mpeg" length="49591718"/>
+	</item>
+
+
+
+
+
+		<item>
+		<title>BB 41: Drones </title>
+		<link>http://bangalorebits.in/post/156444048809/bb41</link>
+		<guid>http://bangalorebits.in/post/156444048809/bb41</guid>
+		<description><![CDATA[
+						<p><strong> Drones </strong></p>
+					<ul>
+						<li><a href="http://diydrones.com/profiles/blogs/a-newbies-guide-to-uavs">A newbie's guide to UAVs </a></li>
+						<li><a href="http://www.forbes.com/sites/zarastone/2017/01/10/the-most-exciting-consumer-drone-news-from-ces-2017/#564b7babe7ee">The Most Exciting Consumer Drone News From CES 2017  </a></li>
+						<li><a href="http://www.theverge.com/2014/7/31/5954891/best-drone-you-can-buy">  The best drone you can buy</a></li>
+						<li><a href="https://www.technologyreview.com/s/526491/agricultural-drones/">How Drones Came to Your Local Farm</a></li>
+						<li><a href="http://indiatoday.intoday.in/story/indian-council-of-agricultural-research-drones-sensagri-monitor-crop-health-monitor-soil-health/1/719060.html>Farming to go hi-tech: Drones will monitor crop and soil health in India soon</a></li>
+					   <li><a href="https://www.technologyreview.com/s/526491/agricultural-drones/"> Agricultural Drones
+						    Relatively cheap drones with advanced sensors and imaging capabilities are giving farmers new ways to increase yields and reduce crop damage</a></li>
+						<li><a href="http://www.theverge.com/2016/8/2/12350274/zipline-drone-delivery-us-launch-blood-medicine">Drones will begin delivering blood and medicine in the US</a></li>
+					   <li><a href="https://finance.yahoo.com/news/new-drones-ces-2017-045700324.html">Selfie drones and more fly into CES 2017</a></li>
+					   <li><a href="http://www.theverge.com/2016/12/29/14114190/amazon-patent-drone-airship-delivery">Amazon patented a fantastical floating airship warehouse for its delivery drones</a></li>
+					   <li><a href="https://www.dji.com/phantom-4">Dji PHANTOM  4</a></li>
+					  <li><a href="http://economictimes.indiatimes.com/articleshow/56535316.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst">CES 2017: Dreams of the drone industry have crashed into reality</a></li>
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 27 Jan 2017 06:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/93b64a2f.mp3" type="audio/mpeg" length="40591718"/>
+	</item>
+
+
+
+			<item>
+			<title>BB 40: Bots </title>
+			<link>http://bangalorebits.in/post/156083223119/bb40</link>
+			<guid>http://bangalorebits.in/post/156083223119/bb40</guid>
+			<description><![CDATA[
+							<p><strong> Bots </strong></p>
+						<ul>
+							<li><a href="http://venturebeat.com/2016/07/24/how-chatbots-and-a-i-will-change-the-future/">Chat Bots & Ai </a></li>
+							<li><a href="https://digit.co/about/how-it-works">Digit - How it works  </a></li>
+							<li><a href="http://www.pymnts.com/chatbot-tracker/2017/digit-savings-chatbot-facebook-messenger/>Digit Launches New Savings Bot</a></li>
+							<li><a href="http://www.pymnts.com/chatbot-tracker/2016/russian-chatbot-talkbank-talks-banking/">Russian Chatbot TalkBank Talks Banking</a></li>
+							<li><a href="http://fusion.net/story/354988/digit-savings-bank-account-bot/">This bot took $250 million from people’s bank accounts—for their own good</a></li>
+					       <li><a href="http://www.pymnts.com/chatbot-tracker/2016/chatbot-tracker-banks-credit-card-bots/>Chatbot Tracker: Banks & Credit Card Bots</a></li>
+						   <li><a href="https://newsroom.mastercard.com/press-releases/mastercard-makes-commerce-more-conversational-with-launch-of-chatbots-for-banks-and-merchants/?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-payments%29:%20Visa%20volume%20grows%20but%20hurdles%20persist%20%E2%80%94%20Alipay%20moves%20into%20North%20America%20%E2%80%94%20Mastercard%20adds%20chatbots&utm_term=BII%20List%20Payments%20ALL">Mastercard Makes Commerce More Conversational With Launch of Chatbots for Banks and Merchants</a></li>
+						   <li><a href="https://x.ai/how-it-works/">X.ai</a></li>
+						   <li><a href="http://www.theverge.com/2016/4/7/11380470/amy-personal-digital-assistant-bot-ai-conversational">The smart bots are coming and this one is brilliant </a></li>
+						<li><a href="https://techcrunch.com/2016/10/12/ozlo-ai-assistant-is-the-new-underdog-filling-the-void-left-by-viv/">Ozlo AI assistant is the new underdog filling the void left by Viv</a></li>
+						<li><a href="https://www.metavision.com/meet-meta">Augmented Reality - Meet Meta | Meta Company</a></li>
+						<li><a href="http://www.tomsguide.com/us/meta-2-ar-headset,review-3593.html">CI Touched Augmented Reality with Meta 2 </a></li>
+						<li><a href="http://www.theverge.com/circuitbreaker/2017/1/4/14164206/smart-toothbrush-ara-ai-kolibree">TuSens Raises $20M Investment for 'Inside-out' AR/VR Tracking </a></li>
+					<li><a href="https://techcrunch.com/2016/05/17/eyesight-vr/">EyeSight demos VR gesture control using standard phone hardware </a></li>
+					<li><a href="http://www.androidheadlines.com/2016/05/eyesights-vr-gesture-controls-use-phone-cameras.html">eyeSight's VR Gesture Controls Use Phone Cameras | Androidheadlines.com </a></li>
+
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 19 Jan 2017 05:42:24 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/de062e04.mp3" type="audio/mpeg" length="60591718"/>
+		</item>
+
+
+
+
+
+
+
+		<item>
+		<title>BB 39: CES 2017 </title>
+		<link>http://bangalorebits.in/post/155487988119/bb39</link>
+		<guid>http://bangalorebits.in/post/155487988119/bb39</guid>
+		<description><![CDATA[
+						<p><strong> CES 2017 </strong></p>
+					<ul>
+						<li><a href="https://www.cnet.com/news/whats-alexa-up-to-at-ces-heres-a-running-list/">What's Alexa up to at CES? </a></li>
+
+						<li><a href="https://www.amazon.com/dp/B00X4WHP5E">Amazon Echo </a></li>
+
+						<li><a href="http://www.fastcodesign.com/3066881/mattel-is-building-an-alexa-for-kids>Mattel Is Building An Alexa For Kids</a></li>
+						<li><a href="http://www.geekwire.com/2017/amazons-alexa-now-tops-7000-skills-a-7x-increase-in-7-months/">Amazon’s smart assistant Alexa now tops 7,000 skills, a 7X increase in 7 months</a></li>
+
+						<li><a href="https://www.theguardian.com/technology/2017/jan/04/lg-hub-robot-home-assistant-amazon-echo-google-home">LG unveils Hub Robot to compete with Amazon Echo and Google Home</a></li>
+
+						<li><a href="https://aws.amazon.com/lex/">Amazon Lex</a></li>
+
+						<li><a href="https://aws.amazon.com/polly/">Amazon Polly</a></li>
+
+						<li><a href="http://www.theverge.com/ces/2017/1/3/13989402/linksys-velop-router-system-announced-home-wifi-ces-2017">Linksys announces a mesh router system to envelop your home with Wi-Fi</a></li>
+
+						<li><a href="https://www.cnet.com/news/ces-2017-watch-out-wi-fi-systems-comcast-is-transforming-its-xfinity-gateway-to-a-smart-digital-home/">Watch out, Wi-Fi systems! Comcast is transforming its Xfinity gateway to a smart digital home platform</a></li>
+
+						<li><a href="http://www.seattletimes.com/business/amazon/amazons-robot-army-grows/">Amazon’s robot army grows by 50 percent</a></li>
+						<li><a href="https://www.engadget.com/2017/01/03/dishs-airtv-combines-4k-streaming-with-an-over-the-air-antenna/">Dish's AirTV combines 4K streaming with an over-the-air antenna</a></li>
+
+						<li><a href="http://www.startlr.com/ces-2017-smart-to-thoroughly-comb-hair-care-products-from-withings-and-loreal/">CES 2017: Smart to thoroughly comb hair care products from Withings, and L’Oreal </a></li>
+
+						<li><a href="http://www.theverge.com/circuitbreaker/2017/1/4/14164206/smart-toothbrush-ara-ai-kolibree">This smart toothbrush claims to have its very own embedded AI </a></li>
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Fri, 6 Jan 2017 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/00ddd30f.mp3" type="audio/mpeg" length="50591718"/>
+	</item>
+
+
+		<item>
+		<title>BB 38: Voice User Interface - Lex and Polly </title>
+		<link>http://bangalorebits.in/post/154207628039/bb38</link>
+		<guid>http://bangalorebits.in/post/154207628039/bb38</guid>
+		<description><![CDATA[
+						<p><strong> Voice User Interface - Lex and Polly </strong></p>
+					<ul>
+						<li><a href="https://madeby.google.com/home/">Google Home</a></li>
+
+						<li><a href="https://www.amazon.com/dp/B00X4WHP5E">Amazon Echo </a></li>
+
+						<li><a href="https://www.ibm.com/watson/developercloud/conversation.html">Watson Conversation</a></li>
+
+						<li><a href="https://aws.amazon.com/lex/">Amazon Lex</a></li>
+
+						<li><a href="https://aws.amazon.com/polly/">Amazon Polly</a></li>
+
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Thu, 8 Dec 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/4efddbf0.mp3" type="audio/mpeg" length="69591718"/>
+	</item>
+
+
+
+		<item>
+		<title>BB 37: Cashless Economy </title>
+		<link>http://bangalorebits.in/post/153600081119/bb37</link>
+		<guid>http://bangalorebits.in/post/153600081119/bb37</guid>
+		<description><![CDATA[
+						<p><strong> Cashless Economy</strong></p>
+					<ul>
+						<li><a href="http://economictimes.indiatimes.com/articleshow/53335811.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst">India should become world's first cashless country</a></li>
+
+						<li><a href="http://www.governancenow.com/views/interview/upi-can-be-critical-component-cashless-initiatives#sthash.ZF9hWjDJ.dpuf">UPI can be critical component for cashless initiatives </a></li>
+
+						<li><a href="http://www.governancenow.com/news/regular-story/-india-headed-wards-becoming-a-cashless-economy#sthash.XwBKDTee.dpuf">Is India headed towards becoming a cashless economy? </a></li>
+
+						<li><a href="http://www.npci.org.in/aboutus.aspx">National Payments Corporation of India (NPCI)</a></li>
+
+						<li><a href="http://www.npci.org.in/UPI_Product.aspx">Unified Payments Interface (UPI)</a></li>
+
+						<li><a href="http://www.cnbc.com/2013/12/12/cashless-society-a-huge-threat-to-our-freedomcommentary.html">Cashless society: A huge threat to our freedom</a></li>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Tue, 24 NOV 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/cfaa2b95.mp3" type="audio/mpeg" length="69591718"/>
+	</item>
+
+
+		<item>
+		<title>BB 36: Fake News </title>
+		<link>http://bangalorebits.in/post/153304154049/bb36</link>
+		<guid>http://bangalorebits.in/post/153304154049/bb36</guid>
+		<description><![CDATA[
+						<p><strong> Fake News</strong></p>
+					<ul>
+						<li><a href="https://m.facebook.com/zuck/posts/10103253901916271">Facebook and the election</a></li>
+						<li><a href="http://mobile.nytimes.com/2016/11/03/technology/how-the-internet-is-loosening-our-grip-on-the-truth.html?smid=tw-share&_r=1&referer=">How the Internet Is Loosening Our Grip on the Truth </a></li>
+
+						<li><a href="https://www.buzzfeed.com/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook?utm_term=.hlk5wv08yv#.ji7EaGnYPG">Viral Fake Election News Outperformed Real News On Facebook In Final Months Of The US Election </a></li>
+
+						<li><a href="http://mobile.nytimes.com/2016/11/15/technology/google-will-ban-websites-that-host-fake-news-from-using-its-ad-service.html?referer=http://www.techmeme.com/river">Google and Facebook Take Aim at Fake News Sites</a></li>
+
+						<li><a href="http://www.slate.com/blogs/future_tense/2016/11/14/did_facebook_really_tolerate_fake_news_to_appease_conservatives.html">Did Facebook Really Tolerate Fake News to Appease Conservatives?</a></li>
+
+						<li><a href="http://mobile.nytimes.com/2016/11/14/technology/facebook-is-said-to-question-its-influence-in-election.html?referer=http://www.techmeme.com/river">Facebook, in Cross Hairs After Election, Is Said to Question Its Influence</a></li>
+						<li><a href="https://www.wired.com/2016/11/facebook-alone-didnt-create-trump-click-economy/">Facebook alone didnt create trump click economy/ </a></li>
+						<li><a href="https://www.wired.com/2016/11/facebook-won-trump-election-not-just-fake-news/">Here’s How Facebook Actually Won Trump the Presidency </a></li>
+
+						<li><a href="https://www.buzzfeed.com/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo?utm_term=.vkd6dZDB9Z#.qlkqBKXm8K">How Teens In The Balkans Are Duping Trump Supporters With Fake News </a></li>
+
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Tue, 17 NOV 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/6d940ecf.mp3" type="audio/mpeg" length="59591718"/>
+	</item>
+
+
+
+
+
+
+
+
+
+		<item>
+		<title>BB 35: India Tech News Round up </title>
+		<link>http://bangalorebits.in/post/153000301204/bb35</link>
+		<guid>http://bangalorebits.in/post/153000301204/bb35</guid>
+		<description><![CDATA[
+						<p><strong> India Tech News Round up</strong></p>
+					<ul>
+						<li><a href="http://michaelmoore.com/trumpwillwin/">MichaelMoore Predits Tump Win in July</a></li>
+						<li><a href="http://tech.economictimes.indiatimes.com/news/internet/iot-center-of-excellence-opens-in-bangalore/55345521">IoT Center of Excellence opens in Bangalore</a></li>
+						<li><a href="https://inc42.com/buzz/z-nation-lab-incubator/">Z Nation Lab has launched an incubation and accelerator programme in Mumbai </a></li>
+						<li><a href="http://economictimes.indiatimes.com/small-biz/startups/loaded-with-seed-fund-kalaari-plans-a-convertible-ride/articleshow/50843450.cms">Earlier Feb Loaded with seed fund, Kalaari plans a ‘convertible’ ride </a></li>
+
+						<li><a href="http://www.livemint.com/Industry/5206tPVe6cKWOfTmXy8lBM/HCL-Microsoft-start-IoT-incubation-centre.html">HCL, Microsoft start IoT incubation centre</a></li>
+						<li><a href="http://tech.economictimes.indiatimes.com/news/internet/reliance-big-entertainment-enters-video-on-demand-space-with-chillx/55325401">Reliance Big Entertainment forays into mobile video with Chillx </a></li>
+						<li><a href="http://economictimes.indiatimes.com/magazines/panache/youtube-bets-big-on-indias-tech-savvy-kids-with-new-app/articleshow/55339932.cms">You Tube For Kids India </a></li>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Tue, 10 NOV 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/53f71dce.mp3" type="audio/mpeg" length="49591718"/>
+	</item>
+
+
+
+
+
+		<item>
+		<title>BB 34: Made By Google </title>
+		<link>http://bangalorebits.in/post/151702800854/bb34</link>
+		<guid>http://bangalorebits.in/post/151702800854/bb34</guid>
+		<description><![CDATA[
+						<p><strong> Made By Google</strong></p>
+					<ul>
+						<li><a href="https://www.youtube.com/watch?v=q4y0KOeXViI">Made By Google</a></li>
+						<li><a href="https://blog.google/products/assistant/personal-google-just-you/">A personal Google, just for you</a></li>
+
+						<li><a href="https://blog.google/products/pixel/introducing-pixel-our-new-phone-made-google/">Introducing Pixel, our new phone made by Google </a></li>
+						<li><a href="https://blog.google/products/home/make-yourself-home-google-home/">Google Home </a></li>
+
+						<li><a href="https://blog.google/products/google-vr/daydream-bringing-high-quality-vr-everyone/">VR to everyone </a></li>
+						<li><a href="https://blog.google/products/google-wifi/introducing-new-kind-wi-fi-system/">Google Wifi </a></li>
+						<li><a href="https://blog.google/products/chromecast/fastest-chromecast-yet-4k-and-hdr-support/">Chromecast with 4K </a></li>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Tue, 6 OCT 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/20bc8682.mp3" type="audio/mpeg" length="69591718"/>
+	</item>
+
+
+
+
+
+		<item>
+		<title>BB 33: Disrupt SF 2016</title>
+		<link>http://bangalorebits.in/post/151701700804/bb33</link>
+		<guid>http://bangalorebits.in/post/151701700804/bb33</guid>
+		<description><![CDATA[
+						<p><strong> Disrupt SF 2016 </strong></p>
+					<ul>
+						<li><a href="https://techcrunch.com/event-info/disrupt-sf-2016/">Disrupt SF 2016</a></li>
+						<li><a href="https://techcrunch.com/event-info/disrupt-sf-2016/">Agenda</a></li>
+						<li><a href="https://techcrunch.com/startup-battlefield/">Startup Battlefield </a></li>
+						<li><a href="https://techcrunch.com/2016/09/13/these-are-the-six-finalists-in-the-techcrunch-disrupt-sf-2016-startup-battlefield/">Six finalists Disrupt SF 2016 Startup Battlefield </a></li>
+						<li><a href="https://techcrunch.com/2016/09/12/everlywell-brings-lab-tests-home-personalized-health-data-online/">EverlyWell brings lab tests home, personalized health data online </a></li>
+						<li><a href="https://techcrunch.com/2016/09/13/carbon-health-wants-to-put-medical-data-in-one-place-for-patients-and-their-many-doctors/">Carbon Health wants to put medical data in one place for patients and their many doctors </a></li>
+						<li><a href="https://techcrunch.com/2016/09/16/highlights-from-disrupt-sf-2016/">Highlights from Disrupt SF 2016 </a></li>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Tue, 26 Sep 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/386204de.mp3" type="audio/mpeg" length="39591718"/>
+	</item>
+
+		<item>
+		<title>BB 32: Apple Fall Event - Sep 2016</title>
+		<link>http://bangalorebits.in/post/150351268869/bb32</link>
+		<guid>http://bangalorebits.in/post/150351268869/bb32</guid>
+		<description><![CDATA[
+						<p><strong> Apple Fall Event - Sep 2016 </strong></p>
+					<ul>
+						<li><a href="http://www.apple.com/apple-events/september-2016/">Apple Special Event, September. Keynote</a></li>
+						<li><a href="http://www.apple.com/apple-events/september-2016/">iWork updates</a></li>
+
+						<li><a href="https://www.apple.com/apple-watch-series-2/">Apple Watch New Series 2 </a></li>
+						<li><a href="https://www.apple.com/watch/compare/">Series 1 with faster CPU</a></li>
+						<li><a href="https://www.apple.com/apple-watch-edition/">Apple watch edition</a></li>
+
+						<li><a href="https://www.apple.com/watch/interactive-gallery/#/42/silver-aluminum-case">Mix & Match  Interactive Gallery</a></li>
+						<li><a href="https://www.apple.com/apple-watch-nike/">Co Branding Nike+</a></li>
+						<li><a href="https://www.apple.com/apple-watch-hermes/">Co Branding Hermès</a></li>
+						<li><a href="https://www.apple.com/iphone-7/">iPhone 7 - All New Material</a></li>
+						<li><a href="https://www.apple.com/iphone-7/specs/">iPhone 7 - Hardware Specification</a></li>
+						<li><a href="https://www.apple.com/iphone-7/specs/">Difference between iPhone 7 vs iPhone plus camera </a></li>
+
+						<li><a href="http://www.telegraph.co.uk/technology/2016/09/08/apple-iphone-7-and-7-plus-camera-explained-how-good-are-the-phot/">Difference between iPhone 7 vs iPhone plus camera </a></li>
+							<li><a href="https://www.apple.com/iphone-7/ios/">iOS 10 </a></li>
+							<li><a href="http://appleinsider.com/articles/16/09/12/apple-a10-fusion-in-iphone-7-family-surprises-exceeds-pre-release-expectations">Apple A10 Fusion </a></li>
+					<li><a href="http://www.forbes.com/sites/gordonkelly/2016/09/07/iphone-7-vs-iphone-7-plus-whats-the-difference/#7eeaf4ca3a9d)">Dfference Between iPhone 7 Vs iPhone 7 Plus Plus </a></li>	</ul>
+
+		]]></description>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<pubDate>Tue, 13 Sep 2016 04:42:24 EST</pubDate>
+		<enclosure url="https://audio.simplecast.com/c196921c.mp3" type="audio/mpeg" length="79591718"/>
+	</item>
+
+
+		<item>
+			<title>BB 31: India Tech News Round up - July 2016</title>
+			<link>http://bangalorebits.in/post/149077907149/bb31</link>
+			<guid>http://bangalorebits.in/post/149077907149/bb31</guid>
+			<description><![CDATA[
+    						<p><strong> India Tech News Round up - July 2016 </strong></p>
+    					<ul>
+							<li><a href="https://www.amazon.in/b?ie=UTF8&node=10892650031">Kindle Used Books Store </a></li>
+							<li><a href="https://kindlescout.amazon.com/about"> Kindle Scout</a></li>
+							<li><ahref="https://www.amazon.in/gp/aw/kindle/ku/about?ie=UTF8&ascsubtag=16CL1Xmobile_deals&camp=3770&creative=25574&linkCode=shr&tag=schmmuck09-21"> Kindle Unlimited</a></li>
+							<li><a href="https://kdp.amazon.com/help"> Kindle Direct Publishing</a></li>
+
+							<li><a href="http://economictimes.indiatimes.com/industry/media/entertainment/amazon-signs-up-excel-entertainment-to-ensure-enough-takers-for-prime-service-in-india/articleshow/53548913.cms?from=mdr"> Amazon signs up Excel Entertainment to ensure enough takers for Prime service in India</a></li>
+
+							<li><a href="http://indianexpress.com/article/technology/tech-news-technology/amazon-prime-in-india-flipkart-content-programme-2962681/">Flipkart content programme to take on Amazon Prime</a></li>
+
+							<li><a href="http://schoolgis.nic.in/">School Location Mapping</a></li>
+							<li><a href="http://www.ciol.com/free-bharat-domain-name-with-in-purchase/">Free ‘.bharat’ domain name with ‘.in’ purchase</a></li>
+							<li><a href="http://www.livemint.com/Money/En30EXD13YvvMnxF9biOYO/GST-bill-passed-Here-are-the-winners-and-losers.html">GST bill passed: Here are the winners and losers</a></li>
+
+						<li><a href="https://twitter.com/FortuneIndia/status/760037569425838080/photo/1">Fortune India Beta</a></li>
+						<li><a href="http://economictimes.indiatimes.com/articleshow/53543285.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst">IBM unveils MobileFirst for iOS Garage in India</a></li>
+
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Mon, 17 Aug 2016 10:42:24 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/782ab09d.mp3" type="audio/mpeg" length="59591718"/>
+		</item>
+
+
+
+
+		<item>
+			<title>BB 30: Cloud Foundry Summit 2016! </title>
+			<link>http://bangalorebits.in/post/146902685734/bb30</link>
+			<guid>http://bangalorebits.in/post/146902685734/bb30</guid>
+			<description><![CDATA[
+    						<p><strong> Cloud Foundry Summit 2016! </strong></p>
+    					<ul>
+							<li><a href="https://www.cloudfoundry.org/community/summits/program/schedule/?summitId=10016"> Cloud Foundry Summit 2016! Program  </a></li>
+						<li><a href="https://www.flickr.com/photos/133185724@N04/sets/72157669145860656"> Phots </a> </li>
+						<li><a href="https://www.youtube.com/playlist?list=PLhuMOCWn4P9gGrKEtCBKYpEl5BXGBCsQZ"> keynote and session recordings</a> </li>
+
+
+
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Mon, 03 Jul 2016 10:42:24 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/c72acf5c.mp3" type="audio/mpeg" length="79591718"/>
+		</item>
+
+
+
+	<item>
+			<title>BB 29: India Tech News Round up - June 2016 </title>
+			<link>http://bangalorebits.in/post/146555563399/bb29</link>
+			<guid>http://bangalorebits.in/post/146555563399/bb29</guid>
+			<description><![CDATA[
+    						<p><strong> India Tech News Round up - June 2016 </strong></p>
+    					<ul>
+						<li><a href="http://www.bangaloremirror.com/bangalore/others/Google-TRAFI-others-may-get-real-time-info-from-BMTC/articleshow/52441002.cms"> Google, TRAFI & others may get real-time info from BMTC   </a></li>
+						<li><a href="http://bangalore.citizenmatters.in/articles/intelligent-transport-system-bmtc-bangalore?utm_source=copyhttp://bangalore.citizenmatters.in/articles/intelligent-transport-system-bmtc-bangalore"> All you need to know about BMTC's Intelligent Transport System </a> </li>
+							<li><a href="https://play.google.com/store/apps/details?id=com.bmtc.mybmtc&hl=en"> BMTC App</a> </li>
+							<li><a href="http://timesofindia.indiatimes.com/tech/apps/Xerox-launches-transportation-aggregation-app-in-Bengaluru/articleshow/52770410.cms/"> Xerox launches transportation aggregation app in Bengaluru  </a> </li>
+							<li><a href="https://itunes.apple.com/in/app/go-bengaluru/id1119674753?mt=8">Go Bengaluru Applink  </a></li>
+							<li><a href="http://timesofindia.indiatimes.com/tech/apps/IRCTCs-new-mobile-app-makes-flight-booking-simpler/articleshow/52783474.cms/">IRCTC's new mobile app makes flight booking simpler </a></li>
+							<li><a href="http://economictimes.indiatimes.com/articleshow/52541040.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst">Trai launches mobile app to take on pesky call, SMS complaints </a></li>
+							<li><a href="https://play.google.com/store/apps/details?id=com.trai.dnd&hl=en">Trai App </a></li>
+							<li><a href="http://espnmediazone.com/us/press-releases/2016/06/espn-launches-local-multi-sport-digital-products-india-subcontinent-collaboration-spn/">ESPN Launches Local Multi-sport Digital Products for India and the Subcontinent in collaboration with SPN </a></li>
+							<li><a href="http://pib.nic.in/newsite/erelease.aspx?relid=145892">Cabinet approves setting up of India Post Payments Bank </a></li>
+							<li><a href="http://economictimes.indiatimes.com/industry/banking/finance/RBI-launces-new-bill-payment-platform-Bharat-Bill-Payment-System/articleshow/52291275.cms">Bharat Bill Payment System </a></li>
+							<li><a href="http://www.thehindu.com/news/cities/mumbai/business/rbi-panel-to-study-fintech-business-in-india/article8703587.ece">RBI panel to study FinTech business in India </a></li>
+						    <li><a href="http://techcircle.vccircle.com/2016/06/16/state-bank-of-india-sets-up-30-mn-fund-to-back-fin-tech-startups/">State Bank of India sets up $30 mn fund to back fin-tech startups </a></li>
+							<li><a href="http://timesofindia.indiatimes.com/city/delhi/Matrimonial-sites-must-verify-users-with-valid-IDs-Govt/articleshow/52554124.cms">Matrimonial sites must verify users with valid IDs: Govt </a></li>
+							<li><a href="https://www.ericsson.com/res/docs/2016/ericsson-mobility-report-2016.pdf">Ericsson Mobility </a></li>
+
+							<li><a href="http://www.kpcb.com/blog/tag/Internet%20Trends">Mary Meeker Internet Trends 2016</a></li>
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Mon, 27 Jun 2016 08:42:24 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/2d8f4563.mp3" type="audio/mpeg" length="79591818"/>
+		</item>
+		<item>
+			<title>BB 28: Thoughts on WWDC16 Keynote </title>
+			<link>http://bangalorebits.in/post/145913388999/bb28</link>
+			<guid>http://bangalorebits.in/post/145913388999/bb28</guid>
+			<description><![CDATA[
+    						<p><strong> Thoughts on WWDC16 Keynote  </strong></p>
+    					<ul>
+
+							<li><a href="https://developer.apple.com/wwdc/events/"> WWDC16   </a></li>
+							<li><a href="http://www.apple.com/pr/library/2016/06/13Apple-Previews-iOS-10-The-Biggest-iOS-Release-Ever.html"> Apple Previews iOS 10, the Biggest iOS Release Ever </a> </li>
+						<li><a href="http://www.apple.com/watchos-preview/"> watchOS </a> </li>
+						<li><a href="http://www.apple.com/tvos-preview/">  tvOS  </a> </li>
+						<li><a href="http://www.apple.com/macos/sierra-preview/"> macOS Sierra </a></li>
+						<li><a href="http://www.apple.com/swift/playgrounds/"> Swift Playgrounds </a></li>
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Sat, 14 Jun 2016 08:41:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/2a3cc37e.mp3" type="audio/mpeg" length="59591818"/>
+		</item>
+		<item>
+			<title>BB 27: Pre WWDC 2016 </title>
+			<link>http://bangalorebits.in/post/145805419284/bb27</link>
+			<guid>http://bangalorebits.in/post/145805419284/bb27</guid>
+			<description><![CDATA[
+    						<p><strong> Pre WWDC 2016  </strong></p>
+    					<ul>
+						<li><a href="https://developer.apple.com/news/">Apple News and Updates  </li>
+						<li><a href="https://developer.apple.com/app-store/search-ads/"> App Store Search-Ads </li>
+						<li><a href="https://developer.apple.com/app-store/subscriptions/whats-new/">  What’s New in Subscriptions  </li>
+						<li><a href="https://developer.apple.com/wwdc/events/"> WWDC16   </a></li>
+						<li><a href="https://developer.apple.com/wwdc/schedule/"> WWDC16 Schedule  </a></li>
+						<li><a href="http://www.recode.net"> CodeConf 2016  </a></li>
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Sat, 12 Jun 2016 08:13:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/9e55d48f.mp3" type="audio/mpeg" length="57491818"/>
+		</item>
+		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+		<item>
+			<title>BB 26: Computex 2016  Taipei </title>
+			<link>http://bangalorebits.in/post/145387270449/bb26</link>
+			<guid>http://bangalorebits.in/post/145387270449/bb26</guid>
+			<description><![CDATA[
+    						<p><strong> Computex 2016 Taipei   </strong></p>
+    					<ul>
+						<li><a href="https://www.computextaipei.com.tw/#">Computex 2016 Taipei </li>
+						<li><a href="http://www.theverge.com/circuitbreaker/2016/5/29/11808042/arm-cortex-a73-mali-g71-computex-2016"> ARM's new CPU and GPU will power mobile VR in 2017 </li>
+						<li><a href="http://www.holodia.com/buy/">  HOLOFIT computer  </li>
+						<li><a href="http://www.swissnexindia.org/event/birdly-in-india/"> Swissnexindia - Birdly  </a></li>
+						<li><a href="http://www.somniacs.co/">The Ultimate Dream of Flying</a></li>
+						<li><a href="http://www.engadget.com/2016/06/01/birdly-htc-vive-flight-simulator/">  Birdly and HTC Vive let you fly like a bird over Manhattan </a></li>
+						<li><a href="https://www.qualcomm.com/news/snapdragon/2016/02/11/snapdragon-wear-2100-made-next-gen-wearables">Snapdragon wear 2100 SOC </a></li>
+						<li><a href="https://msdn.microsoft.com/en-us/windows/uwp/security/companion-device-unlock">Windows Hello Companion Device Framework  </a></li>
+						<li><a href="http://www.anandtech.com/show/10337/the-intel-broadwell-e-review-core-i7-6950x-6900k-6850k-and-6800k-tested-up-to-10-cores">Broadwell-E</li>
+
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Sat, 4 Jun 2016 08:26:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/ea7795e1.mp3" type="audio/mpeg" length="57491918"/>
+		</item>
+		<item>
+			<title>BB 25: I/O: Building the next evolution of Google  </title>
+			<link>http://bangalorebits.in/post/144813142429/bb25</link>
+			<guid>http://bangalorebits.in/post/144813142429/bb25</guid>
+			<description><![CDATA[
+    						<p><strong> I/O: Building the next evolution of Google  </strong></p>
+    					<ul>
+						<li><a href="https://events.google.com/io2016/">Google I / O  </li>
+						<li><a href="https://www.youtube.com/watch?v=862r3XS2YB0"> Keynote  </li>
+						<li><a href="https://googleblog.blogspot.in/2016/05/allo-duo-apps-messaging-video.html">Allo & Duo  </li>
+						<li><a href="https://blog.chromium.org/2015/04/a-quic-update-on-googles-experimental.html">Quick protocol </a></li>
+						<li><a href="http://venturebeat.com/2016/05/18/google-unveils-android-instant-apps-that-launch-immediately-no-installation-required/">Android Instant Apps</a></li>
+						<li><a href="http://techcrunch.com/2016/05/18/google-turns-firebase-into-its-unified-platform-for-mobile-developers/"> FireBase </a></li>
+						<li><a href="https://home.google.com">Home </a></li>
+						<li><a href="https://www.android.com/intl/en_in/wear/">Android Wear 2.0 </a></li>
+						<li><a href="https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html">Google supercharges machine learning tasks with TPU custom chip</a></li>
+
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Tue, 23 May 2016 08:25:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/a7d3ae86.mp3" type="audio/mpeg" length="67491918"/>
+		</item>
+		<item>
+			<title>BB 24: I/O: 2016 </title>
+			<link>http://bangalorebits.in/post/144638378134/bb24</link>
+			<guid>http://bangalorebits.in/post/144638378134/bb24</guid>
+			<description><![CDATA[
+    						<p><strong> I/O 2016 </strong></p>
+    					<ul>
+						<li><a href="https://developer.android.com/preview/index.html">Android N</li>
+						<li><a href="https://www.khronos.org/vulkan/">Vulkan api </a></li>
+						<li><a href="https://www.android.com/intl/en_in/versions/name-n/">#NameAndroidN</a></li>
+						<li><a href="http://arstechnica.com/gadgets/2016/05/android-vr-os-gets-a-virtual-reality-mode-and-vr-ready-smartphones/"> DayDream </a></li>
+						<li><a href="https://home.google.com">Home </a></li>
+						<li><a href="https://www.android.com/intl/en_in/wear/">Android Wear 2.0 </a></li>
+						<li><a href="http://www.androidpolice.com/2016/05/18/new-challenger-appears-xiaomis-mi-box-4k-ready-android-tv-device-coming-us-soon/">Xiomi Mi box - 4k ready setup box</a></li>
+
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Tue, 20 May 2016 08:25:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/dea2f747.mp3" type="audio/mpeg" length="47491918"/>
+		</item>
+		<item>
+			<title>BB 23: India Tech News Round up - April 2016</title>
+			<link>http://bangalorebits.in/post/144336198594/bb23</link>
+			<guid>http://bangalorebits.in/post/144336198594/bb23</guid>
+			<description><![CDATA[
+    						<p><strong> India Tech News Round up - April </strong></p>
+    					<ul>
+						<li><a href="http://mobile.reuters.com/article/idUSKBN0OR1M720150611">iPhone maker Foxconn in talks to build first Apple plant in India </li>
+						<li><a href="http://timesofindia.indiatimes.com/tech/tech-news/Nokia-bets-on-Indias-e-commerce-sector-to-grow-analytics-applications-business/articleshow/52237459.cms">Nokia bets on India's e-commerce sector to grow analytics, applications business</a></li>
+					 <li><a href="http://timesofindia.indiatimes.com/tech/tech-news/Worlds-largest-payments-network-Visa-plans-blockchain-push-from-India/articleshow/52235549.cms">World’s largest payments network Visa plans blockchain push from India</a></li>
+					 <li><a href="http://indianexpress.com/article/technology/tech-news-technology/airbnb-home-sharing-india-growth-2784510/"> Airbnb banks on India for future growth, claims it is fastest growing market </a></li>
+					 <li><a href="http://indianexpress.com/article/technology/tech-news-technology/google-free-wifi-to-launch-for-vijayawada-kachiguda-and-raipur-stations-tomorrow-2785323/">Google free WiFi to launch for Vijayawada, Kachiguda and Raipur stations tomorrow</a></li>
+					 <li><a href="http://thenextweb.com/apps/2016/05/11/whatsapp-desktop-app-windows-mac/">WhatsApp now has a desktop app for Windows and Mac</a></li>
+					  <li><a href="http://thenextweb.com/gadgets/2016/05/12/pebble-brings-affordable-smartwatches-india-last-starting-rs-6000/">Pebble brings its affordable smartwatches to India at last</a></li>
+					 <li><a href="http://timesofindia.indiatimes.com/tech/tech-news/Map-law-wont-hurt-tech-firms-but-companies-like-Google-will-have-to-depict-maps-correctly-Kiren-Rijiju/articleshow/52231789.cms">Map law won't hurt tech firms, but companies like Google will have to depict maps correctly: Kiren Rijiju</a></li>
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Sat, 14 May 2016 12:57:24 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/5ee3230b.mp3" type="audio/mpeg" length="46491918"/>
+		</item>
+		<item>
+			<title>BB 22: Data Breach and Privacy Law </title>
+			<link>http://bangalorebits.in/post/143921675814/bb22</link>
+			<guid>http://bangalorebits.in/post/143921675814/bb22</guid>
+			<description><![CDATA[
+    						<p><strong>Data Breach and Privacy Law </strong></p>
+    					<ul>
+						<li><a href="https://fallible.co/blog//2016/03/30/payment-gateway-hacked-credit-card-leaked/">Used your credit card online in India? It's probably stolen</li>
+						<li><a href="http://timesofindia.indiatimes.com/tech/tech-news/IRCTC-website-hacked-information-of-lakhs-feared-stolen/articleshow/52116516.cms?">IRCTC website hacked, information of lakhs feared stolen</a></li>
+						<li><a href="http://gadgets.ndtv.com/internet/news/oxigen-wallet-denies-alleged-hack-says-blog-undergoing-maintenance-749323">Oxigen Wallet Denies Alleged Hack, Says Blog Undergoing Maintenance</a></li>
+						<li><a href="http://www.inforisktoday.in/singapore-debates-breach-disclosure-a-8512"> Singapore Debates Breach Disclosure </a></li>
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Fri, 6 May 2016 08:58:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/8747655c.mp3" type="audio/mpeg" length="40491918"/>
+		</item>
+		<item>
+			<title>BB 21: ARM Devices and ARM Servers </title>
+			<link>http://bangalorebits.in/post/143456431004/bb21</link>
+			<guid>http://bangalorebits.in/post/143456431004/bb21</guid>
+			<description><![CDATA[
+    						<p><strong> ARM Devices & ARM Servers</strong></p>
+    					<ul>
+						<li><a href="http://www.anandtech.com/show/7112/the-arm-diaries-part-1-how-arms-business-model-works">HOW ARM's Business Model Works</li>
+						<li><a href="http://www.bloomberg.com/news/articles/2014-02-04/arm-chips-are-the-most-used-consumer-product-dot-where-s-the-money">ARM Designs One of the World's Most-Used Products. So Where's the Money?</a></li>
+						<li><a href="http://www.servethehome.com/gigabyte-d120-s3g-arm-storage-server-based-annapurna-labs-soc/">GIGABYTE ARM STORAGE SERVER BASED ON ANNAPURNA LABS SOC</a></li>
+						<li><a href="http://www.nextplatform.com/2016/01/14/will-amds-seattle-push-arm-servers-into-the-mainstream/"> Will AMD’s Seattle Push ARM Servers Into The Mainstream? </a></li>
+						<li><a href="www.pcworld.com/article/3026727/linaro-provides-go-to-linux-based-software-stack-for-arm-servers.html">Linaro provides go-to Linux-based software stack for ARM servers </a></li>
+			]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Tue, 26 Apr 2016 08:58:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/95c78103.mp3" type="audio/mpeg" length="50491918"/>
+		</item>
+		<item>
+			<title>BB 20: India Tech News Round up - March 2016 </title>
+			<link>http://bangalorebits.in/post/142788733024/bb20</link>
+			<guid>http://bangalorebits.in/post/142788733024/bb20</guid>
+			<description><![CDATA[
+    						<p><strong> India Tech News Round up - March 2016 </strong></p>
+    					<ul>
+						<li><a href="http://indianexpress.com/article/technology/tech-news-technology/visa-micromax-and-transerv-announce-strategic-partnership-for-digital-commerce/">Micromax teams up with Visa, TranServ for digital payments partnership</a></li>
+						<li><a href="http://indianexpress.com/article/technology/social/whatsapp-end-to-end-encryption-not-illegal-in-india/">Whatsapp is not breaking Indian laws with 256-bit encryption, for now</a></li>
+						<li><a href="http://indianexpress.com/article/technology/tech-news-technology/expanding-internet-reach-in-india-google-asked-to-revise-frequency-for-loon-white-spaces-to-connect-schools/">Google asked to revise frequency for Project Loon; Microsoft’s White Spaces to connect schools</a></li>
+						<li><a href="http://www.thehindu.com/sci-tech/technology/internet/fb-twitter-google-asked-to-set-up-india-servers/article8442797.ece"> FB, Twitter, Google asked to set up India servers </a></li>
+						<li><a href="http://www.theverge.com/2016/4/11/11406008/remix-os-android-nexus-9-10">Remix OS could make Nexus tablets live up to their potential </a></li>
+					    <li><a href="http://www.jide.com/remixos-for-pc">Remix OS for PC</a></li>
+						<li><a href="http://www.team-bhp.com/news/zoomcar-associate-program-lease-car-zoomcar">Zoomcar Associate Program - lease a car to Zoomcar </a></li>
+l> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 14 Apr 2016 04:58:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/2b04cbfc.mp3" type="audio/mpeg" length="65491918"/>
+		</item>
+		<item>
+			<title>BB 19: MWC2016 </title>
+			<link>http://bangalorebits.in/post/140448824644/bb19</link>
+			<guid>http://bangalorebits.in/post/140448824644/bb19</guid>
+			<description><![CDATA[
+ 						<p><strong> Mobile World Congress 2016</strong></p>
+ 					<ul>
+ 						<li><a href="http://www.wired.com/2016/02/lg-g5-announce/">LG Goes Modular With Its Crazy New Top-of-the-Line Phone </a></li>
+						<li><a href="http://www.projectara.com">Projectara</a></li>
+ 						<li><a href="https://www.phoronix.com/scan.php?page=news_item&px=Galaxy-S7-Launch-Event">Samsung Galaxy S7 Launches With Vulkan Support</a></li>
+ 						<li><a href="https://www.khronos.org/news/press/khronos-reveals-vulkan-api-for-high-efficiency-graphics-and-compute-on-gpus">Khronos Reveals Vulkan API for High-efficiency Graphics and Compute on GPUs</a></li>
+						<li><a href="http://www.bbc.com/news/technology-35627453">Sony Xperia puts AI assistant in owner's ear </a></li>
+						<li><a href="http://www.theverge.com/2016/2/21/11081476/samsung-connected-car-lte-dongle-mwc-2016">Samsung's new dongle gives your car an LTE connection</a></li>
+ 					  <li><a href="http://arstechnica.com/gadgets/2016/03/new-displayport-1-4-standard-can-drive-8k-monitors-over-a-usb-type-c-cable/">
+New DisplayPort 1.4 standard can drive 8K monitors over a USB Type-C cable</a></li>
+						<li><a href="http://arstechnica.com/gadgets/2016/02/cyanogen-launches-the-mod-platform-with-lots-of-microsoft-integration/?comments=1">
+Cyanogen launches the “Mod” platform, with lots of Microsoft integration</a></li>
+l> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 4 Mar 2016 08:29:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/4532c0f8.mp3" type="audio/mpeg" length="65491918"/>
+		</item>
+		<item>
+			<title>BB 18: India Tech News Round up - February 2016 </title>
+			<link>http://bangalorebits.in/post/139547028439/bb18</link>
+			<guid>http://bangalorebits.in/post/139547028439/bb18</guid>
+			<description><![CDATA[
+						<p><strong>India Tech News Round up - February 2016</strong></p>
+					<ul>
+						<li><a href="https://flic.kr/p/Ed3AXS">Remote Administration of my home router by ISP over http </a></li>
+					  <li><a href="http://www.routercheck.com/2014/08/14/major-problems-tr-069/">Routers Supplied by Broadband ISPs Vulnerable to TR-069</a></li>
+						<li><a href="https://www.youtube.com/watch?v=gFP5YcvQsKM">Too Many Cooks - Exploiting the Internet-of-TR-069-Things</a></li>
+						<li><a href="http://www.theguardian.com/technology/2016/feb/10/facebook-investor-marc-andreessen-apology-offensive-india-tweet-net-neutrality-free-basics">Mark Zuckerberg chides board member over 'deeply upsetting' India comments</a></li>
+						<li><a href="https://www.youtube.com/watch?v=f7CW7S0zxv4">Dr Shashi Tharoor on state of India Under British Raj  </a></li>
+						<li><a href="http://om.co/2016/02/08/nothing-is-free-not-even-facebook-free-basics/">Nothing Is Free, Not Even Facebook Free Basics</a></li>
+					  <li><a href="https://blog.lizardwrangler.com/2015/05/06/zero-rating-and-the-open-internet/">Zero Rating and the Open Internet</a></li>
+					  <li><a href="http://teewe.in//">Teewe</a></li>
+						<li><a href="http://techpp.com/2016/01/21/creo-android-smartphone/">Teewe’s Parent Company is Building a Proprietary Android Based OS and Smartphone</a></li>
+						<li><a href="http://techcrunch.com/2016/02/16/amazon-acquires-emvantage-to-build-its-online-payment-platform-in-india/">Amazon Acquires Emvantage To Build Its Online Payment Platform In India</a></li>
+					 <li><a href="https://stripe.com/us/pricing">Stripe Pricing</a></li>
+					 <li><a href="http://timesofindia.indiatimes.com/tech/tech-news/Apple-confirms-opening-of-development-centre-in-Hyderabad/articleshow/51008769.cms">Apple confirms opening of development centre in Hyderabad - Times of India</a></li>
+					 <li><a href="http://time.com/4226992/india-cheapest-smartphone-freedom-251/">A Smartphone That Costs $4 Is Set to Launch in India</a></li>
+					 l> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 18 Feb 2016 07:49:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/80019729.mp3" type="audio/mpeg" length="55491918"/>
+		</item>
+		<item>
+			<title>Episode 17: Open Swift  </title>
+			<link>http://bangalorebits.in/post/139422727819/bb17</link>
+			<guid>http://bangalorebits.in/post/139422727819/bb17</guid>
+			<description><![CDATA[
+				<p><strong>Episode 17: Open Swift</strong></p>
+			<ul>
+				<li><a href="http://swift.org/">Open Swift</a></li>
+				<li><a href="https://github.com/apple/">Github</a></li>
+				<li><a href="http://llvm.org/">LLVM</a></li>
+				<li><a href="https://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp#/repl">IBM Swift Sandbox</a></li>
+				<li><a href="http://perfect.org/">Server Side Swift</a></li>
+			</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Tue, 16 Feb 2016 07:53:12 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/2b2ac0ac.mp3" type="audio/mpeg" length="38742204"/>
+		</item>
+		<item>
+			<title>Episode 16: India Tech News Round up - January  </title>
+			<link>http://bangalorebits.in/post/137749048574/bb16</link>
+			<guid>http://bangalorebits.in/post/137749048574/bb16</guid>
+			<description><![CDATA[
+				<p><strong>Episode 16: India Tech News Round up - January</strong></p>
+			<ul>
+				<li><a href="https://blog.whatsapp.com/615/Making-WhatsApp-free-and-more-useful">Making WhatsApp free and more useful</a></li>
+				<li><a href="https://developers.facebook.com/blog/post/2015/03/25/introducing-messenger-platform-and-businesses-on-messenger/">Introducing Messenger Platform and Businesses on Messenger</a></li>
+				<li><a href="http://www.lookup.to/">Lookup</a></li>
+				<li><a href="http://goodbox.in/">GoodBox</a></li>
+				<li><a href="http://niki.ai/">Niki.Ai</a></li>
+			 <li><a href="http://www.livemint.com/Consumer/Il12D4HVYlbFDmV1xoVXqO/Titan-enters-wearables-space-with-smartwatch-Juxt.html">Titan enters wearables space with smartwatch Juxt</a></li>
+				<li><a href="http://mashable.com/2016/01/20/trai-facebook-free-basics-india/#J6GixbzcZZqq">India’s telecom regulator accuses Facebook of running an 'orchestrated opinion poll' for Free Basics</a></li>
+				<li><a href="https://www.bosslinux.in/">Bharat Operating System</a></li>
+			  <li><a href="http://www.livemint.com/Companies/lwmiZbLQu0HryQ2KlngJWJ/Snapdeal-owner-Jasper-Infotech-reports-Rs1328-crore-loss.html">Snapdeal owner Jasper Infotech reports Rs1328 crore loss</a></li>
+</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 21 Jan 2016 07:23:12 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/a69cbfee.mp3" type="audio/mpeg" length="38742204"/>
+		</item>
+		<item>
+			<title>Episode 15: Emerging Technologies from CES 2016 </title>
+			<link>http://bangalorebits.in/post/137285027664/bb15</link>
+			<guid>http://bangalorebits.in/post/137285027664/bb15</guid>
+			<description><![CDATA[
+				<p><strong>Emerging Technologies from CES 2016</strong></p>
+			<ul>
+				<li><a href="http://nvidianews.nvidia.com/news/nvidia-boosts-iq-of-self-driving-cars-with-world-s-first-in-car-artificial-intelligence-supercomputer">NVIDIA Boosts IQ of Self-Driving Cars With World's First In-Car Artificial Intelligence Supercomputer</a></li>
+				<li><a href="https://developer.amazon.com/appsandservices/community/post/Tx12DHY2VB4FKHL/Alexa-Announcements-at-CES-2016">Alexa Announcements at CES 2016</a></li>
+				<li><a href="http://www.fiercewireless.com/tech/story/wi-fi-alliance-introduces-wi-fi-halow-technology-internet-things/2016-01-03">Wi-Fi Alliance introduces Wi-Fi HaLow technology for Internet of Things</a></li>
+				<li><a href="http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/why-wireless-power-is-the-most-exciting-thing-at-ces">Why Wireless Power Is the Most Exciting Thing at CES 2016</a></li>
+				<li><a href="http://www.owletcare.com/">Owlet</a></li>
+			</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 14 Jan 2016 08:53:12 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/d55d7633.mp3" type="audio/mpeg" length="55491918"/>
+		</item>
+		<item>
+			<title>Episode 14: Online Privacy Tools and Practices</title>
+			<link>http://bangalorebits.in/post/134983214429/bb14</link>
+			<guid>http://bangalorebits.in/post/134983214429/bb14</guid>
+			<description><![CDATA[
+				<p><strong>Online Privacy Tools and Practices</strong></p>
+			<ul>
+				<li><a href="http://info.gigya.com/LP-Registration_Consumer-Privacy-Personalization_WP.html">Modern Consumer Expectations</a></li>
+				<li><a href="https://lastpass.com/">Lastpass password manager</a></li>
+				<li><a href="https://www.torproject.org/">Tor</a></li>
+				<li><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></li>
+				<li><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a></li>
+				<li><a href="https://www.eff.org/privacybadger">Privacy Badger</a></li>
+			  <li><a href="https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/">Self-Destructing Cookies</a></li>
+				<li><a href="https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/">ublock-origin</a></li>
+				<li><a href="https://addons.mozilla.org/en-US/firefox/addon/disconnect/">Disconnect</a></li>
+				<li><a href="http://www.ghacks.net/2015/08/18/a-comprehensive-list-of-firefox-privacy-and-security-settings/">Firefox Security Settings</a></li>
+				<li><a href="https://www.opendns.com/">Open DNS</a></li>
+				<li><a href="https://openvpn.net/">Open VPN</a></li>
+				<li><a href="https://en.wikipedia.org/wiki/Google_Authenticator">Two-factor Authentication</a></li>
+			  <li><a href="https://ssd.eff.org/en/module/how-encrypt-your-iphone/">How to Encrypt your iPhone</a></li>
+				<li><a href="http://www.thehindu.com/business/Industry/netflix-launches-in-india-130-other-countries/article8075764.ece">Netflix Launches in India</a></li>
+		</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 7 Jan 2016 09:09:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/f33e4c98.mp3" type="audio/mpeg" length="55491918"/>
+		</item>
+		<item>
+			<title>Episode 13: FreeBasics by Facebook</title>
+			<link>http://bangalorebits.in/post/134983214429/bb13</link>
+			<guid>http://bangalorebits.in/post/134983214429/bb13</guid>
+			<description><![CDATA[
+				<p><strong>Free Basics & Net Neutrality </strong></p>
+			<ul>
+				<li><a href="http://www.savetheinternet.in/">Savetheinternet</a></li>
+				<li><a href="https://newsroom.fb.com/news/2015/09/update-to-internet-org-free-basic-services/">Free Basics</a></li>
+				<li><a href="http://techcrunch.com/2015/12/17/save-free-basics/">Facebook’s “Save Free Basics In India” Campaign Provokes Controversy</a></li>
+				<li><a href="	http://www.thehindu.com/opinion/op-ed/nothing-free-or-basic-about-it/article8042334.ece">Nothing free or basic about it</a></li>
+				<li><a href="https://www.techinasia.com/talk/facebook-misleading-indians-fullpage-ads-free-basics">Facebook is misleading Indians with its full-page ads about Free Basics </a></li>
+				<li><a href="http://www.technologyreview.com/news/541351/facebooks-like-buttons-will-soon-track-your-web-browsing-to-target-ads/">Facebook’s Like Buttons Will Soon Track Your Web Browsing to Target Ads </a></li>
+	</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Wed, 30 Dec 2015 09:09:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/9fff2142.mp3" type="audio/mpeg" length="40588414"/>
+		</item>
+		<item>
+			<title>Episode 12: OpenAI </title>
+			<link>http://bangalorebits.in/post/134983214429/bb12</link>
+			<guid>http://bangalorebits.in/post/134983214429/bb12</guid>
+			<description><![CDATA[
+				<p><strong>Analysis of Machine learning & AI</strong></p>
+			<ul>
+				<li><a href="https://openai.com/blog/introducing-openai/">OpenAI</a></li>
+				<li><a href="https://medium.com/backchannel/how-elon-musk-and-y-combinator-plan-to-stop-computers-from-taking-over-17e0e27dd02a#.k6gv3s1up">How Elon Musk and Y Combinator Plan to Stop Computers From Taking Over</a></li>
+				<li><a href="http://www.alchemyapi.com/">Build Smarter Apps </a></li>
+		</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Fri, 21 Dec 2015 09:09:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/6c2bfd1c.mp3" type="audio/mpeg" length="40588414"/>
+		</item>
+		<item>
+			<title>Episode 11: Facebook at work </title>
+			<link>http://bangalorebits.in/post/134983214429/bb11</link>
+			<guid>http://bangalorebits.in/post/134983214429/bb11</guid>
+			<description><![CDATA[
+				Chat on Facebook at work and its features.
+				<br/><a href="https://www.facebook.com/help/work">Facebook at work</a>
+				<br/><a href="https://www.facebook.com/help/work/431877453687567/">Facebook at work - Getting started</a>
+				<br/><a href="https://www.facebook.com/help/contact/827299783957064">FaceBook at work  Signing Up</a>
+				<br/><a href="https://itunes.apple.com/us/app/facebook-at-work/id944921229?mt=8">IOS App</a>
+				<br/><a href="https://play.google.com/store/apps/details?id=com.facebook.workchat">Facebook Work Chat</a>]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Fri, 11 Dec 2015 09:09:23 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/d8af8c84.mp3" type="audio/mpeg" length="38202381"/>
+		</item>
+		<item>
+			<title>Episode 10: Apple ResearchKit</title>
+			<link>http://bangalorebits.in/post/133997111259/bbep10</link>
+			<guid>http://bangalorebits.in/post/133997111259/bbep10</guid>
+			<description><![CDATA[
+				<p><strong>Apple ResearchKit - Features &amp; ecosystem</strong></p>
+				<ul>
+				<li><a href="https://www.apple.com/researchkit/">researchkit </a></li>
+			</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 26 Nov 2015 10:33:22 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/fce87df5.mp3" type="audio/mpeg" length="33541615"/>
+		</item>
+		<item>
+			<title>Episode 9: India News Roundup</title>
+			<link>http://bangalorebits.in/post/135428471629/bbep9</link>
+			<guid>http://bangalorebits.in/post/135428471629/bbep9</guid>
+			<description>Round up of India tech news</description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Tue, 20 Oct 2015 14:30:00 EDT</pubDate>
+			<enclosure url="https://audio.simplecast.com/2f69bebc.mp3" type="audio/mpeg" length="43646760"/>
+		</item>
+		<item>
+			<title>Episode 8: India Antitrust Investigation</title>
+			<link>http://bangalorebits.in/post/128462645974/episode-8-india-antitrust-investigation-indias</link>
+			<guid>http://bangalorebits.in/post/128462645974/episode-8-india-antitrust-investigation-indias</guid>
+			<description><![CDATA[
+				India’s Antitrust Commission Accuses Google Of Rigging Its Search Results
+				<br/> Google OnHub
+				<br/> Linus Torvalds on the state of software security, the Internet of Things, and the future of Linux]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Sun, 06 Sep 2015 02:38:27 EDT</pubDate>
+			<enclosure url="https://audio.simplecast.com/bcba99c2.mp3" type="audio/mpeg" length="46794307"/>
+		</item>
+		<item>
+			<title>Episode 6: Startup Story - evidyaloka.org</title>
+			<link>http://bangalorebits.in/post/128007211934/episode-6-startup-story-evidyalokaorg</link>
+			<guid>http://bangalorebits.in/post/128007211934/episode-6-startup-story-evidyalokaorg</guid>
+			<description><![CDATA[
+				evidyaloka.org co-founder Venkat Sriraman shares his startup journey.
+				<br/>eVidyaloka is a not for profit organization focusing on transforming the education landscape in the rural and remote regions of the India]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Thu, 12 Mar 2015 14:30:00 EDT</pubDate>
+			<enclosure url="https://audio.simplecast.com/e36313e7.mp3" type="audio/mpeg" length="77971191"/>
+		</item>
+		<item>
+			<title>Episode 5: Cloud Foundry</title>
+			<link>http://bangalorebits.in/post/127944398504/episode-5-cloud-foundry-introduction-to-cloud</link>
+			<guid>http://bangalorebits.in/post/127944398504/episode-5-cloud-foundry-introduction-to-cloud</guid>
+			<description><![CDATA[
+				<p><strong>Introduction to Cloud Foundry by Guest speaker Murali TS</strong></p>
+				<ul>
+				<li><a href="https://www.cloudfoundry.org/">Cloud Foundry </a></li>
+			</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Wed, 18 Feb 2015 13:30:00 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/73920edc.mp3" type="audio/mpeg" length="59669970"/>
+		</item>
+		<item>
+			<title>Episode 3: Apple Healthkit</title>
+			<link>http://bangalorebits.in/post/127943617774/episode-3-healthkit-analysis-of-apple-healthkit</link>
+			<guid>http://bangalorebits.in/post/127943617774/episode-3-healthkit-analysis-of-apple-healthkit</guid>
+			<description><![CDATA[
+					<p><strong>Analysis of Apple Healthkit</strong></p>
+					<ul>
+					<li><a href="https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/HealthKitUI_Framework/index.html#//apple_ref/doc/uid/TP40016713">healthkit</a></li>
+				</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Wed, 28 Jan 2015 13:30:00 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/96d346fc.mp3" type="audio/mpeg" length="79991761"/>
+		</item>
+		<item>
+			<title>Episode 2: Free NAS</title>
+			<link>http://bangalorebits.in/post/127714545274/episode-2-free-nas-analysis-of-nas-options-for</link>
+			<guid>http://bangalorebits.in/post/127714545274/episode-2-free-nas-analysis-of-nas-options-for</guid>
+			<description><![CDATA[
+					<p><strong>Analysis of NAS options for Home &amp; Commentary on Free NAS features</strong></p>
+				<ul>
+					<li><a href="http://www.freenas.org/http://www.freenas.org/">FreeNAS</a></li>
+				</ul> ]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Mon, 15 Dec 2014 13:30:00 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/a01371d2.mp3" type="audio/mpeg" length="54019771"/>
+		</item>
+		<item>
+			<title>Episode 1: Apple Watchkit</title>
+			<link>http://bangalorebits.in/post/127713651939/episode-1-wearables-watchkit-pebble-analysis-of</link>
+			<guid>http://bangalorebits.in/post/127713651939/episode-1-wearables-watchkit-pebble-analysis-of</guid>
+			<description><![CDATA[
+				Analysis of existing Health and Fitness bands in the market
+				<br/> Introduction to Apple Watchkit
+				<br/> Experience with Pebble and introduction to Pebble SDK
+				<br/> India Tech News - Oneplus One Launch, Cyanogen Mod Micromax Deal etc.]]></description>
+			<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+			<pubDate>Mon, 01 Dec 2014 13:32:00 EST</pubDate>
+			<enclosure url="https://audio.simplecast.com/7d3a785a.mp3" type="audio/mpeg" length="82461397"/>
+		</item>
+	</channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Bangalore Bits Podcast"
-date: 2018-02-05
+date: 2018-02-01
 categories:
 - podcast
 - Home
@@ -26,36 +26,33 @@ thumbnailImage:  https://res.cloudinary.com/bangalorebits/image/upload/v15177454
 coverImage:   https://res.cloudinary.com/bangalorebits/image/upload/v1517745474/site-assets/welcome-cover-large.png
 metaAlignment: center
 ---
-<P style="text-align: justify">
-**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies* as well talk to *industry experts* about **interesting things** they are working on. The theme of the shows evolves as technology landscape reshapes itself, Our conversations remain mostly around *Software Engineering & Product Design*.
+
+**Bangalore Bits** is a **weekly** podcast created to provide a perspective on latest *technology trends*,overview on *development platforms*, how-tos, DIY projects and *technology* news from **India**.
+
 <!--more-->
-Sometimes we gravitate towards *technology* news thats emerging from **India**
-
-**We do not review any products**
-
 Our shows are mostly **audio** only sometimes supported by screencasts or a detailed blog article.  You can find our show on *Apple* *iTunes* and on other *pod-catcher* apps.
 
 Thanks for tuning to **Bangalore Bits**  we hope you enjoy our shows if you do please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
 
 if you have a suggestion, topic request or working on a interesting project to showcase feel free to drop us a line on [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
+______
+#### Hosts, Co-host & Twitter Handle
 
-#####  Bangalore Bits Show themes so far
+**[Subramani Jaisankar]** - Subramani is the host of Banglaore Bits. He comes with Software Engineering and product development background - [@subbuj](https://twitter.com/subbuj)
+
+
+
+
+**[Subramanian Krishnan]** - [TBD]
+
+**[Atul Jha]** - [TBD]
+
+______
+#### Bangalore Bits Show themes
+- [2018]   -  Recording in Progress...
 - [2017]   -  Consumer Technology, **Cloud**, **IoT**, **Wearables**, VR, **Open Source**, **ARM**
 - [2016]   -  **Consumer Technology**, **Mobile Platforms**, Technology Events, Internet Policy
 
-______
-#### Host
-<div style="text-align: justify">
-*[Subramani Jaisankar]* - **Subramani** is the host of **Banglaore Bits**. He comes from a *Software Engineering & Product Development* background - [@subbuj](https://twitter.com/subbuj)
-
-#### Co-Host
-- *[Subramanian Krishnan]* - [To be filled...]
-
-- *[Atul Jha]* - Atul Jha has been active in open source communities for over a decade.
-Currently, he is spending most of his time reading psychology and spreading philosophy. - [@koolhead17](https://twitter.com/koolhead17)
-
-  You can find his rambling’s on his [blog](atuljha.com/blog)
-</div>
 ______
 #### How to Subscribe
 
@@ -83,24 +80,17 @@ ______
         </tr>
     </table>
 </div>
+
+
 - *Alexa Skill* On they way ...
-####  Web Channels
-[Podtail.com](https://podtail.com/podcast/bangalore-bits/)
-- [Podfantic.com](https://podfanatic.com/podcast/bangalore-bits)
-- [Podparadise.com](https://www.podparadise.com/Podcast/1052661140)
-- [Podcasts.com](http://www.podcasts.com/bangalore-bits-62)
-- [Listen Notes](https://www.listennotes.com/c/d766a50d9f4f46f3b526f68127902cc6/bangalore-bits/?previous_pub_date=1511877923000)
-#### Curations
-  - [rockingentrepreneur.com](http://rockingentrepreneur.com/list-of-indian-podcasts/)
-  - [reddit.com/r/india/wiki/podcasts](https://www.reddit.com/r/india/wiki/podcasts)
+
 ______
-##  Credits / Special thanks to ...
+
+
+## Credits / Special thanks to ...
 | [![StaticSiteGenerator](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517505145/site-assets/go-hugo.jpg)](http://gohugo.io)  | [![Theme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) | [![OriginalTheme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) |
 |:---:|:---:|:---:|
-| Site Generator: [*Gohugo.io*](http://gohugo.io) | Theme: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Original theme:  [*Hexo*](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)|
-- **Website** - Designed, Developed & Maintained by *[Subrmani Jaisankar](http://twitter.com/subbuj)*
-- **Images**  - *[unsplash](http://unsplash.com)*
-- **Icons** - [Google Clod Engine]
+| Site Generator: [*Gohugo.io*](http://gohugo.io) | Theme: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Original theme:  [*Hexo*](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak) |
 
-</P>
+**Image credits**  - [unsplash.com](http://unsplash.com)
 ______
