@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Bangalore Bits Podcast"
-date: 2018-02-05
+title: "Hello Listener"
+date: 2018-02-08T15:04:21+05:30
 categories:
 - podcast
 - Home
@@ -52,7 +52,7 @@ ______
 - *[Atul Jha]* - Atul Jha has been active in open source communities for over a decade.
 Currently, he is spending most of his time reading psychology and spreading philosophy - [@koolhead17](https://twitter.com/koolhead17)
 
-  You can find his rambling’s on his [blog](atuljha.com/blog)
+  You can find his rambling’s on his [blog](http://www.atuljha.com/blog)
 </P>
 ______
 #### How to Subscribe

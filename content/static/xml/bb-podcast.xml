@@ -12,7 +12,35 @@
 		</image>
 		<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
 
+		<item>
+					<title>BB 74: In Conversation With Avdi Grimm </title>
+				<link>http://bangalorebits.in/post/170653222529/bb74</link>
+				<guid>http://bangalorebits.in/post/170653222529/bb74</guid>
+				<description><![CDATA[
 
+						<p><strong> In Conversation With Avdi Grimm </strong></p>
+
+						<p>
+						<ul>
+						<li> Avdi Grimm is in town(Bangalore) for RUBYCONF India 2018. Earlier today Atul Jha had a chance to sit with and talk about state of Ruby and other programming languages   </li>
+
+						<P> <b> Links</b></P>
+
+
+						<P>
+						<ul>
+						<li><a href="http://rubyconfindia.org/"> RubyConf India</a></li>
+						<li><a href="http://www.virtuouscode.com/"> Avdi's Blog - Virtuouscode </a></li>
+						<li><a href="https://twitter.com/@avdi/"> Twitter - @avdi </a></li>
+
+
+						</ul>
+						</P>
+				]]></description>
+				<itunes:image href="http://bbhash.s3.amazonaws.com/assets/bb1400.png"/>
+				<pubDate>Mon, 08 Feb 2018 9:05:23 EST</pubDate>
+				<enclosure url="https://audio.simplecast.com/2e0a3dfe.mp3" type="audio/mpeg" length="29591719"/>
+		</item>
 
 		<item>
 				<title>BB 73: Red Hat to Acquire CoreOS </title>

@@ -80,7 +80,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/episodes/welcome"
+  url = "/page/about"
   [[menu.main]]
 
   #weight = 6 this theme doesnt support search as of now - subramnai.Jaisankar
@@ -241,7 +241,7 @@ canonifyurls = true
 
   # Customize link of author avatar in sidebar
   [params.sidebar.profile]
-     url = "/page/about"
+     url = "/page/about.md"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]

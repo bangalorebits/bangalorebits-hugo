@@ -2,8 +2,8 @@
 title: "BB 06: Startup Story - evidyaloka.org"
 date: 2015-03-13T15:04:20+05:30
 categories:
-- Startup
-- eVidyaloka
+- Conversations
+- startup
 tags:
 - startup
 - remote-learning

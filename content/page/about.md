@@ -14,16 +14,17 @@ tags:
 ---
 
 <P style="text-align: justify">
-**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so fourth. Sometimes we gravitate towards *technology* news thats emerging from **India** and global *tech events*.  
+**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology* news thats emerging from **India** and global *tech events*.  
 
 *Software Engineering & Product Development* are the two broader themes for **Banglaore Bits**.
 </P>
+<!--more-->
 
-Thanks for tuning to **Bangalore Bits**  we hope you enjoy our shows if you do please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
+Thanks for tuning to **Bangalore Bits**, we hope you enjoy our shows. Please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
 
-if you have a suggestion, topic request or working on a interesting project to showcase feel free to drop us a line on [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
+If you have a suggestion, topic request or to showcase your interesting project feel free to drop us a line on [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
 
-#####  Bangalore Bits Show themes so far
+#####  Bangalore Bits Show themes
 - [2017]   -  Consumer Technology, **Cloud**, **IoT**, **Wearables**, VR, **Open Source**, **ARM**
 - [2016]   -  **Consumer Technology**, **Mobile Platforms**, Technology Events, Internet Policy
 
@@ -33,12 +34,12 @@ ______
 *[Subramani Jaisankar]* - **Subramani** is the host of **Banglaore Bits**. He comes from a *Software Engineering & Product Development* background - [@subbuj](https://twitter.com/subbuj)
 
 #### Co-Host
-- *[Subramanian Krishnan]* - [To be filled...]
+- *[Subramanian Krishnan]* - **Subbu** is an entrepreneur and passionate about technology and gadgets - [@asksubbu](https://twitter.com/asksubbu)
 
 - *[Atul Jha]* - Atul Jha has been active in open source communities for over a decade.
-Currently, he is spending most of his time reading psychology and spreading philosophy. - [@koolhead17](https://twitter.com/koolhead17)
+Currently, he is spending most of his time reading psychology and spreading philosophy - [@koolhead17](https://twitter.com/koolhead17)
 
-  You can find his rambling’s on his [blog](atuljha.com/blog)
+  You can find his rambling’s on his [blog](http://www.atuljha.com/blog)
 </P>
 ______
 #### How to Subscribe
