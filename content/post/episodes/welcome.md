@@ -27,13 +27,11 @@ coverImage:   https://res.cloudinary.com/bangalorebits/image/upload/v1517745474/
 metaAlignment: center
 ---
 <P style="text-align: justify">
-**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies* as well talk to *industry experts* about **interesting things** they are working on. The theme of the shows evolves as technology landscape reshapes itself, Our conversations remain mostly around *Software Engineering & Product Design*.
+**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so fourth. Sometimes we gravitate towards *technology* news thats emerging from **India** and global *tech events*.  
+
+*Software Engineering & Product Development* are the two broader themes for **Banglaore Bits**.
+</P>
 <!--more-->
-Sometimes we gravitate towards *technology* news thats emerging from **India**
-
-**We do not review any products**
-
-Our shows are mostly **audio** only sometimes supported by screencasts or a detailed blog article.  You can find our show on *Apple* *iTunes* and on other *pod-catcher* apps.
 
 Thanks for tuning to **Bangalore Bits**  we hope you enjoy our shows if you do please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
 
