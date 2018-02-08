@@ -45,7 +45,7 @@ if you have a suggestion, topic request or working on a interesting project to s
 
 ______
 #### Host
-<div style="text-align: justify">
+<P style="text-align: justify">
 *[Subramani Jaisankar]* - **Subramani** is the host of **Banglaore Bits**. He comes from a *Software Engineering & Product Development* background - [@subbuj](https://twitter.com/subbuj)
 
 #### Co-Host
@@ -55,7 +55,7 @@ ______
 Currently, he is spending most of his time reading psychology and spreading philosophy. - [@koolhead17](https://twitter.com/koolhead17)
 
   You can find his rambling’s on his [blog](atuljha.com/blog)
-</div>
+</P>
 ______
 #### How to Subscribe
 
@@ -85,7 +85,7 @@ ______
 </div>
 - *Alexa Skill* On they way ...
 ####  Web Channels
-[Podtail.com](https://podtail.com/podcast/bangalore-bits/)
+- [Podtail.com](https://podtail.com/podcast/bangalore-bits/)
 - [Podfantic.com](https://podfanatic.com/podcast/bangalore-bits)
 - [Podparadise.com](https://www.podparadise.com/Podcast/1052661140)
 - [Podcasts.com](http://www.podcasts.com/bangalore-bits-62)
@@ -98,9 +98,8 @@ ______
 | [![StaticSiteGenerator](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517505145/site-assets/go-hugo.jpg)](http://gohugo.io)  | [![Theme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) | [![OriginalTheme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) |
 |:---:|:---:|:---:|
 | Site Generator: [*Gohugo.io*](http://gohugo.io) | Theme: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Original theme:  [*Hexo*](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)|
+
 - **Website** - Designed, Developed & Maintained by *[Subrmani Jaisankar](http://twitter.com/subbuj)*
 - **Images**  - *[unsplash](http://unsplash.com)*
 - **Icons** - [Google Clod Engine]
-
-</P>
 ______
