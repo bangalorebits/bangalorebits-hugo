@@ -80,7 +80,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/page/about"
+  url = "/episodes/welcome"
   [[menu.main]]
 
   #weight = 6 this theme doesnt support search as of now - subramnai.Jaisankar
