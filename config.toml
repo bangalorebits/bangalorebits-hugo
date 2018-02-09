@@ -75,12 +75,12 @@ canonifyurls = true
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/archives"
-[[menu.main]]
-  weight = 6
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/st-pages/about"
+#[[menu.main]]
+#  weight = 6
+#  identifier = "about"
+#  name = "About"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+#  url = "/st-pages/about"
 #[[menu.main]]
 #  weight = 6
 #  identifier = "search"
@@ -106,7 +106,7 @@ canonifyurls = true
    weight = 3
    identifier = "itunes"
    name = "iTunes"
-   pre = "<i class=\"sidebar-button-icon fa fa-lg  fa-music\"></i>"
+   pre = "<i class=\"sidebar-button-icon fa fa-lg  fa-apple\"></i>"
    url = "https://itunes.apple.com/my/podcast/bangalore-bits/id1052661140?mt=2"
 
 [[menu.main]]
