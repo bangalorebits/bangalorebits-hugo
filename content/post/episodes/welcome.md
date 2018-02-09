@@ -20,7 +20,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 #thumbnailImage:  //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
-thumbnailImage:   "/static/img/welcome-cover-small.png"
+thumbnailImage:   "/static/img/home-cover-small.png"
 #thumbnailImage:  https://res.cloudinary.com/bangalorebits/image/upload/v1517745472/site-assets/welcome-cover.png
 #coverImage:   //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 coverImage:   https://res.cloudinary.com/bangalorebits/image/upload/v1517745474/site-assets/welcome-cover-large.png
