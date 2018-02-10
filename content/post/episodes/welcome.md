@@ -35,7 +35,7 @@ metaAlignment: center
 
 Thanks for tuning to **Bangalore Bits**, we hope you enjoy our shows. Please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
 
-If you have a suggestion, topic request or to showcase your interesting project feel free to drop us a line on [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
+If you have a suggestion, topic request,to showcase your interesting project or just want to say hello drop us a line at [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
 
 #####  Bangalore Bits Show themes
 - [2017]   -  Consumer Technology, **Cloud**, **IoT**, **Wearables**, VR, **Open Source**, **ARM**
