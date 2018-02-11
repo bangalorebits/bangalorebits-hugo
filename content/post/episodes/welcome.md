@@ -27,7 +27,7 @@ coverImage:   https://res.cloudinary.com/bangalorebits/image/upload/v1517745474/
 metaAlignment: center
 ---
 <P style="text-align: justify">
-**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology* news thats emerging from **India** and global *tech events*.  
+**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* thats emerging from **India** and global *tech events*.  
 
 *Software Engineering & Product Development* are the two broader themes for **Banglaore Bits**.
 </P>
@@ -81,23 +81,27 @@ ______
         </tr>
     </table>
 </div>
-- *Alexa Skill* On they way ...
+
+  - *Alexa Skill* On they way ...
+
 ####  Web Channels
 - [Podtail.com](https://podtail.com/podcast/bangalore-bits/)
 - [Podfantic.com](https://podfanatic.com/podcast/bangalore-bits)
 - [Podparadise.com](https://www.podparadise.com/Podcast/1052661140)
 - [Podcasts.com](http://www.podcasts.com/bangalore-bits-62)
 - [Listen Notes](https://www.listennotes.com/c/d766a50d9f4f46f3b526f68127902cc6/bangalore-bits/?previous_pub_date=1511877923000)
-#### Curations
-  - [rockingentrepreneur.com](http://rockingentrepreneur.com/list-of-indian-podcasts/)
-  - [reddit.com/r/india/wiki/podcasts](https://www.reddit.com/r/india/wiki/podcasts)
-______
-##  Credits / Special thanks to ...
-| [![StaticSiteGenerator](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517505145/site-assets/go-hugo.jpg)](http://gohugo.io)  | [![Theme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) | [![OriginalTheme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) |
-|:---:|:---:|:---:|
-| Site Generator: [*Gohugo.io*](http://gohugo.io) | Theme: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Original theme:  [*Hexo*](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)|
 
-- **Website** - Designed, Developed & Maintained by *[Subrmani Jaisankar](http://twitter.com/subbuj)*
-- **Images**  - *[unsplash](http://unsplash.com)*
-- **Icons** - [Google Clod Engine]
+#### Curations
+- [rockingentrepreneur.com](http://rockingentrepreneur.com/list-of-indian-podcasts/)
+- [reddit.com/r/india/wiki/podcasts](https://www.reddit.com/r/india/wiki/podcasts)
+
 ______
+####  Credits / Special thanks to ...
+| [![StaticSiteGenerator](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517505145/site-assets/go-hugo.jpg)](http://gohugo.io)  | [![Theme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) | [![DeploysBy](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://www.netlify.com") |
+|:---:|:---:|:---:|
+| Site Generator: [*Gohugo.io*](http://gohugo.io) | Theme Creator: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Deploys By:  [*netlify*](https://www.netlify.com")|
+<BR>
+
+- [Bangalore Bits](https://www.bangalorebits.in) Designed, developed and maintained by *[Subrmani Jaisankar](http://twitter.com/subbuj)*
+- Images: *[unsplash](http://unsplash.com)*
+- Icons : *[Google Clod Engine]*
