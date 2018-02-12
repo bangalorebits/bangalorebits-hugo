@@ -60,23 +60,29 @@ ______
 <div id="image-table">
     <table>
 	    <tr>
-    	    <td style="padding:5px">
-        	    <a href="https://itunes.apple.com/in/podcast/bangalore-bits/id1052661140?mt=2" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg) no-repeat;width:133px;height:34px;background-size:contain;" ></a>
+    	    <td style="padding:5px" align="center">
+        	   <a href="https://itunes.apple.com/in/podcast/bangalore-bits/id1052661140?mt=2/" title="iTunes"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1518340520/bb-episode-assets/56-apple-512_muenql.png" alt="iTunes" style="border:0;" /></a>
+             <h6 align="center">iTunes</h6>
       	    </td>
             <td style="padding:5px">
-            	<a href="http://subscribeonandroid.com/feeds.feedburner.com/bangalorebits" title="Subscribe on Android"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_133,h_34/v1517722002/site-assets/subscribe-on-android.png" alt="Subscribe on Android" style="border:0;" /></a>
+            	<a href="http://subscribeonandroid.com/feeds.feedburner.com/bangalorebits" title="Subscribe on Android"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_70,h_70,c_fill,r_max/v1518340519/bb-episode-assets/android_ekcrjy.png" alt="Android" style="border:0;" /></a>
+              <h6> Android </h6>
              </td>
              <td style="padding:5px">
              	<a href="https://tunein.com/radio/Bangalore-Bits-p1056878/" title="Tunein"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517722643/site-assets/tune-in.jpg" alt="tunein" style="border:0;" /></a>
+              <h6> Tunein </h6>
               </td>
               <td style="padding:5px">
                <a href="https://fyyd.de/podcast/bangalore-bits/0" title="fyyd.be"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517723398/site-assets/fyyd_hzhvzz.png" alt="fyyd.de" style="border:0;" /></a>
+               <h6> fyyd.be </h6>
                </td>
                <td style="padding:5px">
-                 <a href="https://overcast.fm/itunes1052661140/bangalore-bits" title="overcast.fm"><img src="https://d2uzvmey2c90kn.cloudfront.net/img/logo.svg?3" height="74px" width="75px" alt="overcast.fm" style="border:0;" /></a>
+                 <a href="https://overcast.fm/itunes1052661140/bangalore-bits" title="overcast.fm"><img src="https://d2uzvmey2c90kn.cloudfront.net/img/logo.svg?3" height="75px" width="75px" alt="overcast.fm" style="border:0;" /></a>
+                 <h6> Overcast </h6>
               </td>
-               <td style="padding:5px">
+               <td style="padding:10px">
                  <a href="https://feeds.feedburner.com/bangalorebits" title="RSS"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517502362/site-assets/rss.jpg" alt="RSS" style="border:0;" /></a>
+                 <h6> RSS / ATOM </h6>
               </td>
         </tr>
     </table>

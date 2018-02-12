@@ -25,6 +25,8 @@ thumbnailImage: https://res.cloudinary.com/bangalorebits/image/upload/c_scale,f_
 aliases:
     - /post/127713651939/episode-1-wearables-watchkit-pebble-analysis-of
     - /episodes/bb1
+
+
 ---
 <iframe frameborder='0' height='200px' scrolling='no' seamless src='https://embed.simplecast.com/7d3a785a?color=f5f5f5' width='100%'></iframe>
 <BR>
