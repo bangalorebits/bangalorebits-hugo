@@ -42,7 +42,7 @@ canonifyurls = true
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
 
   #picture = "https://cdn4.iconfinder.com/data/icons/adiante-apps-app-templates-incos-in-grey/128/app_type_conference_512px_GREY.png"
-  #picture = "https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/podcast-512.png"
+  #picture = "../static/img/bb-512.png"
 
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "bangalorebits"
@@ -249,7 +249,7 @@ canonifyurls = true
 
   # Customize link of author avatar in sidebar
   [params.sidebar.profile]
-     url = "/page/about.md"
+     url = "https://www.bangalorebits.in"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
