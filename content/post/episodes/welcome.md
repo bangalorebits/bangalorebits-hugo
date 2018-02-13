@@ -1,5 +1,5 @@
 ---
-title: "Hello Listener!"
+title: "Hello Listener! Welcome to Bangalore Bits"
 date: 2018-02-08T15:04:21+05:30
 categories:
 - podcast
@@ -20,7 +20,7 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 #thumbnailImage:  //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
-thumbnailImage:   "/static/img/home-cover-small.png"
+#thumbnailImage:   "/static/img/home-cover-small.png"
 #thumbnailImage:  https://res.cloudinary.com/bangalorebits/image/upload/v1517745472/site-assets/welcome-cover.png
 #coverImage:   //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 coverImage:   https://res.cloudinary.com/bangalorebits/image/upload/v1517745474/site-assets/welcome-cover-large.png
@@ -72,10 +72,6 @@ ______
              	<a href="https://tunein.com/radio/Bangalore-Bits-p1056878/" title="Tunein"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517722643/site-assets/tune-in.jpg" alt="tunein" style="border:0;" /></a>
               <h6> Tunein </h6>
               </td>
-              <td style="padding:5px">
-               <a href="https://fyyd.de/podcast/bangalore-bits/0" title="fyyd.be"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517723398/site-assets/fyyd_hzhvzz.png" alt="fyyd.de" style="border:0;" /></a>
-               <h6> fyyd.be </h6>
-               </td>
                <td style="padding:5px">
                  <a href="https://overcast.fm/itunes1052661140/bangalore-bits" title="overcast.fm"><img src="https://d2uzvmey2c90kn.cloudfront.net/img/logo.svg?3" height="75px" width="75px" alt="overcast.fm" style="border:0;" /></a>
                  <h6> Overcast </h6>
@@ -91,6 +87,8 @@ ______
   - *Alexa Skill* On they way ...
 
 ####  Web Channels
+
+- [fyyd.de](https://fyyd.de/podcast/bangalore-bits/0)
 - [Podtail.com](https://podtail.com/podcast/bangalore-bits/)
 - [Podfantic.com](https://podfanatic.com/podcast/bangalore-bits)
 - [Podparadise.com](https://www.podparadise.com/Podcast/1052661140)

@@ -123,15 +123,14 @@ canonifyurls = true
   identifier = "rss"
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
+  url = "https://feeds.feedburner.com/bangalorebits"
 
 [[menu.misc]]
     weight = 2
     identifier = "site-health"
-    name = "RSS"
+    name = "site-health"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-heartbeat\"></i>"
-    url = "http://stats.pingdom.com/4zyeed3hk9nl/4306686"
-
+    url = "http://status.bangalorebits.in"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -181,6 +180,7 @@ canonifyurls = true
   #coverImage = "../static/img/welcome-cover-large.png"
   #coverImage = "https://res.cloudinary.com/bangalorebits/image/upload/v1517745474/site-assets/welcome-cover-large.png"
   coverImage = "../static/img/left-nav.png"
+  #coverImage = "../static/img/welcome-cover-large-left-nav.png"
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
 
