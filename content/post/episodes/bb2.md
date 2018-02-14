@@ -33,8 +33,8 @@ In today's show we discuss about network attached file storage(NAS) options for 
 - Plugin echo system (bacula,transmission,plexmedia server,crash plan,BitTorrent Sync, miniDLNA)
 
 ##### Useful Resources
-  - [FreeNAS](http://www.freenas.org/about/features/)
-  - [FreeNAS for home](http://www.freenas.org/for-home/)
+  - [FreeNAS](https://www.freenas.org/about/features/)
+  - [FreeNAS for home](https://www.freenas.org/for-home/)
 
 ##### Credits
 

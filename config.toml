@@ -12,8 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-
-baseURL = "https://bangalorebits.in"
+#prod
+#baseURL = "https://bangalorebits.in"
+#Dev
+baseURL = "https://next--bangalorebits.netlify.com"  
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
@@ -130,7 +132,7 @@ canonifyurls = true
     identifier = "site-health"
     name = "site-health"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-heartbeat\"></i>"
-    url = "http://status.bangalorebits.in"
+    url = "https://status.bangalorebits.in"
 
 [params]
   # Customize date format use to render blog post date, categories and other

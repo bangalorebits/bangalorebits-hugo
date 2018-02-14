@@ -11,7 +11,7 @@ tags:
 - about
 thumbnailImagePosition: "top"
 #coverImage:   "/static/img/welcome-cover-large.png"
-coverImage: "https://source.unsplash.com/1920x1080/?black-and-white"
+coverImage: "https://source.unsplash.com/1920x1080/?india?black-and-white"
 metaAlignment: center
 ---
 
@@ -41,7 +41,7 @@ ______
 - *[Atul Jha]* - Atul Jha has been active in open source communities for over a decade.
 Currently, he is spending most of his time reading psychology and spreading philosophy - [@koolhead17](https://twitter.com/koolhead17)
 
-  You can find his rambling’s on his [blog](http://www.atuljha.com/blog)
+  You can find his rambling’s on his [blog](https://www.atuljha.com/blog)
 </P>
 ______
 #### How to Subscribe
@@ -54,7 +54,7 @@ ______
              <h6 align="center">iTunes</h6>
       	    </td>
             <td style="padding:5px">
-            	<a href="http://subscribeonandroid.com/feeds.feedburner.com/bangalorebits" title="Subscribe on Android"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_70,h_70,c_fill,r_max/v1518340519/bb-episode-assets/android_ekcrjy.png" alt="Android" style="border:0;" /></a>
+            	<a href="https://subscribeonandroid.com/feeds.feedburner.com/bangalorebits" title="Subscribe on Android"><img src="https://res.cloudinary.com/bangalorebits/image/upload/w_70,h_70,c_fill,r_max/v1518340519/bb-episode-assets/android_ekcrjy.png" alt="Android" style="border:0;" /></a>
               <h6> Android </h6>
              </td>
              <td style="padding:5px">
@@ -81,22 +81,22 @@ ______
 - [Podtail.com](https://podtail.com/podcast/bangalore-bits/)
 - [Podfantic.com](https://podfanatic.com/podcast/bangalore-bits)
 - [Podparadise.com](https://www.podparadise.com/Podcast/1052661140)
-- [Podcasts.com](http://www.podcasts.com/bangalore-bits-62)
+- [Podcasts.com](https://www.podcasts.com/bangalore-bits-62)
 - [Listen Notes](https://www.listennotes.com/c/d766a50d9f4f46f3b526f68127902cc6/bangalore-bits/?previous_pub_date=1511877923000)
 
 #### Curations
-- [rockingentrepreneur.com](http://rockingentrepreneur.com/list-of-indian-podcasts/)
+- [rockingentrepreneur.com](https://rockingentrepreneur.com/list-of-indian-podcasts/)
 - [reddit.com/r/india/wiki/podcasts](https://www.reddit.com/r/india/wiki/podcasts)
 
 ______
 ####  Credits / Special thanks to ...
-| [![StaticSiteGenerator](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517505145/site-assets/go-hugo.jpg)](http://gohugo.io)  | [![Theme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) | [![DeploysBy](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://www.netlify.com") |
+| [![StaticSiteGenerator](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517505145/site-assets/go-hugo.jpg)](https://gohugo.io)  | [![Theme](https://res.cloudinary.com/bangalorebits/image/upload/w_75,h_75,c_fill,r_max/v1517514878/site-assets/GitHub-Mark-120px-plus.png)](https://github.com/LouisBarranqueiro) | [![DeploysBy](https://www.netlify.com/img/global/badges/netlify-dark.svg)](https://www.netlify.com") |
 |:---:|:---:|:---:|
-| Site Generator: [*Gohugo.io*](http://gohugo.io) | Theme Creator: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Deploys By:  [*netlify*](https://www.netlify.com")|
+| Site Generator: [*Gohugo.io*](https://gohugo.io) | Theme Creator: [*Tranquilpeak*](https://github.com/LouisBarranqueiro) | Deploys By:  [*netlify*](https://www.netlify.com")|
 <BR>
 
-- [Bangalore Bits](https://www.bangalorebits.in) Designed, developed and maintained by *[Subrmani Jaisankar](http://twitter.com/subbuj)*
-- Images: *[unsplash](http://unsplash.com)*
+- [Bangalore Bits](https://www.bangalorebits.in) Designed, developed and maintained by *[Subrmani Jaisankar](https://twitter.com/subbuj)*
+- Images: *[unsplash](https://unsplash.com)*
 - Icons : *[Google Clod Engine]*
 
 ______

@@ -34,14 +34,14 @@ eVidyaloka is a not for profit organization focusing on transforming the educati
 - Partnership Model
 
 ##### Useful Resources
-  - [eVidyaloka.org ](http://www.evidyaloka.org)
-  - [What we do](http://www.evidyaloka.org/about/)
-  - [Start a School](http://www.evidyaloka.org/request_for_proposal/)
+  - [eVidyaloka.org ](https://www.evidyaloka.org)
+  - [What we do](https://www.evidyaloka.org/about/)
+  - [Start a School](https://www.evidyaloka.org/request_for_proposal/)
 
 ##### Credits
 
 {{< alert info  >}}
-  [Thumbnail - eVidyaloka] (http://www.evidyaloka.org) <BR>
+  [Thumbnail - eVidyaloka] (https://www.evidyaloka.org) <BR>
   [Intro Score - StevenKay](https://plus.google.com/+StevenKay_Detachment)<BR>
   [Guest - Venkat Sriraman](https://twitter.com/vensr2000)
 {{< /alert >}}
