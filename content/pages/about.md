@@ -1,9 +1,6 @@
 ---
-title: "Hello Listener! Welcome to Bangalore Bits"
-date: 2018-02-08T15:04:21+05:30
-categories:
-- podcast
-- Home
+title: "About Bangalore Bits Scroll Down"
+date: 2018-01-31T14:44:06+05:30
 tags:
 - Bangalore Bits
 - Tech Podcast
@@ -12,20 +9,12 @@ tags:
 - bangalorebits ama
 - contact us
 - about
-
-keywords:
-- disqus
-- google
-- gravatar
-autoThumbnailImage: false
 thumbnailImagePosition: "top"
-#thumbnailImage:  //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
-#thumbnailImage:   "/static/img/home-cover-small.png"
-#thumbnailImage:  https://res.cloudinary.com/bangalorebits/image/upload/v1517745472/site-assets/welcome-cover.png
-#coverImage:   //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
-coverImage:   "/static/img/welcome-cover-large.png"
+#coverImage:   "/static/img/welcome-cover-large.png"
+coverImage: "https://source.unsplash.com/1920x1080/?black-and-white"
 metaAlignment: center
 ---
+
 <P style="text-align: justify">
 **Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* thats emerging from **India** and global *tech events*.  
 
@@ -109,3 +98,5 @@ ______
 - [Bangalore Bits](https://www.bangalorebits.in) Designed, developed and maintained by *[Subrmani Jaisankar](http://twitter.com/subbuj)*
 - Images: *[unsplash](http://unsplash.com)*
 - Icons : *[Google Clod Engine]*
+
+______
