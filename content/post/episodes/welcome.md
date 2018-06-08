@@ -1,5 +1,5 @@
 ---
-title: "Hello Listener! Welcome to Bangalore Bits"
+title: "Hello Listener!"
 date: 2018-02-08T15:04:21+05:30
 categories:
 - podcast

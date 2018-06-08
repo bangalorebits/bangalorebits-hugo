@@ -22,7 +22,7 @@ title = "Bangalore Bits"
 theme = "hugo-tranquilpeak-theme"
 #disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
-paginate = 5
+paginate = 10
 canonifyurls = true
 
 [permalinks]
@@ -35,7 +35,7 @@ canonifyurls = true
 
 [author]
   name = "Bangalore Bits"
-  bio = "Bangalore Bits is a digital media division of Next20 LLP"
+  bio = "Bangalore Bits is a digital media division of Next20 Labs LLP"
   #job = "Bangalore,India"
   location = "Bangalore, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -170,7 +170,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 3
+  sidebarBehavior = 5
 
 
   # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
