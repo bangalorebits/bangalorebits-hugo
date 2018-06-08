@@ -27,13 +27,14 @@ coverImage:   "/static/img/welcome-cover-large.png"
 metaAlignment: center
 ---
 <P style="text-align: justify">
+
 **Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* thats emerging from **India** and global *tech events*.  
 
-*Software Engineering & Product Development* are the two broader themes for **Banglaore Bits**.
+*Software Engineering, Software Architecture, Developer Toolchain, Product Design and Product Development* are the broader themes for **Banglaore Bits**.
 </P>
 <!--more-->
 
-Thanks for tuning to **Bangalore Bits**, we hope you enjoy our shows. Please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
+Thanks for tuning to **Bangalore Bits**, we hope you enjoy our shows. Please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:feedback@bangalorebits.in)*
 
 If you have a suggestion, topic request,to showcase your interesting project or just want to say hello drop us a line at [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
 

@@ -13,9 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 #prod
-baseURL = "https://bangalorebits.in"
+#baseURL = "https://bangalorebits.in"
 #Dev
-#baseURL = "https://next--bangalorebits.netlify.com"
+baseURL = "https://next--bangalorebits.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
@@ -35,11 +35,11 @@ canonifyurls = true
 
 [author]
   name = "Bangalore Bits"
-  bio = "Tech Podcast Featuring Subramani Jaisankar & Subramanian Krishnan"
+  bio = "Tech Podcast Featuring Subramani Jaisankar"
   #job = "Bangalore,India"
   location = "Bangalore, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  #gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "staff@bangalorebits.in"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
 
@@ -82,8 +82,8 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question-circle\"></i>"
   url = "/pages/about"
-#[[menu.main]]
-#  weight = 6
+[[menu.main]]
+# weight = 7
 #  identifier = "search"
 #  name = "Search"
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-search\"></i>"
