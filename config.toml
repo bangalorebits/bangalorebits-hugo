@@ -35,7 +35,7 @@ canonifyurls = true
 
 [author]
   name = "Bangalore Bits"
-  bio = "Tech Podcast Featuring Subramani Jaisankar"
+  bio = "Bangalore Bits is a digital media division of Next20 LLP"
   #job = "Bangalore,India"
   location = "Bangalore, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -251,7 +251,7 @@ canonifyurls = true
 
   # Customize link of author avatar in sidebar
   [params.sidebar.profile]
-     url = "https://www.bangalorebits.in"
+     url = "/"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
