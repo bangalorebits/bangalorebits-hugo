@@ -13,9 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 #prod
-#baseURL = "https://bangalorebits.in"
+baseURL = "https://bangalorebits.in"
 #Dev
-baseURL = "https://next--bangalorebits.netlify.com"
+#baseURL = "https://next--bangalorebits.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
@@ -35,7 +35,7 @@ canonifyurls = true
 
 [author]
   name = "Bangalore Bits"
-  bio = "Bangalore Bits is a digital media division of Next20"
+  bio = "BangaloreBits is a Next20 Labs media initiative"
   #job = "Bangalore,India"
   location = "Bangalore, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
