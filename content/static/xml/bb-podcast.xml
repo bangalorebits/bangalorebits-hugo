@@ -51,11 +51,10 @@
 			 <enclosure url="https://audio.simplecast.com/2e0a3dfe.mp3" type="audio/mpeg" length="29591719"/>
 			 <itunes:author>Subramani Jaisankar</itunes:author>
 			 <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
-			 <itunes:duration>0:33:23</itunes:duration>
+			 <itunes:duration>15:23</itunes:duration>
 			 <itunes:explicit>no</itunes:explicit>
 			 <itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
-			 <itunes:subtitle>Corporate interests in open source and dev culture</itunes:subtitle>
-			 <itunes:subtitle>dev culture, ruby, programming</itunes:subtitle>
+			 <itunes:subtitle>RUBYCONF India 2018</itunes:subtitle>
 			 <itunes:summary>Avdi Grimm is in town(Bangalore) for RUBYCONF India 2018. Earlier today Atul Jha had a chance to sit with and talk about state of Ruby and other programming languages </itunes:summary>
 
 		</item>
@@ -91,11 +90,10 @@
 				<enclosure url="https://audio.simplecast.com/9242cb84.mp3" type="audio/mpeg" length="29591719"/>
 				<itunes:author>Subramani Jaisankar</itunes:author>
 				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
-				<itunes:duration>0:23:23</itunes:duration>
+				<itunes:duration>18:23</itunes:duration>
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
-				<itunes:subtitle>Corporate interests in open source and dev culture</itunes:subtitle>
-				<itunes:subtitle>DevOps</itunes:subtitle>
+				<itunes:subtitle>Red Hat acquires CoreOS</itunes:subtitle>
 				<itunes:summary>Red Hat to Acquire CoreOS, Expanding its Kubernetes and Containers Leadership </itunes:summary>
 		</item>
 
@@ -129,6 +127,13 @@
             <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
             <pubDate>Fri, 12 Jan 2018 9:05:23 EST</pubDate>
             <enclosure url="https://audio.simplecast.com/ba2122f4.mp3" type="audio/mpeg" length="59591719"/>
+						<itunes:author>Subramani Jaisankar</itunes:author>
+						<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+						<itunes:duration>43:00</itunes:duration>
+						<itunes:explicit>no</itunes:explicit>
+						<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+						<itunes:subtitle>CES 2018</itunes:subtitle>
+						<itunes:summary>What's new from CES 2018  </itunes:summary>
         </item>
 
 
@@ -167,6 +172,13 @@
 				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
 				<pubDate>Thu, 29 Dec 2017 9:05:23 EST</pubDate>
 				<enclosure url="https://audio.simplecast.com/360dbd6b.mp3" type="audio/mpeg" length="63591719"/>
+				<itunes:author>Subramani Jaisankar</itunes:author>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:duration>38:00</itunes:duration>
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+				<itunes:subtitle>Open source 2017</itunes:subtitle>
+				<itunes:summary>What are some of the Open source technologies that grabbed healdlines in 2017  </itunes:summary>
 		</item>
 
 
@@ -203,6 +215,13 @@
 				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
 				<pubDate>Thu, 23 Dec 2017 9:05:23 EST</pubDate>
 				<enclosure url="https://audio.simplecast.com/589ae017.mp3" type="audio/mpeg" length="63591719"/>
+				<itunes:author>Subramani Jaisankar</itunes:author>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:duration>25:00</itunes:duration>
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+				<itunes:subtitle>AWS re:INVENT 2017 - IoT</itunes:subtitle>
+				<itunes:summary>IoT Core, Greengrass,FreeRTOS,Greengrass ML </itunes:summary>
 		</item>
 
 
@@ -238,6 +257,13 @@
             <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
             <pubDate>Thu, 14 Dec 2017 9:05:23 EST</pubDate>
             <enclosure url="https://audio.simplecast.com/9b968163.mp3" type="audio/mpeg" length="63591719"/>
+						<itunes:author>Subramani Jaisankar</itunes:author>
+						<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+						<itunes:duration>34:00</itunes:duration>
+						<itunes:explicit>no</itunes:explicit>
+						<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+						<itunes:subtitle>AWS re:INVENT 2017 - ML and DeepLens</itunes:subtitle>
+						<itunes:summary>AWS: re:INVENT 2017 -DeepLens, InDeepLens, SageMaker, Transcribe </itunes:summary>
         </item>
 
 
@@ -272,6 +298,14 @@
     <pubDate>Thu, 07 Dec 2017 9:05:23 EST</pubDate>
     <enclosure url="https://audio.simplecast.com/a37de64f.mp3" type="audio/mpeg" length="53591719"/>
 
+		<itunes:author>Subramani Jaisankar</itunes:author>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:duration>41:00</itunes:duration>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+		<itunes:subtitle>Google For India 2017</itunes:subtitle>
+		<itunes:summary>Android Oreo Go Edition </itunes:summary>
+
 </item>
 
 
@@ -304,6 +338,14 @@
 	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
 	  <pubDate>Tue, 28 Nov 2017 9:05:23 EST</pubDate>
 		  <enclosure url="https://audio.simplecast.com/1c8ec90f.mp3" type="audio/mpeg" length="83591719"/>
+
+			<itunes:author>Subramani Jaisankar</itunes:author>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:duration>55:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+			<itunes:subtitle>Developer Trends 2017</itunes:subtitle>
+			<itunes:summary>Developer Survey Results 2017 </itunes:summary>
      </item>
 
 
@@ -347,6 +389,13 @@
 		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
 		<pubDate>Fri, 24 Nov 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/b46a4897.mp3" type="audio/mpeg" length="69591719"/>
+			<itunes:author>Subramani Jaisankar</itunes:author>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:duration>51:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+			<itunes:subtitle>India Tech News Roundup </itunes:subtitle>
+			<itunes:summary>Leaky Browsers,Language as service </itunes:summary>
 </item>
 
 
@@ -429,7 +478,13 @@
 		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
 		<pubDate>Fri, 03 Nov 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/aa4f7fe4.mp3" type="audio/mpeg" length="52591719"/>
-
+			<itunes:author>Subramani Jaisankar</itunes:author>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:duration>34:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+			<itunes:subtitle>Social Media Influence </itunes:subtitle>
+			<itunes:summary>Social Meida Influence, Disinformation, Bots,Trolls and Targetted Advertising </itunes:summary>
 
 
 		</item>

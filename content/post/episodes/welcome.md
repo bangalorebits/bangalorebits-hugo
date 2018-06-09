@@ -28,9 +28,9 @@ metaAlignment: center
 ---
 <P style="text-align: justify">
 
-**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* thats emerging from **India** and global *tech events*.  
+**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* that's emerging from **India** and global *tech events*.  
 
-*Software Engineering, Software Architecture, Developer Toolchain, Product Design and Product Development* are the broader themes for **Banglaore Bits**.
+*Software Engineering, Software Architecture, Developer Toolchain, Social Coding, Product Design and Product Development* are the broader themes for **Banglaore Bits**.
 </P>
 <!--more-->
 

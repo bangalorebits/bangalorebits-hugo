@@ -35,7 +35,7 @@ canonifyurls = true
 
 [author]
   name = "Bangalore Bits"
-  bio = "Bangalore Bits is a digital media division of Next20 Labs LLP"
+  bio = "Bangalore Bits is a digital media division of Next20"
   #job = "Bangalore,India"
   location = "Bangalore, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
