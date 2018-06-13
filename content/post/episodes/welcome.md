@@ -20,10 +20,11 @@ keywords:
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 #thumbnailImage:  //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
-#thumbnailImage:   "/static/img/home-cover-small.png"
 #thumbnailImage:  https://res.cloudinary.com/bangalorebits/image/upload/v1517745472/site-assets/welcome-cover.png
 #coverImage:   //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 coverImage:   "/static/img/welcome-cover-large.png"
+# For About Page
+#coverImage: "https://source.unsplash.com/1920x1080/?india?black-and-white"
 metaAlignment: center
 ---
 <P style="text-align: justify">

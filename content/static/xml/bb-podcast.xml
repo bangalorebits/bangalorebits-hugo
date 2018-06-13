@@ -11,7 +11,7 @@
 		<itunes:author>BB Network</itunes:author>
 		<itunes:summary>Conversations about Software Engineering, Software Architectures, toolchains, social coding, product design and product development with the developers, innovators, hackers, startup founders, Foss community leaders, product designers and product managers. In addition to the interviews, We do a detailed analysis of emerging technologies, news and global technology events. Hosted by Subramani Jaisankar.</itunes:summary>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
 		<itunes:owner>
       <itunes:name>BB Network</itunes:name>
@@ -23,7 +23,7 @@
     </itunes:category>
 		<image>
 			<title>BangaloreBits</title>
-			<url>https://www.bangalorebits.in/static/img/banner-medium.png</url>
+			<url>https://www.bangalorebits.in/static/img/banner-3000x.png</url>
 			<link>https://bangalorebits.in/</link>
 		</image>
 
@@ -50,7 +50,7 @@
 
 			 <enclosure url="https://audio.simplecast.com/2e0a3dfe.mp3" type="audio/mpeg" length="29591719"/>
 			 <itunes:author>Subramani Jaisankar</itunes:author>
-			 <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			 <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			 <itunes:duration>15:23</itunes:duration>
 			 <itunes:explicit>no</itunes:explicit>
 			 <itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -85,11 +85,11 @@
 						</ul>
 						</P>
 				]]></description>
-				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 				<pubDate>Mon, 05 Feb 2018 9:05:23 EST</pubDate>
 				<enclosure url="https://audio.simplecast.com/9242cb84.mp3" type="audio/mpeg" length="29591719"/>
 				<itunes:author>Subramani Jaisankar</itunes:author>
-				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 				<itunes:duration>18:23</itunes:duration>
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -124,11 +124,11 @@
                 </ul>
                 </P>
             ]]></description>
-            <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+            <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
             <pubDate>Fri, 12 Jan 2018 9:05:23 EST</pubDate>
             <enclosure url="https://audio.simplecast.com/ba2122f4.mp3" type="audio/mpeg" length="59591719"/>
 						<itunes:author>Subramani Jaisankar</itunes:author>
-						<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+						<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 						<itunes:duration>43:00</itunes:duration>
 						<itunes:explicit>no</itunes:explicit>
 						<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -169,11 +169,11 @@
 					 </ul>
 				</P>
 				]]></description>
-				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 				<pubDate>Thu, 29 Dec 2017 9:05:23 EST</pubDate>
 				<enclosure url="https://audio.simplecast.com/360dbd6b.mp3" type="audio/mpeg" length="63591719"/>
 				<itunes:author>Subramani Jaisankar</itunes:author>
-				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 				<itunes:duration>38:00</itunes:duration>
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -212,11 +212,11 @@
 						</ul>
 						</P>
 				]]></description>
-				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 				<pubDate>Thu, 23 Dec 2017 9:05:23 EST</pubDate>
 				<enclosure url="https://audio.simplecast.com/589ae017.mp3" type="audio/mpeg" length="63591719"/>
 				<itunes:author>Subramani Jaisankar</itunes:author>
-				<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+				<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 				<itunes:duration>25:00</itunes:duration>
 				<itunes:explicit>no</itunes:explicit>
 				<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -254,11 +254,11 @@
                 </ul>
                 </P>
             ]]></description>
-            <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+            <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
             <pubDate>Thu, 14 Dec 2017 9:05:23 EST</pubDate>
             <enclosure url="https://audio.simplecast.com/9b968163.mp3" type="audio/mpeg" length="63591719"/>
 						<itunes:author>Subramani Jaisankar</itunes:author>
-						<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+						<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 						<itunes:duration>34:00</itunes:duration>
 						<itunes:explicit>no</itunes:explicit>
 						<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -294,12 +294,12 @@
         </ul>
         </P>
     ]]></description>
-    <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+    <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
     <pubDate>Thu, 07 Dec 2017 9:05:23 EST</pubDate>
     <enclosure url="https://audio.simplecast.com/a37de64f.mp3" type="audio/mpeg" length="53591719"/>
 
 		<itunes:author>Subramani Jaisankar</itunes:author>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<itunes:duration>41:00</itunes:duration>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -335,12 +335,12 @@
           </ul>
       </P>
       ]]></description>
-	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 	  <pubDate>Tue, 28 Nov 2017 9:05:23 EST</pubDate>
 		  <enclosure url="https://audio.simplecast.com/1c8ec90f.mp3" type="audio/mpeg" length="83591719"/>
 
 			<itunes:author>Subramani Jaisankar</itunes:author>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<itunes:duration>55:00</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -386,11 +386,11 @@
 				</P>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Fri, 24 Nov 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/b46a4897.mp3" type="audio/mpeg" length="69591719"/>
 			<itunes:author>Subramani Jaisankar</itunes:author>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<itunes:duration>51:00</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -433,7 +433,7 @@
 				</P>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 09 Nov 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/33a4a1f1.mp3" type="audio/mpeg" length="52591719"/>
 
@@ -475,11 +475,11 @@
 				</P>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Fri, 03 Nov 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/aa4f7fe4.mp3" type="audio/mpeg" length="52591719"/>
 			<itunes:author>Subramani Jaisankar</itunes:author>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<itunes:duration>34:00</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
@@ -553,7 +553,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Sat, 28 Oct 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/633e65ea.mp3" type="audio/mpeg" length="82591719"/>
 
@@ -615,7 +615,7 @@ Factors for the Modern Web </a></li>
 
 
 	  ]]></description>
-	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 	  <pubDate>Mon, 16 Oct 2017 9:05:23 EST</pubDate>
 		  <enclosure url="https://audio.simplecast.com/631a1c60.mp3" type="audio/mpeg" length="83591719"/>
 
@@ -674,7 +674,7 @@ Factors for the Modern Web </a></li>
 
 
 	  ]]></description>
-	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 	  <pubDate>Thu, 05 Oct 2017 9:05:23 EST</pubDate>
 		  <enclosure url="https://audio.simplecast.com/0f779b65.mp3" type="audio/mpeg" length="83591719"/>
 
@@ -713,7 +713,7 @@ Factors for the Modern Web </a></li>
 
 
      ]]></description>
-     <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+     <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
      <pubDate>Fri, 22 SEP 2017 9:05:23 EST</pubDate>
      <enclosure url="https://audio.simplecast.com/4eaccbfd.mp3" type="audio/mpeg" length="70591719"/>
 
@@ -739,7 +739,7 @@ Factors for the Modern Web </a></li>
 
        ]]></description>
 
-       <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+       <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
        <pubDate>Fri, 15 SEP 2017 6:05:23 EST</pubDate>
        <enclosure url="https://audio.simplecast.com/6e8968c0.mp3" type="audio/mpeg" length="85591719"/>
 
@@ -764,7 +764,7 @@ Factors for the Modern Web </a></li>
 
        ]]></description>
 
-       <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+       <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
        <pubDate>Fri, 1 SEP 2017 6:05:23 EST</pubDate>
        <enclosure url="https://audio.simplecast.com/fa10dcbc.mp3" type="audio/mpeg" length="85591719"/>
 
@@ -814,7 +814,7 @@ Factors for the Modern Web </a></li>
 
        ]]></description>
 
-       <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+       <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
        <pubDate>Fri, 9 Aug 2017 9:05:23 EST</pubDate>
        <enclosure url="https://audio.simplecast.com/8b36f669.mp3" type="audio/mpeg" length="55591719"/>
 
@@ -868,7 +868,7 @@ Factors for the Modern Web </a></li>
 
         ]]></description>
 
-        <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+        <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
         <pubDate>Wed, 2 Aug 2017 9:05:23 EST</pubDate>
         <enclosure url="https://audio.simplecast.com/a5bbc4a5.mp3" type="audio/mpeg" length="57591719"/>
 
@@ -961,7 +961,7 @@ Factors for the Modern Web </a></li>
 
     ]]></description>
 
-    <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+    <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
     <pubDate>Tue, 25 Jul 2017 9:05:23 EST</pubDate>
     <enclosure url="https://audio.simplecast.com/008e3e32.mp3" type="audio/mpeg" length="37591719"/>
 
@@ -1023,7 +1023,7 @@ Factors for the Modern Web </a></li>
 
 
      ]]></description>
-     <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+     <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
      <pubDate>Fri, 16 Jun 2017 9:05:23 EST</pubDate>
      <enclosure url="https://audio.simplecast.com/fb888ffc.mp3" type="audio/mpeg" length="70591719"/>
 
@@ -1076,7 +1076,7 @@ Factors for the Modern Web </a></li>
 
 
      ]]></description>
-     <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+     <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
      <pubDate>THU, 8 Jun 2017 9:05:23 EST</pubDate>
      <enclosure url="https://audio.simplecast.com/b5b911f7.mp3" type="audio/mpeg" length="72591719"/>
 
@@ -1115,7 +1115,7 @@ Factors for the Modern Web </a></li>
 
 
        ]]></description>
-       <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+       <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
        <pubDate>Mon, 5 Jun 2017 9:05:23 EST</pubDate>
        <enclosure url="https://audio.simplecast.com/097cd9c0.mp3" type="audio/mpeg" length="51591719"/>
 
@@ -1184,7 +1184,7 @@ Factors for the Modern Web </a></li>
 
 
         ]]></description>
-        <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+        <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
         <pubDate>Fri, 2 Jun 2017 9:55:23 EST</pubDate>
         <enclosure url="https://audio.simplecast.com/2b3e3c52.mp3" type="audio/mpeg" length="59591719"/>
 
@@ -1227,7 +1227,7 @@ Factors for the Modern Web </a></li>
 
 
         ]]></description>
-        <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+        <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
         <pubDate>Tue, 23 May 2017 11:50:23 EST</pubDate>
         <enclosure url="https://audio.simplecast.com/aa4abc61.mp3" type="audio/mpeg" length="59591719"/>
 
@@ -1297,7 +1297,7 @@ Factors for the Modern Web </a></li>
 
 
         ]]></description>
-        <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+        <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
         <pubDate>Sat, 20 May 2017 12:30:24 EST</pubDate>
         <enclosure url="https://audio.simplecast.com/6a3873d8.mp3" type="audio/mpeg" length="59591719"/>
 
@@ -1347,7 +1347,7 @@ Factors for the Modern Web </a></li>
 
 
         ]]></description>
-        <itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+        <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
         <pubDate>Sat, 06 May 2017 12:30:24 EST</pubDate>
         <enclosure url="https://audio.simplecast.com/226ae3db.mp3" type="audio/mpeg" length="49591719"/>
 
@@ -1402,7 +1402,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Mon, 10 Apr 2017 09:43:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/ddf060b2.mp3" type="audio/mpeg" length="52591719"/>
 
@@ -1450,7 +1450,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 9 Mar 2017 09:43:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/d6dd5d1d.mp3" type="audio/mpeg" length="42591719"/>
 
@@ -1495,7 +1495,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Wed, 1 Mar 2017 09:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/4694c93f.mp3" type="audio/mpeg" length="52591719"/>
 
@@ -1551,7 +1551,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 21 Feb 2017 08:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/7601817c.mp3" type="audio/mpeg" length="31591719"/>
 
@@ -1576,7 +1576,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 14 Feb 2017 08:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/e3613ab7.mp3" type="audio/mpeg" length="31591718"/>
 
@@ -1602,7 +1602,7 @@ Factors for the Modern Web </a></li>
 						 <li><a href="https://www.livemint.com/Politics/ns8z7JTxYLQc5AdGmlvtiN/Why-Jaitleys-Union-budget-didnt-provide-for-universal-basi.html">Why Arun Jaitley gave universal basic income a miss in Union Budget 2017</a></li>
 					<li><a href="https://indiabudget.nic.in/es2016-17/echapter.pdf">Economic Survey 2016-17</a></li>
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 3 Feb 2017 08:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/06fe1b80.mp3" type="audio/mpeg" length="49591718"/>
 	</item>
@@ -1633,7 +1633,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 27 Jan 2017 06:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/93b64a2f.mp3" type="audio/mpeg" length="40591718"/>
 	</item>
@@ -1664,7 +1664,7 @@ Factors for the Modern Web </a></li>
 					<li><a href="https://www.androidheadlines.com/2016/05/eyesights-vr-gesture-controls-use-phone-cameras.html">eyeSight's VR Gesture Controls Use Phone Cameras | Androidheadlines.com </a></li>
 
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 19 Jan 2017 05:42:24 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/de062e04.mp3" type="audio/mpeg" length="60591718"/>
 		</item>
@@ -1708,7 +1708,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Fri, 6 Jan 2017 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/00ddd30f.mp3" type="audio/mpeg" length="50591718"/>
 	</item>
@@ -1734,7 +1734,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Thu, 8 Dec 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/4efddbf0.mp3" type="audio/mpeg" length="69591718"/>
 	</item>
@@ -1761,7 +1761,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://www.cnbc.com/2013/12/12/cashless-society-a-huge-threat-to-our-freedomcommentary.html">Cashless society: A huge threat to our freedom</a></li>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Tue, 24 NOV 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/cfaa2b95.mp3" type="audio/mpeg" length="69591718"/>
 	</item>
@@ -1791,7 +1791,7 @@ Factors for the Modern Web </a></li>
 
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Tue, 17 NOV 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/6d940ecf.mp3" type="audio/mpeg" length="59591718"/>
 	</item>
@@ -1821,7 +1821,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://economictimes.indiatimes.com/magazines/panache/youtube-bets-big-on-indias-tech-savvy-kids-with-new-app/articleshow/55339932.cms">You Tube For Kids India </a></li>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Tue, 10 NOV 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/53f71dce.mp3" type="audio/mpeg" length="49591718"/>
 	</item>
@@ -1848,7 +1848,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://blog.google/products/chromecast/fastest-chromecast-yet-4k-and-hdr-support/">Chromecast with 4K </a></li>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Tue, 6 OCT 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/20bc8682.mp3" type="audio/mpeg" length="69591718"/>
 	</item>
@@ -1873,7 +1873,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://techcrunch.com/2016/09/16/highlights-from-disrupt-sf-2016/">Highlights from Disrupt SF 2016 </a></li>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Tue, 26 Sep 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/386204de.mp3" type="audio/mpeg" length="39591718"/>
 	</item>
@@ -1905,7 +1905,7 @@ Factors for the Modern Web </a></li>
 					<li><a href="https://www.forbes.com/sites/gordonkelly/2016/09/07/iphone-7-vs-iphone-7-plus-whats-the-difference/#7eeaf4ca3a9d)">Dfference Between iPhone 7 Vs iPhone 7 Plus Plus </a></li>	</ul>
 
 		]]></description>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Tue, 13 Sep 2016 04:42:24 EST</pubDate>
 		<enclosure url="https://audio.simplecast.com/c196921c.mp3" type="audio/mpeg" length="79591718"/>
 	</item>
@@ -1935,7 +1935,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://economictimes.indiatimes.com/articleshow/53543285.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst">IBM unveils MobileFirst for iOS Garage in India</a></li>
 
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Mon, 17 Aug 2016 10:42:24 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/782ab09d.mp3" type="audio/mpeg" length="59591718"/>
 		</item>
@@ -1957,7 +1957,7 @@ Factors for the Modern Web </a></li>
 
 
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Mon, 03 Jul 2016 10:42:24 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/c72acf5c.mp3" type="audio/mpeg" length="79591718"/>
 		</item>
@@ -1989,7 +1989,7 @@ Factors for the Modern Web </a></li>
 
 							<li><a href="https://www.kpcb.com/blog/tag/Internet%20Trends">Mary Meeker Internet Trends 2016</a></li>
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Mon, 27 Jun 2016 08:42:24 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/2d8f4563.mp3" type="audio/mpeg" length="79591818"/>
 		</item>
@@ -2008,7 +2008,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://www.apple.com/macos/sierra-preview/"> macOS Sierra </a></li>
 						<li><a href="https://www.apple.com/swift/playgrounds/"> Swift Playgrounds </a></li>
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Sat, 14 Jun 2016 08:41:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/2a3cc37e.mp3" type="audio/mpeg" length="59591818"/>
 		</item>
@@ -2026,11 +2026,11 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://developer.apple.com/wwdc/schedule/"> WWDC16 Schedule  </a></li>
 						<li><a href="https://www.recode.net"> CodeConf 2016  </a></li>
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Sat, 12 Jun 2016 08:13:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/9e55d48f.mp3" type="audio/mpeg" length="57491818"/>
 		</item>
-		<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<item>
 			<title>BB 26: Computex 2016  Taipei </title>
 			<link>https://bangalorebits.in/post/145387270449/bb26</link>
@@ -2049,7 +2049,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://www.anandtech.com/show/10337/the-intel-broadwell-e-review-core-i7-6950x-6900k-6850k-and-6800k-tested-up-to-10-cores">Broadwell-E</li>
 
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Sat, 4 Jun 2016 08:26:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/ea7795e1.mp3" type="audio/mpeg" length="57491918"/>
 		</item>
@@ -2071,7 +2071,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html">Google supercharges machine learning tasks with TPU custom chip</a></li>
 
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Tue, 23 May 2016 08:25:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/a7d3ae86.mp3" type="audio/mpeg" length="67491918"/>
 		</item>
@@ -2091,7 +2091,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://www.androidpolice.com/2016/05/18/new-challenger-appears-xiaomis-mi-box-4k-ready-android-tv-device-coming-us-soon/">Xiomi Mi box - 4k ready setup box</a></li>
 
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Tue, 20 May 2016 08:25:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/dea2f747.mp3" type="audio/mpeg" length="47491918"/>
 		</item>
@@ -2111,7 +2111,7 @@ Factors for the Modern Web </a></li>
 					  <li><a href="https://thenextweb.com/gadgets/2016/05/12/pebble-brings-affordable-smartwatches-india-last-starting-rs-6000/">Pebble brings its affordable smartwatches to India at last</a></li>
 					 <li><a href="https://timesofindia.indiatimes.com/tech/tech-news/Map-law-wont-hurt-tech-firms-but-companies-like-Google-will-have-to-depict-maps-correctly-Kiren-Rijiju/articleshow/52231789.cms">Map law won't hurt tech firms, but companies like Google will have to depict maps correctly: Kiren Rijiju</a></li>
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Sat, 14 May 2016 12:57:24 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/5ee3230b.mp3" type="audio/mpeg" length="46491918"/>
 		</item>
@@ -2127,7 +2127,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://gadgets.ndtv.com/internet/news/oxigen-wallet-denies-alleged-hack-says-blog-undergoing-maintenance-749323">Oxigen Wallet Denies Alleged Hack, Says Blog Undergoing Maintenance</a></li>
 						<li><a href="https://www.inforisktoday.in/singapore-debates-breach-disclosure-a-8512"> Singapore Debates Breach Disclosure </a></li>
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Fri, 6 May 2016 08:58:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/8747655c.mp3" type="audio/mpeg" length="40491918"/>
 		</item>
@@ -2144,7 +2144,7 @@ Factors for the Modern Web </a></li>
 						<li><a href="https://www.nextplatform.com/2016/01/14/will-amds-seattle-push-arm-servers-into-the-mainstream/"> Will AMD’s Seattle Push ARM Servers Into The Mainstream? </a></li>
 						<li><a href="www.pcworld.com/article/3026727/linaro-provides-go-to-linux-based-software-stack-for-arm-servers.html">Linaro provides go-to Linux-based software stack for ARM servers </a></li>
 			]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Tue, 26 Apr 2016 08:58:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/95c78103.mp3" type="audio/mpeg" length="50491918"/>
 		</item>
@@ -2163,7 +2163,7 @@ Factors for the Modern Web </a></li>
 					    <li><a href="https://www.jide.com/remixos-for-pc">Remix OS for PC</a></li>
 						<li><a href="https://www.team-bhp.com/news/zoomcar-associate-program-lease-car-zoomcar">Zoomcar Associate Program - lease a car to Zoomcar </a></li>
 l> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 14 Apr 2016 04:58:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/2b04cbfc.mp3" type="audio/mpeg" length="65491918"/>
 		</item>
@@ -2185,7 +2185,7 @@ New DisplayPort 1.4 standard can drive 8K monitors over a USB Type-C cable</a></
 						<li><a href="https://arstechnica.com/gadgets/2016/02/cyanogen-launches-the-mod-platform-with-lots-of-microsoft-integration/?comments=1">
 Cyanogen launches the “Mod” platform, with lots of Microsoft integration</a></li>
 l> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 4 Mar 2016 08:29:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/4532c0f8.mp3" type="audio/mpeg" length="65491918"/>
 		</item>
@@ -2210,7 +2210,7 @@ l> ]]></description>
 					 <li><a href="https://timesofindia.indiatimes.com/tech/tech-news/Apple-confirms-opening-of-development-centre-in-Hyderabad/articleshow/51008769.cms">Apple confirms opening of development centre in Hyderabad - Times of India</a></li>
 					 <li><a href="https://time.com/4226992/india-cheapest-smartphone-freedom-251/">A Smartphone That Costs $4 Is Set to Launch in India</a></li>
 					 l> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 18 Feb 2016 07:49:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/80019729.mp3" type="audio/mpeg" length="55491918"/>
 		</item>
@@ -2227,7 +2227,7 @@ l> ]]></description>
 				<li><a href="https://swiftlang.ng.bluemix.net/?cm_mmc=developerWorks-_-dWdevcenter-_-swift-_-lp#/repl">IBM Swift Sandbox</a></li>
 				<li><a href="https://perfect.org/">Server Side Swift</a></li>
 			</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Tue, 16 Feb 2016 07:53:12 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/2b2ac0ac.mp3" type="audio/mpeg" length="38742204"/>
 		</item>
@@ -2248,7 +2248,7 @@ l> ]]></description>
 				<li><a href="https://www.bosslinux.in/">Bharat Operating System</a></li>
 			  <li><a href="https://www.livemint.com/Companies/lwmiZbLQu0HryQ2KlngJWJ/Snapdeal-owner-Jasper-Infotech-reports-Rs1328-crore-loss.html">Snapdeal owner Jasper Infotech reports Rs1328 crore loss</a></li>
 </ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 21 Jan 2016 07:23:12 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/a69cbfee.mp3" type="audio/mpeg" length="38742204"/>
 		</item>
@@ -2265,7 +2265,7 @@ l> ]]></description>
 				<li><a href="https://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/why-wireless-power-is-the-most-exciting-thing-at-ces">Why Wireless Power Is the Most Exciting Thing at CES 2016</a></li>
 				<li><a href="https://www.owletcare.com/">Owlet</a></li>
 			</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 14 Jan 2016 08:53:12 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/d55d7633.mp3" type="audio/mpeg" length="55491918"/>
 		</item>
@@ -2292,7 +2292,7 @@ l> ]]></description>
 			  <li><a href="https://ssd.eff.org/en/module/how-encrypt-your-iphone/">How to Encrypt your iPhone</a></li>
 				<li><a href="https://www.thehindu.com/business/Industry/netflix-launches-in-india-130-other-countries/article8075764.ece">Netflix Launches in India</a></li>
 		</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 7 Jan 2016 09:09:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/f33e4c98.mp3" type="audio/mpeg" length="55491918"/>
 		</item>
@@ -2310,7 +2310,7 @@ l> ]]></description>
 				<li><a href="https://www.techinasia.com/talk/facebook-misleading-indians-fullpage-ads-free-basics">Facebook is misleading Indians with its full-page ads about Free Basics </a></li>
 				<li><a href="https://www.technologyreview.com/news/541351/facebooks-like-buttons-will-soon-track-your-web-browsing-to-target-ads/">Facebook’s Like Buttons Will Soon Track Your Web Browsing to Target Ads </a></li>
 	</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Wed, 30 Dec 2015 09:09:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/9fff2142.mp3" type="audio/mpeg" length="40588414"/>
 		</item>
@@ -2325,7 +2325,7 @@ l> ]]></description>
 				<li><a href="https://medium.com/backchannel/how-elon-musk-and-y-combinator-plan-to-stop-computers-from-taking-over-17e0e27dd02a#.k6gv3s1up">How Elon Musk and Y Combinator Plan to Stop Computers From Taking Over</a></li>
 				<li><a href="https://www.alchemyapi.com/">Build Smarter Apps </a></li>
 		</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Fri, 21 Dec 2015 09:09:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/6c2bfd1c.mp3" type="audio/mpeg" length="40588414"/>
 		</item>
@@ -2340,7 +2340,7 @@ l> ]]></description>
 				<br/><a href="https://www.facebook.com/help/contact/827299783957064">FaceBook at work  Signing Up</a>
 				<br/><a href="https://itunes.apple.com/us/app/facebook-at-work/id944921229?mt=8">IOS App</a>
 				<br/><a href="https://play.google.com/store/apps/details?id=com.facebook.workchat">Facebook Work Chat</a>]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Fri, 11 Dec 2015 09:09:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/d8af8c84.mp3" type="audio/mpeg" length="38202381"/>
 		</item>
@@ -2353,7 +2353,7 @@ l> ]]></description>
 				<ul>
 				<li><a href="https://www.apple.com/researchkit/">researchkit </a></li>
 			</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 26 Nov 2015 10:33:22 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/fce87df5.mp3" type="audio/mpeg" length="33541615"/>
 		</item>
@@ -2362,7 +2362,7 @@ l> ]]></description>
 			<link>https://bangalorebits.in/post/135428471629/bbep9</link>
 			<guid>https://bangalorebits.in/post/135428471629/bbep9</guid>
 			<description>Round up of India tech news</description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Tue, 20 Oct 2015 14:30:00 EDT</pubDate>
 			<enclosure url="https://audio.simplecast.com/2f69bebc.mp3" type="audio/mpeg" length="43646760"/>
 		</item>
@@ -2374,7 +2374,7 @@ l> ]]></description>
 				India’s Antitrust Commission Accuses Google Of Rigging Its Search Results
 				<br/> Google OnHub
 				<br/> Linus Torvalds on the state of software security, the Internet of Things, and the future of Linux]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Sun, 06 Sep 2015 02:38:27 EDT</pubDate>
 			<enclosure url="https://audio.simplecast.com/bcba99c2.mp3" type="audio/mpeg" length="46794307"/>
 		</item>
@@ -2385,7 +2385,7 @@ l> ]]></description>
 			<description><![CDATA[
 				evidyaloka.org co-founder Venkat Sriraman shares his startup journey.
 				<br/>eVidyaloka is a not for profit organization focusing on transforming the education landscape in the rural and remote regions of the India]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Thu, 12 Mar 2015 14:30:00 EDT</pubDate>
 			<enclosure url="https://audio.simplecast.com/e36313e7.mp3" type="audio/mpeg" length="77971191"/>
 		</item>
@@ -2398,7 +2398,7 @@ l> ]]></description>
 				<ul>
 				<li><a href="https://www.cloudfoundry.org/">Cloud Foundry </a></li>
 			</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Wed, 18 Feb 2015 13:30:00 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/73920edc.mp3" type="audio/mpeg" length="59669970"/>
 		</item>
@@ -2411,7 +2411,7 @@ l> ]]></description>
 					<ul>
 					<li><a href="https://developer.apple.com/library/ios/documentation/Miscellaneous/Reference/HealthKitUI_Framework/index.html#//apple_ref/doc/uid/TP40016713">healthkit</a></li>
 				</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Wed, 28 Jan 2015 13:30:00 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/96d346fc.mp3" type="audio/mpeg" length="79991761"/>
 		</item>
@@ -2424,7 +2424,7 @@ l> ]]></description>
 				<ul>
 					<li><a href="https://www.freenas.org/https://www.freenas.org/">FreeNAS</a></li>
 				</ul> ]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Mon, 15 Dec 2014 13:30:00 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/a01371d2.mp3" type="audio/mpeg" length="54019771"/>
 		</item>
@@ -2437,7 +2437,7 @@ l> ]]></description>
 				<br/> Introduction to Apple Watchkit
 				<br/> Experience with Pebble and introduction to Pebble SDK
 				<br/> India Tech News - Oneplus One Launch, Cyanogen Mod Micromax Deal etc.]]></description>
-			<itunes:image href="https://www.bangalorebits.in/static/img/banner-medium.png"/>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 			<pubDate>Mon, 01 Dec 2014 13:32:00 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/7d3a785a.mp3" type="audio/mpeg" length="82461397"/>
 		</item>

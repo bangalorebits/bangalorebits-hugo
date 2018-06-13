@@ -13,9 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 #prod
-baseURL = "https://bangalorebits.in"
+#baseURL = "https://bangalorebits.in"
 #Dev
-#baseURL = "https://next--bangalorebits.netlify.com"
+baseURL = "https://next--bangalorebits.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
@@ -39,12 +39,12 @@ canonifyurls = true
   #job = "Bangalore,India"
   location = "Bangalore, India"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "staff@bangalorebits.in"
+  #gravatarEmail = "staff@bangalorebits.in"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
 
   #picture = "https://cdn4.iconfinder.com/data/icons/adiante-apps-app-templates-incos-in-grey/128/app_type_conference_512px_GREY.png"
-  #picture = "../static/img/bb-512.png"
+  picture = "../static/img/bb-512.png"
 
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "bangalorebits"

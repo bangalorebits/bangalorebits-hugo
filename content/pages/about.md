@@ -1,6 +1,9 @@
 ---
-title: "About Bangalore Bits Scroll Down"
-date: 2018-01-31T14:44:06+05:30
+title: "Hello Listener!"
+date: 2018-02-08T15:04:21+05:30
+categories:
+- podcast
+- Home
 tags:
 - Bangalore Bits
 - Tech Podcast
@@ -9,20 +12,30 @@ tags:
 - bangalorebits ama
 - contact us
 - about
+
+keywords:
+- disqus
+- google
+- gravatar
+autoThumbnailImage: false
 thumbnailImagePosition: "top"
+#thumbnailImage:  //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
+#thumbnailImage:  https://res.cloudinary.com/bangalorebits/image/upload/v1517745472/site-assets/welcome-cover.png
+#coverImage:   //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 #coverImage:   "/static/img/welcome-cover-large.png"
+# For About Page
 coverImage: "https://source.unsplash.com/1920x1080/?india?black-and-white"
 metaAlignment: center
 ---
-
 <P style="text-align: justify">
-**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* thats emerging from **India** and global *tech events*.  
 
-*Software Engineering & Product Development* are the two broader themes for **Banglaore Bits**.
+**Bangalore Bits** is a **weekly** podcast created to follow *emerging technologies*. We mostly keep our discussions focused around capturing developer *stories*, *tools* they use, *technologies* they are passionate about and interesting *projects* they are working on so forth. Sometimes we gravitate towards *technology news* that's emerging from **India** and global *tech events*.  
+
+*Software Engineering, Software Architecture, Developer Toolchain, Social Coding, Product Design and Product Development* are the broader themes for **Banglaore Bits**.
 </P>
 <!--more-->
 
-Thanks for tuning to **Bangalore Bits**, we hope you enjoy our shows. Please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:comments@next20.in)*
+Thanks for tuning to **Bangalore Bits**, we hope you enjoy our shows. Please share your **feedback** on *Twitter*[@bangalorebits](https://twitter.com/bangalorebits) or *[Email Us](mailto:feedback@bangalorebits.in)*
 
 If you have a suggestion, topic request,to showcase your interesting project or just want to say hello drop us a line at [bangalorebits/ama](https://github.com/bangalorebits/ama/issues)
 
@@ -98,5 +111,3 @@ ______
 - [Bangalore Bits](https://www.bangalorebits.in) Designed, developed and maintained by *[Subrmani Jaisankar](https://twitter.com/subbuj)*
 - Images: *[unsplash](https://unsplash.com)*
 - Icons : *[Google Clod Engine]*
-
-______
