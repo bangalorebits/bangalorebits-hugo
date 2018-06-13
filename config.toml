@@ -13,9 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 #prod
-#baseURL = "https://bangalorebits.in"
+baseURL = "https://bangalorebits.in"
 #Dev
-baseURL = "https://next--bangalorebits.netlify.com"
+#baseURL = "https://next--bangalorebits.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Bangalore Bits"
