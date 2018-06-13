@@ -399,7 +399,7 @@
 </item>
 
 
-<item>
+<!-- <item>
 		<title>BB 65: Serverless Compute </title>
 		<link>https://bangalorebits.in/post/167306720284/bb65</link>
 		<guid>https://bangalorebits.in/post/167306720284/bb65</guid>
@@ -437,7 +437,7 @@
 		<pubDate>Thu, 09 Nov 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/33a4a1f1.mp3" type="audio/mpeg" length="52591719"/>
 
-		</item>
+		</item> -->
 
 <item>
 		<title>BB 64: Social Media Influence </title>
@@ -556,26 +556,14 @@ Factors for the Modern Web </a></li>
 		<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 		<pubDate>Sat, 28 Oct 2017 9:05:23 EST</pubDate>
 			<enclosure url="https://audio.simplecast.com/633e65ea.mp3" type="audio/mpeg" length="82591719"/>
-
-
-
+			<itunes:author>Subramani Jaisankar</itunes:author>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
+			<itunes:duration>52:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+			<itunes:subtitle>Security and Privacy </itunes:subtitle>
+			<itunes:summary>WPA2 vulnerability, IOTroop Botnet, Tokenization, Privacy tools </itunes:summary>
 		</item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 	  <item>
@@ -618,32 +606,15 @@ Factors for the Modern Web </a></li>
 	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 	  <pubDate>Mon, 16 Oct 2017 9:05:23 EST</pubDate>
 		  <enclosure url="https://audio.simplecast.com/631a1c60.mp3" type="audio/mpeg" length="83591719"/>
-
-
+			<itunes:author>Subramani Jaisankar</itunes:author>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
+			<itunes:duration>53:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+			<itunes:subtitle>Amazon Hardware Event 2017</itunes:subtitle>
+			<itunes:summary>Alexa, Echo Spot, Echo Look, Echo Plus, Echo Dot, Echo buttons  </itunes:summary>
 
 	 </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 		<item>
@@ -677,6 +648,13 @@ Factors for the Modern Web </a></li>
 	  <itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
 	  <pubDate>Thu, 05 Oct 2017 9:05:23 EST</pubDate>
 		  <enclosure url="https://audio.simplecast.com/0f779b65.mp3" type="audio/mpeg" length="83591719"/>
+			<itunes:author>Subramani Jaisankar</itunes:author>
+			<itunes:image href="https://www.bangalorebits.in/static/img/banner-3000x.png"/>
+			<itunes:duration>54:00</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>bangalorebits,bangalore bits, open source, software, development, code, programming, hacker, software engineering,software architectures,product development</itunes:keywords>
+			<itunes:subtitle>Made By Google 2017</itunes:subtitle>
+			<itunes:summary>Google, Made By Google 2017  </itunes:summary>
 
 	 </item>
 
